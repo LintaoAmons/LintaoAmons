@@ -1,3 +1,11 @@
+## Hi there
+
+- I'm Lintao, a bankend developer.
+
+- I'm also a vim/terminal lover and recently fall in love with go language.
+
+- You can contact me by wechat: LinTaoAmons
+
 [![Lintao's GitHub stats](https://github-readme-stats.vercel.app/api?username=LintaoAmons)](https://github.com/LintaoAmons/github-readme-stats)
 
 
