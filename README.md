@@ -1,6 +1,6 @@
 ### 👋 Hi
 
-I'm Lintao, a bankend developer.
+I'm Lintao, a backend developer.
 
 I'm also a vim/terminal lover and recently fall in love with go language.
 
