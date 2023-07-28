@@ -1,6 +1,6 @@
 ### 👋 Hi
 
-I'm Lintao, a backend developer.
+I am Lintao, currently working as a backend developer at Thoughtwork/Singapore.
 
 I'm also a vim/terminal lover and recently fall in love with go language.
 
