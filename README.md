@@ -30,9 +30,9 @@
 
 #### 👯 Check out some of my recent followers
 
+- [Sichuang90](https://github.com/Sichuang90)
 - [gxt-kt](https://github.com/gxt-kt)
 - [petermeng](https://github.com/petermeng)
-- [naranyala](https://github.com/naranyala)
 
 #### 📫 How to reach me
 Say Hello, I don't bite!
