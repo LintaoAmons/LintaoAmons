@@ -18,9 +18,9 @@
 
 #### ⭐ Recent Stars
 
+- [ryanmsnyder/toggleterm-manager.nvim](https://github.com/ryanmsnyder/toggleterm-manager.nvim) - A Telescope extension to manage Toggleterm&#39;s terminals in NeoVim (today)
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀 (today)
 - [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast. (1 day ago)
-- [Saluki/nestjs-template](https://github.com/Saluki/nestjs-template) - Scaffold quickly your next TypeScript API with this opinionated NestJS template crafted for Docker environments (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
