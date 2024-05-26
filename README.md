@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) - Your new bookmarks option: simple yet powerful (today)
 - [LintaoAmons/scratch.nvim](https://github.com/LintaoAmons/scratch.nvim) - Create temporary playground files effortlessly. Find them later without worrying about filenames or locations. (1 day ago)
 - [LintaoAmons/CoolStuffes](https://github.com/LintaoAmons/CoolStuffes) - 我的分享放这里了，大家随便拿去用啊，记得给个星星就行啦～ (1 day ago)
 - [LintaoAmons/lintao-index](https://github.com/LintaoAmons/lintao-index) -  (1 day ago)
 - [LintaoAmons/cd-project.nvim](https://github.com/LintaoAmons/cd-project.nvim) - I tried quite a lot `Project Management` plugins. In the end, I found all I need is just an easier way to `cd` to another project directory. (2 days ago)
-- [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) - Your new bookmarks option: simple yet powerful (3 weeks ago)
 
 #### 📜 My recent blog posts
 
@@ -18,9 +18,9 @@
 
 #### ⭐ Recent Stars
 
+- [actualbudget/actual-server](https://github.com/actualbudget/actual-server) - Actual&#39;s server (today)
 - [ryanmsnyder/toggleterm-manager.nvim](https://github.com/ryanmsnyder/toggleterm-manager.nvim) - A Telescope extension to manage Toggleterm&#39;s terminals in NeoVim (today)
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀 (today)
-- [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast. (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
