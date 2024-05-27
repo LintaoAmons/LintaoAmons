@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) - Your new bookmarks option: simple yet powerful (today)
-- [LintaoAmons/scratch.nvim](https://github.com/LintaoAmons/scratch.nvim) - Create temporary playground files effortlessly. Find them later without worrying about filenames or locations. (1 day ago)
-- [LintaoAmons/CoolStuffes](https://github.com/LintaoAmons/CoolStuffes) - 我的分享放这里了，大家随便拿去用啊，记得给个星星就行啦～ (1 day ago)
-- [LintaoAmons/lintao-index](https://github.com/LintaoAmons/lintao-index) -  (1 day ago)
-- [LintaoAmons/cd-project.nvim](https://github.com/LintaoAmons/cd-project.nvim) - I tried quite a lot `Project Management` plugins. In the end, I found all I need is just an easier way to `cd` to another project directory. (2 days ago)
+- [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) - Your new bookmarks option: simple yet powerful (1 day ago)
+- [LintaoAmons/scratch.nvim](https://github.com/LintaoAmons/scratch.nvim) - Create temporary playground files effortlessly. Find them later without worrying about filenames or locations. (2 days ago)
+- [LintaoAmons/CoolStuffes](https://github.com/LintaoAmons/CoolStuffes) - 我的分享放这里了，大家随便拿去用啊，记得给个星星就行啦～ (2 days ago)
+- [LintaoAmons/lintao-index](https://github.com/LintaoAmons/lintao-index) -  (2 days ago)
+- [LintaoAmons/cd-project.nvim](https://github.com/LintaoAmons/cd-project.nvim) - I tried quite a lot `Project Management` plugins. In the end, I found all I need is just an easier way to `cd` to another project directory. (3 days ago)
 
 #### 📜 My recent blog posts
 
@@ -14,19 +14,19 @@
 - [使用 asdf 来安装特定 nodejs 版本](https://lintao-index.pages.dev/blog/2024/02/24/asdf-demo-flow) (3 months ago)
 - [js/ts 生态框架](https://lintao-index.pages.dev/blog/2024/02/11/ts-fullstack-frameworks) (3 months ago)
 - [Single and double quotes](https://lintao-index.pages.dev/blog/2024/02/03/single-and-double-quote) (3 months ago)
-- [UTM](https://lintao-index.pages.dev/blog/2024/01/28/utm) (3 months ago)
+- [UTM](https://lintao-index.pages.dev/blog/2024/01/28/utm) (4 months ago)
 
 #### ⭐ Recent Stars
 
-- [actualbudget/actual-server](https://github.com/actualbudget/actual-server) - Actual&#39;s server (today)
-- [ryanmsnyder/toggleterm-manager.nvim](https://github.com/ryanmsnyder/toggleterm-manager.nvim) - A Telescope extension to manage Toggleterm&#39;s terminals in NeoVim (today)
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀 (today)
+- [actualbudget/actual-server](https://github.com/actualbudget/actual-server) - Actual&#39;s server (1 day ago)
+- [ryanmsnyder/toggleterm-manager.nvim](https://github.com/ryanmsnyder/toggleterm-manager.nvim) - A Telescope extension to manage Toggleterm&#39;s terminals in NeoVim (1 day ago)
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀 (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [LintaoAmons/scratch.nvim](https://github.com/LintaoAmons/scratch.nvim) ([v0.13.3](https://github.com/LintaoAmons/scratch.nvim/releases/tag/v0.13.3), 1 day ago) - Create temporary playground files effortlessly. Find them later without worrying about filenames or locations.
+- [LintaoAmons/scratch.nvim](https://github.com/LintaoAmons/scratch.nvim) ([v0.13.3](https://github.com/LintaoAmons/scratch.nvim/releases/tag/v0.13.3), 2 days ago) - Create temporary playground files effortlessly. Find them later without worrying about filenames or locations.
 - [LintaoAmons/cd-project.nvim](https://github.com/LintaoAmons/cd-project.nvim) ([v0.6.1](https://github.com/LintaoAmons/cd-project.nvim/releases/tag/v0.6.1), 1 week ago) - I tried quite a lot `Project Management` plugins. In the end, I found all I need is just an easier way to `cd` to another project directory.
-- [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) ([v0.5.3](https://github.com/LintaoAmons/bookmarks.nvim/releases/tag/v0.5.3), 3 weeks ago) - Your new bookmarks option: simple yet powerful
+- [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) ([v0.5.3](https://github.com/LintaoAmons/bookmarks.nvim/releases/tag/v0.5.3), 4 weeks ago) - Your new bookmarks option: simple yet powerful
 
 #### 👯 Check out some of my recent followers
 
