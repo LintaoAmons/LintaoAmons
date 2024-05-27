@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [LintaoAmons/lintao-index](https://github.com/LintaoAmons/lintao-index) -  (today)
 - [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) - Your new bookmarks option: simple yet powerful (1 day ago)
 - [LintaoAmons/scratch.nvim](https://github.com/LintaoAmons/scratch.nvim) - Create temporary playground files effortlessly. Find them later without worrying about filenames or locations. (2 days ago)
 - [LintaoAmons/CoolStuffes](https://github.com/LintaoAmons/CoolStuffes) - 我的分享放这里了，大家随便拿去用啊，记得给个星星就行啦～ (2 days ago)
-- [LintaoAmons/lintao-index](https://github.com/LintaoAmons/lintao-index) -  (2 days ago)
 - [LintaoAmons/cd-project.nvim](https://github.com/LintaoAmons/cd-project.nvim) - I tried quite a lot `Project Management` plugins. In the end, I found all I need is just an easier way to `cd` to another project directory. (3 days ago)
 
 #### 📜 My recent blog posts
