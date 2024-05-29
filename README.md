@@ -18,9 +18,9 @@
 
 #### ⭐ Recent Stars
 
+- [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - :octocat: Improve your README.md profile with these amazing badges. (today)
 - [actualbudget/actual-server](https://github.com/actualbudget/actual-server) - Actual&#39;s server (3 days ago)
 - [ryanmsnyder/toggleterm-manager.nvim](https://github.com/ryanmsnyder/toggleterm-manager.nvim) - A Telescope extension to manage Toggleterm&#39;s terminals in NeoVim (3 days ago)
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀 (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
