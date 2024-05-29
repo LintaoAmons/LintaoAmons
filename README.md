@@ -1,4 +1,5 @@
 ### Hi there 👋
+> Here's my personal site: https://lintao-index.pages.dev
 
 #### 👷 Check out what I'm currently working on
 
@@ -13,8 +14,6 @@
 - [Quest 3 VR 体验](https://lintao-index.pages.dev/blog/2024/02/26/VR-quest3) (3 months ago)
 - [使用 asdf 来安装特定 nodejs 版本](https://lintao-index.pages.dev/blog/2024/02/24/asdf-demo-flow) (3 months ago)
 - [js/ts 生态框架](https://lintao-index.pages.dev/blog/2024/02/11/ts-fullstack-frameworks) (3 months ago)
-- [Single and double quotes](https://lintao-index.pages.dev/blog/2024/02/03/single-and-double-quote) (3 months ago)
-- [UTM](https://lintao-index.pages.dev/blog/2024/01/28/utm) (4 months ago)
 
 #### ⭐ Recent Stars
 
@@ -37,9 +36,10 @@
 #### 📫 How to reach me
 Say Hello, I don't bite!
 
-- Twitter: https://twitter.com/...
-- Fediverse: https://mastodon.social/@...
-- Blog: https://...
+- Wechat： CateFat
+- Email： Lintao.amons@gmail.com
+- Comment at my site: https://lintao-index.pages.dev
+
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,vim,kubernetes,docker,aws,bash,python,lua,go,js,ts,react,html,css,jenkins,postgres,mysql,mongodb)](https://skillicons.dev)
 
 <img alt='badge_ckad' src="https://user-images.githubusercontent.com/24785373/206426236-a78f59dc-e6dc-4b92-a0c4-4cd7ab8e3649.png" width="auto" height="128" />
