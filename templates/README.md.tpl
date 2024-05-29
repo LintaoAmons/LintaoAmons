@@ -1,4 +1,5 @@
 ### Hi there 👋
+> Here's my personal site: https://lintao-index.pages.dev
 
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 5}}
@@ -6,7 +7,7 @@
 {{- end}}
 
 #### 📜 My recent blog posts
-{{range rss "https://lintao-index.pages.dev/blog/rss.xml" 5}}
+{{range rss "https://lintao-index.pages.dev/blog/rss.xml" 3}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
@@ -28,9 +29,10 @@
 #### 📫 How to reach me
 Say Hello, I don't bite!
 
-- Twitter: https://twitter.com/...
-- Fediverse: https://mastodon.social/@...
-- Blog: https://...
+- Wechat： CateFat
+- Email： Lintao.amons@gmail.com
+- Comment at my site: https://lintao-index.pages.dev
+
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,vim,kubernetes,docker,aws,bash,python,lua,go,js,ts,react,html,css,jenkins,postgres,mysql,mongodb)](https://skillicons.dev)
 
 <img alt='badge_ckad' src="https://user-images.githubusercontent.com/24785373/206426236-a78f59dc-e6dc-4b92-a0c4-4cd7ab8e3649.png" width="auto" height="128" />
