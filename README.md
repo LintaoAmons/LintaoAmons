@@ -29,9 +29,9 @@
 
 #### 👯 Check out some of my recent followers
 
+- [RonaldLat](https://github.com/RonaldLat)
 - [KyleKing](https://github.com/KyleKing)
 - [Sichuang90](https://github.com/Sichuang90)
-- [gxt-kt](https://github.com/gxt-kt)
 
 #### 📫 How to reach me
 Say Hello, I don't bite!
