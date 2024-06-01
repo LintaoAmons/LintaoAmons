@@ -17,9 +17,9 @@
 
 #### ⭐ Recent Stars
 
+- [danielfalk/smart-open.nvim](https://github.com/danielfalk/smart-open.nvim) - Neovim plugin for fast file-finding (today)
 - [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - :octocat: Improve your README.md profile with these amazing badges. (3 days ago)
 - [actualbudget/actual-server](https://github.com/actualbudget/actual-server) - Actual&#39;s server (6 days ago)
-- [ryanmsnyder/toggleterm-manager.nvim](https://github.com/ryanmsnyder/toggleterm-manager.nvim) - A Telescope extension to manage Toggleterm&#39;s terminals in NeoVim (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
