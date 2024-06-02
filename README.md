@@ -17,9 +17,9 @@
 
 #### ⭐ Recent Stars
 
+- [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library (today)
 - [danielfalk/smart-open.nvim](https://github.com/danielfalk/smart-open.nvim) - Neovim plugin for fast file-finding (1 day ago)
 - [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - :octocat: Improve your README.md profile with these amazing badges. (4 days ago)
-- [actualbudget/actual-server](https://github.com/actualbudget/actual-server) - Actual&#39;s server (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
