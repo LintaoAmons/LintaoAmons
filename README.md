@@ -17,9 +17,9 @@
 
 #### ⭐ Recent Stars
 
+- [kevinhwang91/nvim-ufo](https://github.com/kevinhwang91/nvim-ufo) - Not UFO in the sky, but an ultra fold in Neovim. (today)
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful &amp; consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons. (today)
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library (1 day ago)
-- [danielfalk/smart-open.nvim](https://github.com/danielfalk/smart-open.nvim) - Neovim plugin for fast file-finding (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
