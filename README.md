@@ -3,8 +3,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [LintaoAmons/scratch.nvim](https://github.com/LintaoAmons/scratch.nvim) - Create temporary playground files effortlessly. Find them later without worrying about filenames or locations. (today)
 - [LintaoAmons/CoolStuffes](https://github.com/LintaoAmons/CoolStuffes) - 我的分享放这里了，大家随便拿去用啊，记得给个星星就行啦～ (5 days ago)
-- [LintaoAmons/scratch.nvim](https://github.com/LintaoAmons/scratch.nvim) - Create temporary playground files effortlessly. Find them later without worrying about filenames or locations. (1 week ago)
 - [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) - Your new bookmarks option: simple yet powerful (1 week ago)
 - [LintaoAmons/lintao-index](https://github.com/LintaoAmons/lintao-index) -  (1 week ago)
 - [LintaoAmons/cd-project.nvim](https://github.com/LintaoAmons/cd-project.nvim) - I tried quite a lot `Project Management` plugins. In the end, I found all I need is just an easier way to `cd` to another project directory. (2 weeks ago)
@@ -17,8 +17,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [LintaoAmons/scratch.nvim](https://github.com/LintaoAmons/scratch.nvim) ([v1.0.0](https://github.com/LintaoAmons/scratch.nvim/releases/tag/v1.0.0), today) - Create temporary playground files effortlessly. Find them later without worrying about filenames or locations.
 - [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) ([v0.5.4](https://github.com/LintaoAmons/bookmarks.nvim/releases/tag/v0.5.4), 1 week ago) - Your new bookmarks option: simple yet powerful
-- [LintaoAmons/scratch.nvim](https://github.com/LintaoAmons/scratch.nvim) ([v0.13.3](https://github.com/LintaoAmons/scratch.nvim/releases/tag/v0.13.3), 2 weeks ago) - Create temporary playground files effortlessly. Find them later without worrying about filenames or locations.
 - [LintaoAmons/cd-project.nvim](https://github.com/LintaoAmons/cd-project.nvim) ([v0.6.1](https://github.com/LintaoAmons/cd-project.nvim/releases/tag/v0.6.1), 3 weeks ago) - I tried quite a lot `Project Management` plugins. In the end, I found all I need is just an easier way to `cd` to another project directory.
 
 #### 👯 Check out some of my recent followers
