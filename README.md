@@ -3,22 +3,22 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LintaoAmons/cd-project.nvim](https://github.com/LintaoAmons/cd-project.nvim) - I tried quite a lot `Project Management` plugins. In the end, I found all I need is just an easier way to `cd` to another project directory. (today)
-- [LintaoAmons/CoolStuffes](https://github.com/LintaoAmons/CoolStuffes) - 我的分享放这里了，大家随便拿去用啊，记得给个星星就行啦～ (today)
-- [LintaoAmons/scratch.nvim](https://github.com/LintaoAmons/scratch.nvim) - Create temporary playground files effortlessly. Find them later without worrying about filenames or locations. (today)
+- [LintaoAmons/cd-project.nvim](https://github.com/LintaoAmons/cd-project.nvim) - I tried quite a lot `Project Management` plugins. In the end, I found all I need is just an easier way to `cd` to another project directory. (1 day ago)
+- [LintaoAmons/CoolStuffes](https://github.com/LintaoAmons/CoolStuffes) - 我的分享放这里了，大家随便拿去用啊，记得给个星星就行啦～ (1 day ago)
+- [LintaoAmons/scratch.nvim](https://github.com/LintaoAmons/scratch.nvim) - Create temporary playground files effortlessly. Find them later without worrying about filenames or locations. (1 day ago)
 - [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) - Your new bookmarks option: simple yet powerful (1 week ago)
 - [LintaoAmons/lintao-index](https://github.com/LintaoAmons/lintao-index) -  (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - ✨ Turn your OpenAPI specification into a beautiful TypeScript client (today)
-- [tomwray13/nestjs-nextjs-trpc](https://github.com/tomwray13/nestjs-nextjs-trpc) -  (today)
-- [febobo/web-interview](https://github.com/febobo/web-interview) - 语音打卡社群维护的前端面试题库，包含不限于Vue面试题，React面试题，JS面试题，HTTP面试题，工程化面试题，CSS面试题，算法面试题，大厂面试题，高频面试题 (3 days ago)
+- [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - ✨ Turn your OpenAPI specification into a beautiful TypeScript client (1 day ago)
+- [tomwray13/nestjs-nextjs-trpc](https://github.com/tomwray13/nestjs-nextjs-trpc) -  (1 day ago)
+- [febobo/web-interview](https://github.com/febobo/web-interview) - 语音打卡社群维护的前端面试题库，包含不限于Vue面试题，React面试题，JS面试题，HTTP面试题，工程化面试题，CSS面试题，算法面试题，大厂面试题，高频面试题 (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [LintaoAmons/cd-project.nvim](https://github.com/LintaoAmons/cd-project.nvim) ([v0.7.0](https://github.com/LintaoAmons/cd-project.nvim/releases/tag/v0.7.0), today) - I tried quite a lot `Project Management` plugins. In the end, I found all I need is just an easier way to `cd` to another project directory.
-- [LintaoAmons/scratch.nvim](https://github.com/LintaoAmons/scratch.nvim) ([v1.0.0](https://github.com/LintaoAmons/scratch.nvim/releases/tag/v1.0.0), 2 days ago) - Create temporary playground files effortlessly. Find them later without worrying about filenames or locations.
+- [LintaoAmons/cd-project.nvim](https://github.com/LintaoAmons/cd-project.nvim) ([v0.7.0](https://github.com/LintaoAmons/cd-project.nvim/releases/tag/v0.7.0), 1 day ago) - I tried quite a lot `Project Management` plugins. In the end, I found all I need is just an easier way to `cd` to another project directory.
+- [LintaoAmons/scratch.nvim](https://github.com/LintaoAmons/scratch.nvim) ([v1.0.0](https://github.com/LintaoAmons/scratch.nvim/releases/tag/v1.0.0), 3 days ago) - Create temporary playground files effortlessly. Find them later without worrying about filenames or locations.
 - [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) ([v0.5.4](https://github.com/LintaoAmons/bookmarks.nvim/releases/tag/v0.5.4), 1 week ago) - Your new bookmarks option: simple yet powerful
 
 #### 👯 Check out some of my recent followers
