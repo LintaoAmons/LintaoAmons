@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend &#43; admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS. (today)
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - AI chat for every model. (2 days ago)
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them. (3 days ago)
-- [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - ✨ Turn your OpenAPI specification into a beautiful TypeScript client (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
