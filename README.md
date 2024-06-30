@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [databacker/mysql-backup](https://github.com/databacker/mysql-backup) - image to enable automated backups of mysql databases in containers (today)
 - [vadimdemedes/pastel](https://github.com/vadimdemedes/pastel) - 🎨 Next.js-like framework for CLIs made with Ink (2 weeks ago)
 - [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend &#43; admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS. (2 weeks ago)
-- [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - AI chat for every model. (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
