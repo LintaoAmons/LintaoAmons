@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [xiaolincoder/CS-Base](https://github.com/xiaolincoder/CS-Base) - 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 &#43; 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com   (today)
 - [mementum/backtrader](https://github.com/mementum/backtrader) - Python Backtesting library for trading strategies (today)
 - [databacker/mysql-backup](https://github.com/databacker/mysql-backup) - image to enable automated backups of mysql databases in containers (3 days ago)
-- [vadimdemedes/pastel](https://github.com/vadimdemedes/pastel) - 🎨 Next.js-like framework for CLIs made with Ink (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
