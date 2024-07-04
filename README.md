@@ -3,7 +3,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) - Your new bookmarks option: simple yet powerful (6 days ago)
+- [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) - Your new bookmarks option: simple yet powerful (1 week ago)
 - [LintaoAmons/scratch.nvim](https://github.com/LintaoAmons/scratch.nvim) - Create temporary playground files effortlessly. Find them later without worrying about filenames or locations. (1 week ago)
 - [LintaoAmons/cd-project.nvim](https://github.com/LintaoAmons/cd-project.nvim) - I tried quite a lot `Project Management` plugins. In the end, I found all I need is just an easier way to `cd` to another project directory. (2 weeks ago)
 - [LintaoAmons/typed-utils.nvim](https://github.com/LintaoAmons/typed-utils.nvim) -  (2 weeks ago)
@@ -11,13 +11,13 @@
 
 #### ⭐ Recent Stars
 
-- [xiaolincoder/CS-Base](https://github.com/xiaolincoder/CS-Base) - 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 &#43; 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com   (today)
-- [mementum/backtrader](https://github.com/mementum/backtrader) - Python Backtesting library for trading strategies (today)
-- [databacker/mysql-backup](https://github.com/databacker/mysql-backup) - image to enable automated backups of mysql databases in containers (3 days ago)
+- [xiaolincoder/CS-Base](https://github.com/xiaolincoder/CS-Base) - 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 &#43; 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com   (1 day ago)
+- [mementum/backtrader](https://github.com/mementum/backtrader) - Python Backtesting library for trading strategies (1 day ago)
+- [databacker/mysql-backup](https://github.com/databacker/mysql-backup) - image to enable automated backups of mysql databases in containers (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [moznion/gonstructor](https://github.com/moznion/gonstructor) ([v0.5.1](https://github.com/moznion/gonstructor/releases/tag/v0.5.1), 5 days ago) - A command-line tool to generate a constructor for the struct.
+- [moznion/gonstructor](https://github.com/moznion/gonstructor) ([v0.5.1](https://github.com/moznion/gonstructor/releases/tag/v0.5.1), 6 days ago) - A command-line tool to generate a constructor for the struct.
 - [LintaoAmons/scratch.nvim](https://github.com/LintaoAmons/scratch.nvim) ([v1.1.0](https://github.com/LintaoAmons/scratch.nvim/releases/tag/v1.1.0), 1 week ago) - Create temporary playground files effortlessly. Find them later without worrying about filenames or locations.
 - [LintaoAmons/cd-project.nvim](https://github.com/LintaoAmons/cd-project.nvim) ([v0.8.0](https://github.com/LintaoAmons/cd-project.nvim/releases/tag/v0.8.0), 2 weeks ago) - I tried quite a lot `Project Management` plugins. In the end, I found all I need is just an easier way to `cd` to another project directory.
 
