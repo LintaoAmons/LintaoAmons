@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim) - Experimental markdown preview for neovim (today)
 - [lunarmodules/busted](https://github.com/lunarmodules/busted) - Elegant Lua unit testing. (1 day ago)
 - [Exafunction/codeium.nvim](https://github.com/Exafunction/codeium.nvim) - A native neovim extension for Codeium (1 day ago)
-- [xiaolincoder/CS-Base](https://github.com/xiaolincoder/CS-Base) - 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 &#43; 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com   (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
