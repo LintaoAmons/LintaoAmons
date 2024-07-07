@@ -23,9 +23,9 @@
 
 #### 👯 Check out some of my recent followers
 
+- [gwenwindflower](https://github.com/gwenwindflower)
 - [marcelohmdias](https://github.com/marcelohmdias)
 - [RonaldLat](https://github.com/RonaldLat)
-- [KyleKing](https://github.com/KyleKing)
 
 #### 📫 How to reach me
 Say Hello, I don't bite!
