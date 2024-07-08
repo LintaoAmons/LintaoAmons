@@ -11,7 +11,7 @@
 
 #### ⭐ Recent Stars
 
-- [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim) - Experimental markdown preview for neovim (3 days ago)
+- [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim) - An experimental markdown previewer for Neovim (3 days ago)
 - [lunarmodules/busted](https://github.com/lunarmodules/busted) - Elegant Lua unit testing. (4 days ago)
 - [Exafunction/codeium.nvim](https://github.com/Exafunction/codeium.nvim) - A native neovim extension for Codeium (4 days ago)
 
