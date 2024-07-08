@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [nvim-treesitter/nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context) - Show code context (today)
 - [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim) - An experimental markdown previewer for Neovim (3 days ago)
 - [lunarmodules/busted](https://github.com/lunarmodules/busted) - Elegant Lua unit testing. (4 days ago)
-- [Exafunction/codeium.nvim](https://github.com/Exafunction/codeium.nvim) - A native neovim extension for Codeium (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
