@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [ShiArthur03/ShiArthur03](https://github.com/ShiArthur03/ShiArthur03) -  (today)
 - [nvim-treesitter/nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context) - Show code context (2 days ago)
 - [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim) - An experimental markdown previewer for Neovim (5 days ago)
-- [lunarmodules/busted](https://github.com/lunarmodules/busted) - Elegant Lua unit testing. (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
