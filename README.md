@@ -3,21 +3,21 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LintaoAmons/lintao-index](https://github.com/LintaoAmons/lintao-index) -  (today)
-- [LintaoAmons/CoolStuffes](https://github.com/LintaoAmons/CoolStuffes) - 我的分享放这里了，大家随便拿去用啊，记得给个星星就行啦～ (today)
-- [LintaoAmons/context-menu.nvim](https://github.com/LintaoAmons/context-menu.nvim) -  (today)
-- [LintaoAmons/cd-project.nvim](https://github.com/LintaoAmons/cd-project.nvim) - I tried quite a lot `Project Management` plugins. In the end, I found all I need is just an easier way to `cd` to another project directory. (5 days ago)
-- [LintaoAmons/easy-commands.nvim](https://github.com/LintaoAmons/easy-commands.nvim) - A collection of intuitive, easily searchable, and ready-to-use commands. (5 days ago)
+- [LintaoAmons/lintao-index](https://github.com/LintaoAmons/lintao-index) -  (1 day ago)
+- [LintaoAmons/CoolStuffes](https://github.com/LintaoAmons/CoolStuffes) - 我的分享放这里了，大家随便拿去用啊，记得给个星星就行啦～ (1 day ago)
+- [LintaoAmons/context-menu.nvim](https://github.com/LintaoAmons/context-menu.nvim) -  (1 day ago)
+- [LintaoAmons/cd-project.nvim](https://github.com/LintaoAmons/cd-project.nvim) - I tried quite a lot `Project Management` plugins. In the end, I found all I need is just an easier way to `cd` to another project directory. (6 days ago)
+- [LintaoAmons/easy-commands.nvim](https://github.com/LintaoAmons/easy-commands.nvim) - A collection of intuitive, easily searchable, and ready-to-use commands. (6 days ago)
 
 #### ⭐ Recent Stars
 
-- [mvllow/modes.nvim](https://github.com/mvllow/modes.nvim) - Prismatic line decorations for the adventurous vim user (today)
-- [ShiArthur03/ShiArthur03](https://github.com/ShiArthur03/ShiArthur03) -  (1 day ago)
-- [nvim-treesitter/nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context) - Show code context (3 days ago)
+- [mvllow/modes.nvim](https://github.com/mvllow/modes.nvim) - Prismatic line decorations for the adventurous vim user (1 day ago)
+- [ShiArthur03/ShiArthur03](https://github.com/ShiArthur03/ShiArthur03) -  (2 days ago)
+- [nvim-treesitter/nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context) - Show code context (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [moznion/gonstructor](https://github.com/moznion/gonstructor) ([v0.5.1](https://github.com/moznion/gonstructor/releases/tag/v0.5.1), 1 week ago) - A command-line tool to generate a constructor for the struct.
+- [moznion/gonstructor](https://github.com/moznion/gonstructor) ([v0.5.1](https://github.com/moznion/gonstructor/releases/tag/v0.5.1), 2 weeks ago) - A command-line tool to generate a constructor for the struct.
 - [LintaoAmons/scratch.nvim](https://github.com/LintaoAmons/scratch.nvim) ([v1.1.0](https://github.com/LintaoAmons/scratch.nvim/releases/tag/v1.1.0), 2 weeks ago) - Create temporary playground files effortlessly. Find them later without worrying about filenames or locations.
 - [LintaoAmons/cd-project.nvim](https://github.com/LintaoAmons/cd-project.nvim) ([v0.8.0](https://github.com/LintaoAmons/cd-project.nvim/releases/tag/v0.8.0), 3 weeks ago) - I tried quite a lot `Project Management` plugins. In the end, I found all I need is just an easier way to `cd` to another project directory.
 
