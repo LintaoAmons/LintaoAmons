@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [FormidableLabs/victory](https://github.com/FormidableLabs/victory) - A collection of composable React components for building interactive data visualizations (today)
 - [CrazyBoyM/llama3-Chinese-chat](https://github.com/CrazyBoyM/llama3-Chinese-chat) - Llama3 中文仓库（聚合资料，各种网友及厂商微调、魔改版本有趣权重 &amp; 训练、推理、评测、部署教程视频 &amp; 文档） (2 days ago)
 - [mvllow/modes.nvim](https://github.com/mvllow/modes.nvim) - Prismatic line decorations for the adventurous vim user (3 days ago)
-- [ShiArthur03/ShiArthur03](https://github.com/ShiArthur03/ShiArthur03) -  (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
