@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [milanglacier/minuet-ai.nvim](https://github.com/milanglacier/minuet-ai.nvim) - 💃 Dance with Intelligence in Your Code. Minuet AI integrates with nvim-cmp, offering AI based completion from popular LLMs including OpenAI, Gemini, Claude, and more. (today)
 - [JohnnyMorganz/StyLua](https://github.com/JohnnyMorganz/StyLua) - An opinionated Lua code formatter (3 days ago)
 - [MagicDuck/grug-far.nvim](https://github.com/MagicDuck/grug-far.nvim) - Find And Replace plugin for neovim (4 days ago)
-- [LintaoAmons/context-menu.nvim](https://github.com/LintaoAmons/context-menu.nvim) -  (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
