@@ -4,10 +4,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [LintaoAmons/context-menu.nvim](https://github.com/LintaoAmons/context-menu.nvim) -  (today)
+- [LintaoAmons/lintao-index](https://github.com/LintaoAmons/lintao-index) -  (today)
 - [LintaoAmons/scratch.nvim](https://github.com/LintaoAmons/scratch.nvim) - Create temporary playground files effortlessly. Find them later without worrying about filenames or locations. (today)
 - [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) - Your new bookmarks option: simple yet powerful (today)
 - [LintaoAmons/cd-project.nvim](https://github.com/LintaoAmons/cd-project.nvim) - I tried quite a lot `Project Management` plugins. In the end, I found all I need is just an easier way to `cd` to another project directory. (today)
-- [LintaoAmons/lintao-index](https://github.com/LintaoAmons/lintao-index) -  (5 days ago)
 
 #### ⭐ Recent Stars
 
