@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [MeanderingProgrammer/markdown.nvim](https://github.com/MeanderingProgrammer/markdown.nvim) - Plugin to improve viewing Markdown files in Neovim (today)
 - [slugbyte/lackluster.nvim](https://github.com/slugbyte/lackluster.nvim) - a delightful and customizable mostly monochrome colorscheme thats soft on the eyes and supports treesitter, lsp, and heaps of neovim plugins. (1 day ago)
 - [milanglacier/minuet-ai.nvim](https://github.com/milanglacier/minuet-ai.nvim) - 💃 Dance with Intelligence in Your Code. Minuet AI integrates with nvim-cmp, offering AI based completion from popular LLMs including OpenAI, Gemini, Claude, and more. (2 days ago)
-- [JohnnyMorganz/StyLua](https://github.com/JohnnyMorganz/StyLua) - An opinionated Lua code formatter (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
