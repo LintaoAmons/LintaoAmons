@@ -3,22 +3,22 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LintaoAmons/context-menu.nvim](https://github.com/LintaoAmons/context-menu.nvim) -  (today)
-- [LintaoAmons/lintao-index](https://github.com/LintaoAmons/lintao-index) -  (today)
-- [LintaoAmons/scratch.nvim](https://github.com/LintaoAmons/scratch.nvim) - Create temporary playground files effortlessly. Find them later without worrying about filenames or locations. (today)
-- [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) - Your new bookmarks option: simple yet powerful (today)
-- [LintaoAmons/cd-project.nvim](https://github.com/LintaoAmons/cd-project.nvim) - I tried quite a lot `Project Management` plugins. In the end, I found all I need is just an easier way to `cd` to another project directory. (today)
+- [LintaoAmons/context-menu.nvim](https://github.com/LintaoAmons/context-menu.nvim) -  (1 day ago)
+- [LintaoAmons/lintao-index](https://github.com/LintaoAmons/lintao-index) -  (1 day ago)
+- [LintaoAmons/scratch.nvim](https://github.com/LintaoAmons/scratch.nvim) - Create temporary playground files effortlessly. Find them later without worrying about filenames or locations. (1 day ago)
+- [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) - Your new bookmarks option: simple yet powerful (1 day ago)
+- [LintaoAmons/cd-project.nvim](https://github.com/LintaoAmons/cd-project.nvim) - I tried quite a lot `Project Management` plugins. In the end, I found all I need is just an easier way to `cd` to another project directory. (1 day ago)
 
 #### ⭐ Recent Stars
 
-- [slugbyte/lackluster.nvim](https://github.com/slugbyte/lackluster.nvim) - a delightful and customizable mostly monochrome colorscheme thats soft on the eyes and supports treesitter, lsp, and heaps of neovim plugins. (today)
-- [milanglacier/minuet-ai.nvim](https://github.com/milanglacier/minuet-ai.nvim) - 💃 Dance with Intelligence in Your Code. Minuet AI integrates with nvim-cmp, offering AI based completion from popular LLMs including OpenAI, Gemini, Claude, and more. (1 day ago)
-- [JohnnyMorganz/StyLua](https://github.com/JohnnyMorganz/StyLua) - An opinionated Lua code formatter (4 days ago)
+- [slugbyte/lackluster.nvim](https://github.com/slugbyte/lackluster.nvim) - a delightful and customizable mostly monochrome colorscheme thats soft on the eyes and supports treesitter, lsp, and heaps of neovim plugins. (1 day ago)
+- [milanglacier/minuet-ai.nvim](https://github.com/milanglacier/minuet-ai.nvim) - 💃 Dance with Intelligence in Your Code. Minuet AI integrates with nvim-cmp, offering AI based completion from popular LLMs including OpenAI, Gemini, Claude, and more. (2 days ago)
+- [JohnnyMorganz/StyLua](https://github.com/JohnnyMorganz/StyLua) - An opinionated Lua code formatter (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) ([v1.0.0-project-info](https://github.com/LintaoAmons/bookmarks.nvim/releases/tag/v1.0.0-project-info), 3 days ago) - Your new bookmarks option: simple yet powerful
-- [LintaoAmons/scratch.nvim](https://github.com/LintaoAmons/scratch.nvim) ([v1.1.0](https://github.com/LintaoAmons/scratch.nvim/releases/tag/v1.1.0), 3 weeks ago) - Create temporary playground files effortlessly. Find them later without worrying about filenames or locations.
+- [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) ([v1.0.0-project-info](https://github.com/LintaoAmons/bookmarks.nvim/releases/tag/v1.0.0-project-info), 4 days ago) - Your new bookmarks option: simple yet powerful
+- [LintaoAmons/scratch.nvim](https://github.com/LintaoAmons/scratch.nvim) ([v1.1.0](https://github.com/LintaoAmons/scratch.nvim/releases/tag/v1.1.0), 4 weeks ago) - Create temporary playground files effortlessly. Find them later without worrying about filenames or locations.
 - [LintaoAmons/cd-project.nvim](https://github.com/LintaoAmons/cd-project.nvim) ([v0.8.0](https://github.com/LintaoAmons/cd-project.nvim/releases/tag/v0.8.0), 1 month ago) - I tried quite a lot `Project Management` plugins. In the end, I found all I need is just an easier way to `cd` to another project directory.
 
 #### 👯 Check out some of my recent followers
