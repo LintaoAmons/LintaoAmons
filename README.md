@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim &amp; neovim, load extensions like VSCode and host language servers. (today)
 - [jay-babu/mason-nvim-dap.nvim](https://github.com/jay-babu/mason-nvim-dap.nvim) -  (1 day ago)
 - [MeanderingProgrammer/markdown.nvim](https://github.com/MeanderingProgrammer/markdown.nvim) - Plugin to improve viewing Markdown files in Neovim (2 days ago)
-- [slugbyte/lackluster.nvim](https://github.com/slugbyte/lackluster.nvim) - a delightful and customizable mostly monochrome colorscheme thats soft on the eyes and supports treesitter, lsp, and heaps of neovim plugins. (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
