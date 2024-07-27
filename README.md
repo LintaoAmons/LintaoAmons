@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim) -  (today)
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim &amp; neovim, load extensions like VSCode and host language servers. (1 day ago)
 - [jay-babu/mason-nvim-dap.nvim](https://github.com/jay-babu/mason-nvim-dap.nvim) -  (2 days ago)
-- [MeanderingProgrammer/markdown.nvim](https://github.com/MeanderingProgrammer/markdown.nvim) - Plugin to improve viewing Markdown files in Neovim (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
