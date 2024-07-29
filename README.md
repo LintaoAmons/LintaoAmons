@@ -3,7 +3,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LintaoAmons/lintao-index](https://github.com/LintaoAmons/lintao-index) -  (1 day ago)
+- [LintaoAmons/lintao-index](https://github.com/LintaoAmons/lintao-index) -  (today)
 - [LintaoAmons/context-menu.nvim](https://github.com/LintaoAmons/context-menu.nvim) -  (6 days ago)
 - [LintaoAmons/scratch.nvim](https://github.com/LintaoAmons/scratch.nvim) - Create temporary playground files effortlessly. Find them later without worrying about filenames or locations. (6 days ago)
 - [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) - Your new bookmarks option: simple yet powerful (6 days ago)
@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
-- [Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim) -  (2 days ago)
-- [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim &amp; neovim, load extensions like VSCode and host language servers. (3 days ago)
-- [jay-babu/mason-nvim-dap.nvim](https://github.com/jay-babu/mason-nvim-dap.nvim) -  (4 days ago)
+- [ab-dx/ares.nvim](https://github.com/ab-dx/ares.nvim) - A warm neovim colorscheme (today)
+- [rktjmp/lush.nvim](https://github.com/rktjmp/lush.nvim) - Create Neovim themes with real-time feedback, export anywhere. (today)
+- [mei28/luminate.nvim](https://github.com/mei28/luminate.nvim) - 🌟 Highlight yanked, pasted, and undone/redone text in Neovim with a splash of color. (today)
 
 #### 🔭 Latest releases I've contributed to
 
