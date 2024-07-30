@@ -3,17 +3,17 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LintaoAmons/lintao-index](https://github.com/LintaoAmons/lintao-index) -  (today)
-- [LintaoAmons/context-menu.nvim](https://github.com/LintaoAmons/context-menu.nvim) -  (6 days ago)
-- [LintaoAmons/scratch.nvim](https://github.com/LintaoAmons/scratch.nvim) - Create temporary playground files effortlessly. Find them later without worrying about filenames or locations. (6 days ago)
-- [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) - Your new bookmarks option: simple yet powerful (6 days ago)
-- [LintaoAmons/cd-project.nvim](https://github.com/LintaoAmons/cd-project.nvim) - I tried quite a lot `Project Management` plugins. In the end, I found all I need is just an easier way to `cd` to another project directory. (6 days ago)
+- [LintaoAmons/lintao-index](https://github.com/LintaoAmons/lintao-index) -  (1 day ago)
+- [LintaoAmons/context-menu.nvim](https://github.com/LintaoAmons/context-menu.nvim) -  (1 week ago)
+- [LintaoAmons/scratch.nvim](https://github.com/LintaoAmons/scratch.nvim) - Create temporary playground files effortlessly. Find them later without worrying about filenames or locations. (1 week ago)
+- [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) - Your new bookmarks option: simple yet powerful (1 week ago)
+- [LintaoAmons/cd-project.nvim](https://github.com/LintaoAmons/cd-project.nvim) - I tried quite a lot `Project Management` plugins. In the end, I found all I need is just an easier way to `cd` to another project directory. (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [ab-dx/ares.nvim](https://github.com/ab-dx/ares.nvim) - A warm neovim colorscheme (today)
-- [rktjmp/lush.nvim](https://github.com/rktjmp/lush.nvim) - Create Neovim themes with real-time feedback, export anywhere. (today)
-- [mei28/luminate.nvim](https://github.com/mei28/luminate.nvim) - 🌟 Highlight yanked, pasted, and undone/redone text in Neovim with a splash of color. (today)
+- [ab-dx/ares.nvim](https://github.com/ab-dx/ares.nvim) - A warm neovim colorscheme (1 day ago)
+- [rktjmp/lush.nvim](https://github.com/rktjmp/lush.nvim) - Create Neovim themes with real-time feedback, export anywhere. (1 day ago)
+- [mei28/luminate.nvim](https://github.com/mei28/luminate.nvim) - 🌟 Highlight yanked, pasted, and undone/redone text in Neovim with a splash of color. (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
