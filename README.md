@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [jinzhongjia/LspUI.nvim](https://github.com/jinzhongjia/LspUI.nvim) - A modern and useful UI plugin that wraps lsp operations. (today)
+- [RishabhRD/nvim-lsputils](https://github.com/RishabhRD/nvim-lsputils) - Better defaults for nvim-lsp actions (today)
 - [jonarrien/telescope-cmdline.nvim](https://github.com/jonarrien/telescope-cmdline.nvim) - Telescope cmdline (1 day ago)
-- [ab-dx/ares.nvim](https://github.com/ab-dx/ares.nvim) - A warm neovim colorscheme (2 days ago)
-- [rktjmp/lush.nvim](https://github.com/rktjmp/lush.nvim) - Create Neovim themes with real-time feedback, export anywhere. (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
