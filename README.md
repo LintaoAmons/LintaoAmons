@@ -3,21 +3,21 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LintaoAmons/lintao-index](https://github.com/LintaoAmons/lintao-index) -  (today)
-- [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) - Persistent bookmarks: powerful but simple (one shortcut to add, rename, and remove bookmark) (today)
+- [LintaoAmons/lintao-index](https://github.com/LintaoAmons/lintao-index) -  (1 day ago)
+- [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) - Persistent bookmarks: powerful but simple (one shortcut to add, rename, and remove bookmark) (1 day ago)
 - [LintaoAmons/context-menu.nvim](https://github.com/LintaoAmons/context-menu.nvim) -  (1 week ago)
 - [LintaoAmons/scratch.nvim](https://github.com/LintaoAmons/scratch.nvim) - Create temporary playground files effortlessly. Find them later without worrying about filenames or locations. (1 week ago)
 - [LintaoAmons/cd-project.nvim](https://github.com/LintaoAmons/cd-project.nvim) - I tried quite a lot `Project Management` plugins. In the end, I found all I need is just an easier way to `cd` to another project directory. (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [jinzhongjia/LspUI.nvim](https://github.com/jinzhongjia/LspUI.nvim) - A modern and useful UI plugin that wraps lsp operations. (1 day ago)
-- [RishabhRD/nvim-lsputils](https://github.com/RishabhRD/nvim-lsputils) - Better defaults for nvim-lsp actions (1 day ago)
-- [jonarrien/telescope-cmdline.nvim](https://github.com/jonarrien/telescope-cmdline.nvim) - Telescope cmdline (2 days ago)
+- [jinzhongjia/LspUI.nvim](https://github.com/jinzhongjia/LspUI.nvim) - A modern and useful UI plugin that wraps lsp operations. (2 days ago)
+- [RishabhRD/nvim-lsputils](https://github.com/RishabhRD/nvim-lsputils) - Better defaults for nvim-lsp actions (2 days ago)
+- [jonarrien/telescope-cmdline.nvim](https://github.com/jonarrien/telescope-cmdline.nvim) - Telescope cmdline (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) ([v1.1.0-line-highlight-and-db-backup](https://github.com/LintaoAmons/bookmarks.nvim/releases/tag/v1.1.0-line-highlight-and-db-backup), today) - Persistent bookmarks: powerful but simple (one shortcut to add, rename, and remove bookmark)
+- [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) ([v1.1.0-line-highlight-and-db-backup](https://github.com/LintaoAmons/bookmarks.nvim/releases/tag/v1.1.0-line-highlight-and-db-backup), 1 day ago) - Persistent bookmarks: powerful but simple (one shortcut to add, rename, and remove bookmark)
 - [LintaoAmons/scratch.nvim](https://github.com/LintaoAmons/scratch.nvim) ([v1.1.0](https://github.com/LintaoAmons/scratch.nvim/releases/tag/v1.1.0), 1 month ago) - Create temporary playground files effortlessly. Find them later without worrying about filenames or locations.
 - [LintaoAmons/cd-project.nvim](https://github.com/LintaoAmons/cd-project.nvim) ([v0.8.0](https://github.com/LintaoAmons/cd-project.nvim/releases/tag/v0.8.0), 1 month ago) - I tried quite a lot `Project Management` plugins. In the end, I found all I need is just an easier way to `cd` to another project directory.
 
