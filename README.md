@@ -23,9 +23,9 @@
 
 #### 👯 Check out some of my recent followers
 
+- [sammorozov](https://github.com/sammorozov)
 - [TonyAkins121](https://github.com/TonyAkins121)
 - [Bekaboo](https://github.com/Bekaboo)
-- [gwenwindflower](https://github.com/gwenwindflower)
 
 #### 📫 How to reach me
 Say Hello, I don't bite!
