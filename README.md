@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines (today)
 - [isakbm/gitgraph.nvim](https://github.com/isakbm/gitgraph.nvim) - Git Graph plugin for neovim (2 days ago)
 - [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution that provides a one-stop solution for both public and private cloud. You can run any Docker image on sealos, start high availability databases like mysql/pgsql/redis/mongo, develop backend applications using node.js serverless (3 days ago)
-- [jinzhongjia/LspUI.nvim](https://github.com/jinzhongjia/LspUI.nvim) - A modern and useful UI plugin that wraps lsp operations. (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
