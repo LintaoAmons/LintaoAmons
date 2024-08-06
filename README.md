@@ -3,7 +3,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) - Persistent bookmarks: powerful but simple (one shortcut to add, rename, and remove bookmark) (1 day ago)
+- [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) - Persistent bookmarks: powerful but simple (one shortcut to add, rename, and remove bookmark) (today)
 - [LintaoAmons/lintao-index](https://github.com/LintaoAmons/lintao-index) -  (2 days ago)
 - [LintaoAmons/context-menu.nvim](https://github.com/LintaoAmons/context-menu.nvim) -  (4 days ago)
 - [LintaoAmons/scratch.nvim](https://github.com/LintaoAmons/scratch.nvim) - Create temporary playground files effortlessly. Find them later without worrying about filenames or locations. (2 weeks ago)
