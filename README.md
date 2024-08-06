@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [b0o/incline.nvim](https://github.com/b0o/incline.nvim) - 🎈 Floating statuslines for Neovim, winbar alternative (today)
 - [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim) - The official Neovim plugin for Supermaven (1 day ago)
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines (1 day ago)
-- [isakbm/gitgraph.nvim](https://github.com/isakbm/gitgraph.nvim) - Git Graph plugin for neovim (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
