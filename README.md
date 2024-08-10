@@ -3,17 +3,17 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [LintaoAmons/lintao-index](https://github.com/LintaoAmons/lintao-index) -  (today)
 - [LintaoAmons/scratch.nvim](https://github.com/LintaoAmons/scratch.nvim) - Create temporary playground files effortlessly. Find them later without worrying about filenames or locations. (today)
+- [LintaoAmons/CoolStuffes](https://github.com/LintaoAmons/CoolStuffes) - 我的分享放这里了，大家随便拿去用啊，记得给个星星就行啦～ (today)
 - [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) - Persistent bookmarks: powerful but simple (one shortcut to add, rename, and remove bookmark) (1 day ago)
-- [LintaoAmons/lintao-index](https://github.com/LintaoAmons/lintao-index) -  (6 days ago)
 - [LintaoAmons/context-menu.nvim](https://github.com/LintaoAmons/context-menu.nvim) -  (1 week ago)
-- [LintaoAmons/cd-project.nvim](https://github.com/LintaoAmons/cd-project.nvim) - I tried quite a lot `Project Management` plugins. In the end, I found all I need is just an easier way to `cd` to another project directory. (2 weeks ago)
 
 #### ⭐ Recent Stars
 
+- [winter-again/wezterm-config.nvim](https://github.com/winter-again/wezterm-config.nvim) -  (today)
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable. (2 days ago)
 - [b0o/incline.nvim](https://github.com/b0o/incline.nvim) - 🎈 Floating statuslines for Neovim, winbar alternative (4 days ago)
-- [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim) - The official Neovim plugin for Supermaven (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
