@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
-- [winter-again/wezterm-config.nvim](https://github.com/winter-again/wezterm-config.nvim) -  (2 days ago)
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable. (4 days ago)
-- [b0o/incline.nvim](https://github.com/b0o/incline.nvim) - 🎈 Floating statuslines for Neovim, winbar alternative (6 days ago)
+- [saecki/live-rename.nvim](https://github.com/saecki/live-rename.nvim) -  (today)
+- [luckasRanarison/tailwind-tools.nvim](https://github.com/luckasRanarison/tailwind-tools.nvim) - An unofficial Tailwind CSS integration and tooling for Neovim (today)
+- [vercel/opentelemetry-collector-dev-setup](https://github.com/vercel/opentelemetry-collector-dev-setup) -  (today)
 
 #### 🔭 Latest releases I've contributed to
 
