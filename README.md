@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [nicolaka/netshoot](https://github.com/nicolaka/netshoot) - a Docker &#43; Kubernetes network trouble-shooting swiss-army container (today)
 - [saecki/live-rename.nvim](https://github.com/saecki/live-rename.nvim) -  (1 day ago)
 - [luckasRanarison/tailwind-tools.nvim](https://github.com/luckasRanarison/tailwind-tools.nvim) - An unofficial Tailwind CSS integration and tooling for Neovim (1 day ago)
-- [vercel/opentelemetry-collector-dev-setup](https://github.com/vercel/opentelemetry-collector-dev-setup) -  (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
