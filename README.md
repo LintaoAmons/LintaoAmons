@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
-- [nicolaka/netshoot](https://github.com/nicolaka/netshoot) - a Docker &#43; Kubernetes network trouble-shooting swiss-army container (today)
-- [saecki/live-rename.nvim](https://github.com/saecki/live-rename.nvim) -  (1 day ago)
-- [luckasRanarison/tailwind-tools.nvim](https://github.com/luckasRanarison/tailwind-tools.nvim) - An unofficial Tailwind CSS integration and tooling for Neovim (1 day ago)
+- [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request &amp; Response Service, written in Python &#43; Flask. (today)
+- [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua (today)
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️ (today)
 
 #### 🔭 Latest releases I've contributed to
 
