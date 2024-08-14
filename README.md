@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [cosminadrianpopescu/azul](https://github.com/cosminadrianpopescu/azul) - A nvim based terminal multiplexer (today)
 - [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) - A blazing fast and easy to configure neovim statusline plugin written in pure lua. (today)
 - [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request &amp; Response Service, written in Python &#43; Flask. (1 day ago)
-- [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
