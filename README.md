@@ -24,8 +24,8 @@
 #### 👯 Check out some of my recent followers
 
 - [quejuwen](https://github.com/quejuwen)
-- [sammorozov](https://github.com/sammorozov)
 - [TonyAkins121](https://github.com/TonyAkins121)
+- [Bekaboo](https://github.com/Bekaboo)
 
 #### 📫 How to reach me
 Say Hello, I don't bite!
