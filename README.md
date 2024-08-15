@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [CWood-sdf/banana.nvim](https://github.com/CWood-sdf/banana.nvim) - Write your plugin ui in html (today)
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE! (1 day ago)
 - [cosminadrianpopescu/azul](https://github.com/cosminadrianpopescu/azul) - A nvim based terminal multiplexer (1 day ago)
-- [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) - A blazing fast and easy to configure neovim statusline plugin written in pure lua. (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
