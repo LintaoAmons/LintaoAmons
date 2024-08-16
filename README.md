@@ -3,17 +3,17 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [LintaoAmons/context-menu.nvim](https://github.com/LintaoAmons/context-menu.nvim) -  (today)
 - [saecki/live-rename.nvim](https://github.com/saecki/live-rename.nvim) - A neovim plugin to live preview lsp renames (1 day ago)
 - [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) - Persistent bookmarks: powerful but simple (one shortcut to add, rename, and remove bookmark) (4 days ago)
 - [LintaoAmons/lintao-index](https://github.com/LintaoAmons/lintao-index) -  (5 days ago)
 - [LintaoAmons/CoolStuffes](https://github.com/LintaoAmons/CoolStuffes) - 我的分享放这里了，大家随便拿去用啊，记得给个星星就行啦～ (6 days ago)
-- [LintaoAmons/scratch.nvim](https://github.com/LintaoAmons/scratch.nvim) - Create temporary playground files effortlessly. Find them later without worrying about filenames or locations. (6 days ago)
 
 #### ⭐ Recent Stars
 
+- [open-policy-agent/opa](https://github.com/open-policy-agent/opa) - Open Policy Agent (OPA) is an open source, general-purpose policy engine. (today)
 - [CWood-sdf/banana.nvim](https://github.com/CWood-sdf/banana.nvim) - Write your plugin ui in html (1 day ago)
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE! (2 days ago)
-- [cosminadrianpopescu/azul](https://github.com/cosminadrianpopescu/azul) - A nvim based terminal multiplexer (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
