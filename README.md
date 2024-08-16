@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [kubernetes-client/javascript](https://github.com/kubernetes-client/javascript) - Javascript client (today)
 - [open-policy-agent/opa](https://github.com/open-policy-agent/opa) - Open Policy Agent (OPA) is an open source, general-purpose policy engine. (today)
 - [CWood-sdf/banana.nvim](https://github.com/CWood-sdf/banana.nvim) - Write your plugin ui in html (1 day ago)
-- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE! (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
