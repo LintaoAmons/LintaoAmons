@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [echasnovski/mini.files](https://github.com/echasnovski/mini.files) - Navigate and manipulate file system. Part of &#39;mini.nvim&#39; library. (today)
 - [linlinjava/litemall](https://github.com/linlinjava/litemall) - 又一个小商城。litemall = Spring Boot后端 &#43; Vue管理员前端 &#43; 微信小程序用户前端 &#43; Vue用户移动端 (1 day ago)
 - [wizard-a/taro-mall](https://github.com/wizard-a/taro-mall) - Taro_Mall是一款多端开源在线商城应用程序，后台是基于litemall基础上进行开发，前端采用Taro框架编写，现已全部完成小程序和h5移动端，后续会对APP，淘宝，头条，百度小程序进行适配。Taro_Mall已经完成了 litemall 前端的所有功能 (1 day ago)
-- [kubernetes-client/javascript](https://github.com/kubernetes-client/javascript) - Javascript client (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
