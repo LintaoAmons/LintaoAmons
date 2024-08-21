@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - The complete load testing platform. Everything you need for production-grade load tests. Serverless &amp; distributed. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any Node.js module. (today)
 - [jimmycuadra/ktmpl](https://github.com/jimmycuadra/ktmpl) - Parameterized templates for Kubernetes manifests. (today)
 - [linkarzu/dotfiles-latest](https://github.com/linkarzu/dotfiles-latest) - My most up to date dotfiles (1 day ago)
-- [echasnovski/mini.files](https://github.com/echasnovski/mini.files) - Navigate and manipulate file system. Part of &#39;mini.nvim&#39; library. (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
