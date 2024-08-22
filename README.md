@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust (today)
 - [artilleryio/artillery](https://github.com/artilleryio/artillery) - The complete load testing platform. Everything you need for production-grade load tests. Serverless &amp; distributed. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any Node.js module. (1 day ago)
 - [jimmycuadra/ktmpl](https://github.com/jimmycuadra/ktmpl) - Parameterized templates for Kubernetes manifests. (1 day ago)
-- [linkarzu/dotfiles-latest](https://github.com/linkarzu/dotfiles-latest) - My most up to date dotfiles (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
