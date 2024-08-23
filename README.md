@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [yannh/kubernetes-json-schema](https://github.com/yannh/kubernetes-json-schema) - JSON Schemas for every version of every object in every version of Kubernetes (today)
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust (1 day ago)
 - [artilleryio/artillery](https://github.com/artilleryio/artillery) - The complete load testing platform. Everything you need for production-grade load tests. Serverless &amp; distributed. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any Node.js module. (2 days ago)
-- [jimmycuadra/ktmpl](https://github.com/jimmycuadra/ktmpl) - Parameterized templates for Kubernetes manifests. (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
