@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) - Persistent bookmarks: powerful but simple (one shortcut to add, rename, and remove bookmark) (today)
 - [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS 🚀 (today)
 - [yannh/kubernetes-json-schema](https://github.com/yannh/kubernetes-json-schema) - JSON Schemas for every version of every object in every version of Kubernetes (2 days ago)
-- [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
