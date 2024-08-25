@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS 🚀 (today)
 - [yannh/kubernetes-json-schema](https://github.com/yannh/kubernetes-json-schema) - JSON Schemas for every version of every object in every version of Kubernetes (2 days ago)
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust (3 days ago)
-- [artilleryio/artillery](https://github.com/artilleryio/artillery) - The complete load testing platform. Everything you need for production-grade load tests. Serverless &amp; distributed. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any Node.js module. (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
