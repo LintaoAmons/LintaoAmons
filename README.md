@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [gz-yami/mall4j](https://github.com/gz-yami/mall4j) - ⭐️⭐️⭐️ 电商商城 小程序电商商城系统 PC商城 H5商城 APP商城 Java商城 O2O商城 跨境商城 (today)
 - [qvalentin/helm-ls.nvim](https://github.com/qvalentin/helm-ls.nvim) - neovim lua plugin for helm-ls (today)
 - [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) - Persistent bookmarks: powerful but simple (one shortcut to add, rename, and remove bookmark) (2 days ago)
-- [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS 🚀 (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
