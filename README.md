@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [qvalentin/helm-ls.nvim](https://github.com/qvalentin/helm-ls.nvim) - neovim lua plugin for helm-ls (today)
 - [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) - Persistent bookmarks: powerful but simple (one shortcut to add, rename, and remove bookmark) (2 days ago)
 - [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS 🚀 (2 days ago)
-- [yannh/kubernetes-json-schema](https://github.com/yannh/kubernetes-json-schema) - JSON Schemas for every version of every object in every version of Kubernetes (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
