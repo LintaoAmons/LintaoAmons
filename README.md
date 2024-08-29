@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [izelnakri/async.nvim](https://github.com/izelnakri/async.nvim) - Worlds first fully working JS Promise implementation for lua/Neovim. Also a callback utility module to control higher-order async callback functions in lua. Lua port of async npm library, adjusted (today)
 - [gz-yami/mall4j](https://github.com/gz-yami/mall4j) - ⭐️⭐️⭐️ 电商商城 小程序电商商城系统 PC商城 H5商城 APP商城 Java商城 O2O商城 跨境商城 (2 days ago)
 - [qvalentin/helm-ls.nvim](https://github.com/qvalentin/helm-ls.nvim) - neovim lua plugin for helm-ls (2 days ago)
-- [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) - Persistent bookmarks: powerful but simple (one shortcut to add, rename, and remove bookmark) (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
