@@ -11,13 +11,13 @@
 
 #### ⭐ Recent Stars
 
-- [observablehq/framework](https://github.com/observablehq/framework) - A static site generator for data apps, dashboards, reports, and more. Observable Framework combines JavaScript on the front-end for interactive graphics with any language on the back-end for data analysis. (today)
-- [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。 (5 days ago)
-- [izelnakri/async.nvim](https://github.com/izelnakri/async.nvim) - Worlds first fully working JS Promise implementation for lua/Neovim. Also a callback utility module to control higher-order async callback functions in lua. Lua port of async npm library, adjusted (5 days ago)
+- [observablehq/framework](https://github.com/observablehq/framework) - A static site generator for data apps, dashboards, reports, and more. Observable Framework combines JavaScript on the front-end for interactive graphics with any language on the back-end for data analysis. (1 day ago)
+- [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。 (6 days ago)
+- [izelnakri/async.nvim](https://github.com/izelnakri/async.nvim) - Worlds first fully working JS Promise implementation for lua/Neovim. Also a callback utility module to control higher-order async callback functions in lua. Lua port of async npm library, adjusted (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ([v0.0.1](https://github.com/yetone/avante.nvim/releases/tag/v0.0.1), today) - Use your Neovim like using Cursor AI IDE!
+- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ([v0.0.1](https://github.com/yetone/avante.nvim/releases/tag/v0.0.1), 1 day ago) - Use your Neovim like using Cursor AI IDE!
 - [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) ([v1.4.0-calibrate-bookmark](https://github.com/LintaoAmons/bookmarks.nvim/releases/tag/v1.4.0-calibrate-bookmark), 2 weeks ago) - Persistent bookmarks: powerful but simple (one shortcut to add, rename, and remove bookmark)
 - [LintaoAmons/scratch.nvim](https://github.com/LintaoAmons/scratch.nvim) ([v1.2.0](https://github.com/LintaoAmons/scratch.nvim/releases/tag/v1.2.0), 3 weeks ago) - Create temporary playground files effortlessly. Find them later without worrying about filenames or locations.
 
