@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [mrjones2014/smart-splits.nvim](https://github.com/mrjones2014/smart-splits.nvim) - 🧠 Smart, seamless, directional navigation and resizing of Neovim &#43; terminal multiplexer splits. Supports tmux, Wezterm, and Kitty. Think about splits in terms of &#34;up/down/left/right&#34;. (today)
 - [observablehq/framework](https://github.com/observablehq/framework) - A static site generator for data apps, dashboards, reports, and more. Observable Framework combines JavaScript on the front-end for interactive graphics with any language on the back-end for data analysis. (2 days ago)
 - [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。 (1 week ago)
-- [izelnakri/async.nvim](https://github.com/izelnakri/async.nvim) - Worlds first fully working JS Promise implementation for lua/Neovim. Also a callback utility module to control higher-order async callback functions in lua. Lua port of async npm library, adjusted (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
