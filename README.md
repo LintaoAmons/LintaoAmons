@@ -23,9 +23,9 @@
 
 #### 👯 Check out some of my recent followers
 
+- [BorealisH](https://github.com/BorealisH)
 - [Aaronjwork](https://github.com/Aaronjwork)
 - [quejuwen](https://github.com/quejuwen)
-- [TonyAkins121](https://github.com/TonyAkins121)
 
 #### 📫 How to reach me
 Say Hello, I don't bite!
