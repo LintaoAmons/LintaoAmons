@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components. (today)
 - [DanilaMihailov/beacon.nvim](https://github.com/DanilaMihailov/beacon.nvim) - Whenever cursor jumps some distance or moves between windows, it will flash so you can see where it is (today)
 - [mrjones2014/smart-splits.nvim](https://github.com/mrjones2014/smart-splits.nvim) - 🧠 Smart, seamless, directional navigation and resizing of Neovim &#43; terminal multiplexer splits. Supports tmux, Wezterm, and Kitty. Think about splits in terms of &#34;up/down/left/right&#34;. (2 days ago)
-- [observablehq/framework](https://github.com/observablehq/framework) - A static site generator for data apps, dashboards, reports, and more. Observable Framework combines JavaScript on the front-end for interactive graphics with any language on the back-end for data analysis. (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
