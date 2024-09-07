@@ -23,9 +23,9 @@
 
 #### 👯 Check out some of my recent followers
 
+- [osiristape](https://github.com/osiristape)
 - [BorealisH](https://github.com/BorealisH)
 - [Aaronjwork](https://github.com/Aaronjwork)
-- [quejuwen](https://github.com/quejuwen)
 
 #### 📫 How to reach me
 Say Hello, I don't bite!
