@@ -3,23 +3,23 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) - Persistent bookmarks: powerful but simple (one shortcut to add, rename, and remove bookmark) (1 day ago)
-- [LintaoAmons/CoolStuffes](https://github.com/LintaoAmons/CoolStuffes) - 我的分享放这里了，大家随便拿去用啊，记得给个星星就行啦～ (1 week ago)
-- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE! (1 week ago)
+- [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) - Persistent bookmarks: powerful but simple (one shortcut to add, rename, and remove bookmark) (2 days ago)
+- [LintaoAmons/CoolStuffes](https://github.com/LintaoAmons/CoolStuffes) - 我的分享放这里了，大家随便拿去用啊，记得给个星星就行啦～ (2 weeks ago)
+- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE! (2 weeks ago)
 - [LintaoAmons/context-menu.nvim](https://github.com/LintaoAmons/context-menu.nvim) -  (2 weeks ago)
 - [saecki/live-rename.nvim](https://github.com/saecki/live-rename.nvim) - A neovim plugin to live preview lsp renames (3 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [golang/oauth2](https://github.com/golang/oauth2) - Go OAuth2 (today)
-- [jasonraimondi/ts-oauth2-server](https://github.com/jasonraimondi/ts-oauth2-server) - A full featured, secure, standards compliant implementation of an OAuth 2.0 authorization server for Nodejs that utilizes JWT and Proof Key for Code Exchange (PKCE), written in TypeScript.  (today)
-- [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components. (1 day ago)
+- [golang/oauth2](https://github.com/golang/oauth2) - Go OAuth2 (1 day ago)
+- [jasonraimondi/ts-oauth2-server](https://github.com/jasonraimondi/ts-oauth2-server) - A full featured, secure, standards compliant implementation of an OAuth 2.0 authorization server for Nodejs that utilizes JWT and Proof Key for Code Exchange (PKCE), written in TypeScript.  (1 day ago)
+- [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components. (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ([v0.0.2](https://github.com/yetone/avante.nvim/releases/tag/v0.0.2), 4 days ago) - Use your Neovim like using Cursor AI IDE!
+- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ([v0.0.2](https://github.com/yetone/avante.nvim/releases/tag/v0.0.2), 5 days ago) - Use your Neovim like using Cursor AI IDE!
 - [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) ([v1.4.0-calibrate-bookmark](https://github.com/LintaoAmons/bookmarks.nvim/releases/tag/v1.4.0-calibrate-bookmark), 3 weeks ago) - Persistent bookmarks: powerful but simple (one shortcut to add, rename, and remove bookmark)
-- [LintaoAmons/scratch.nvim](https://github.com/LintaoAmons/scratch.nvim) ([v1.2.0](https://github.com/LintaoAmons/scratch.nvim/releases/tag/v1.2.0), 4 weeks ago) - Create temporary playground files effortlessly. Find them later without worrying about filenames or locations.
+- [LintaoAmons/scratch.nvim](https://github.com/LintaoAmons/scratch.nvim) ([v1.2.0](https://github.com/LintaoAmons/scratch.nvim/releases/tag/v1.2.0), 1 month ago) - Create temporary playground files effortlessly. Find them later without worrying about filenames or locations.
 
 #### 👯 Check out some of my recent followers
 
