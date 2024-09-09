@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [folke/ts-comments.nvim](https://github.com/folke/ts-comments.nvim) - Tiny plugin to enhance Neovim&#39;s native comments (today)
 - [golang/oauth2](https://github.com/golang/oauth2) - Go OAuth2 (1 day ago)
 - [jasonraimondi/ts-oauth2-server](https://github.com/jasonraimondi/ts-oauth2-server) - A full featured, secure, standards compliant implementation of an OAuth 2.0 authorization server for Nodejs that utilizes JWT and Proof Key for Code Exchange (PKCE), written in TypeScript.  (1 day ago)
-- [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components. (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
