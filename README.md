@@ -1,5 +1,5 @@
 ### Hi there 👋
-> Here's my personal site: https://lintao-index.pages.dev
+> Here's my personal site: https://oatnil.top
 
 #### 👷 Check out what I'm currently working on
 
