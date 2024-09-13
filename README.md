@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [songjiayang/prometheus_practice](https://github.com/songjiayang/prometheus_practice) - 包括 Prometheus 基础知识，性能优化和大量实战经验。 (today)
 - [folke/ts-comments.nvim](https://github.com/folke/ts-comments.nvim) - Tiny plugin to enhance Neovim&#39;s native comments (4 days ago)
 - [golang/oauth2](https://github.com/golang/oauth2) - Go OAuth2 (5 days ago)
-- [jasonraimondi/ts-oauth2-server](https://github.com/jasonraimondi/ts-oauth2-server) - A full featured, secure, standards compliant implementation of an OAuth 2.0 authorization server for Nodejs that utilizes JWT and Proof Key for Code Exchange (PKCE), written in TypeScript.  (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
