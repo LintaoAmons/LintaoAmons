@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
-- [vegasbrianc/prometheus](https://github.com/vegasbrianc/prometheus) - A docker-compose stack for Prometheus monitoring (today)
-- [antonputra/kubernetes-on-premise](https://github.com/antonputra/kubernetes-on-premise) -  (1 day ago)
-- [songjiayang/prometheus_practice](https://github.com/songjiayang/prometheus_practice) - 包括 Prometheus 基础知识，性能优化和大量实战经验。 (1 day ago)
+- [vegasbrianc/prometheus](https://github.com/vegasbrianc/prometheus) - A docker-compose stack for Prometheus monitoring (1 day ago)
+- [antonputra/kubernetes-on-premise](https://github.com/antonputra/kubernetes-on-premise) -  (2 days ago)
+- [songjiayang/prometheus_practice](https://github.com/songjiayang/prometheus_practice) - 包括 Prometheus 基础知识，性能优化和大量实战经验。 (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
