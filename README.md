@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
-- [vegasbrianc/prometheus](https://github.com/vegasbrianc/prometheus) - A docker-compose stack for Prometheus monitoring (2 days ago)
-- [antonputra/kubernetes-on-premise](https://github.com/antonputra/kubernetes-on-premise) -  (3 days ago)
-- [songjiayang/prometheus_practice](https://github.com/songjiayang/prometheus_practice) - 包括 Prometheus 基础知识，性能优化和大量实战经验。 (3 days ago)
+- [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥 (1 day ago)
+- [vegasbrianc/prometheus](https://github.com/vegasbrianc/prometheus) - A docker-compose stack for Prometheus monitoring (3 days ago)
+- [antonputra/kubernetes-on-premise](https://github.com/antonputra/kubernetes-on-premise) -  (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
