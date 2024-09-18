@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [xuexb/learn-nginx](https://github.com/xuexb/learn-nginx) - Nginx 入门指南 (today)
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥 (2 days ago)
 - [vegasbrianc/prometheus](https://github.com/vegasbrianc/prometheus) - A docker-compose stack for Prometheus monitoring (4 days ago)
-- [antonputra/kubernetes-on-premise](https://github.com/antonputra/kubernetes-on-premise) -  (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
