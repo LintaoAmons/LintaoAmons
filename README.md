@@ -11,13 +11,13 @@
 
 #### ⭐ Recent Stars
 
-- [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥 (1 day ago)
-- [vegasbrianc/prometheus](https://github.com/vegasbrianc/prometheus) - A docker-compose stack for Prometheus monitoring (3 days ago)
-- [antonputra/kubernetes-on-premise](https://github.com/antonputra/kubernetes-on-premise) -  (4 days ago)
+- [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥 (2 days ago)
+- [vegasbrianc/prometheus](https://github.com/vegasbrianc/prometheus) - A docker-compose stack for Prometheus monitoring (4 days ago)
+- [antonputra/kubernetes-on-premise](https://github.com/antonputra/kubernetes-on-premise) -  (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ([v0.0.2](https://github.com/yetone/avante.nvim/releases/tag/v0.0.2), 1 week ago) - Use your Neovim like using Cursor AI IDE!
+- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ([v0.0.2](https://github.com/yetone/avante.nvim/releases/tag/v0.0.2), 2 weeks ago) - Use your Neovim like using Cursor AI IDE!
 - [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) ([v1.4.0-calibrate-bookmark](https://github.com/LintaoAmons/bookmarks.nvim/releases/tag/v1.4.0-calibrate-bookmark), 1 month ago) - Persistent bookmarks: powerful but simple (one shortcut to add, rename, and remove bookmark)
 - [LintaoAmons/scratch.nvim](https://github.com/LintaoAmons/scratch.nvim) ([v1.2.0](https://github.com/LintaoAmons/scratch.nvim/releases/tag/v1.2.0), 1 month ago) - Create temporary playground files effortlessly. Find them later without worrying about filenames or locations.
 
