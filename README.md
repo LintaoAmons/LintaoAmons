@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum: (today)
 - [antonputra/tutorials](https://github.com/antonputra/tutorials) - DevOps Tutorials (1 day ago)
 - [xuexb/learn-nginx](https://github.com/xuexb/learn-nginx) - Nginx 入门指南 (1 day ago)
-- [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥 (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
