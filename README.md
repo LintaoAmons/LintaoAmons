@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [quolpr/quicktest.nvim](https://github.com/quolpr/quicktest.nvim) - Run your tests in split window or popup with live feedback (today)
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. (today)
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum: (1 day ago)
-- [antonputra/tutorials](https://github.com/antonputra/tutorials) - DevOps Tutorials (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
