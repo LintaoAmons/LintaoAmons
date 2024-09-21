@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀 (today)
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3 (today)
 - [quolpr/quicktest.nvim](https://github.com/quolpr/quicktest.nvim) - Run your tests in split window or popup with live feedback (1 day ago)
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
