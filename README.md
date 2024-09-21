@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3 (today)
 - [quolpr/quicktest.nvim](https://github.com/quolpr/quicktest.nvim) - Run your tests in split window or popup with live feedback (1 day ago)
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. (1 day ago)
-- [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum: (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
