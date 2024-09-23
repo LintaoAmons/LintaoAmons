@@ -23,9 +23,9 @@
 
 #### 👯 Check out some of my recent followers
 
+- [uwla](https://github.com/uwla)
 - [Yiklek](https://github.com/Yiklek)
 - [Aaronjwork](https://github.com/Aaronjwork)
-- [quejuwen](https://github.com/quejuwen)
 
 #### 📫 How to reach me
 Say Hello, I don't bite!
