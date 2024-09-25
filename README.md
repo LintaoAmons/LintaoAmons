@@ -3,21 +3,21 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LintaoAmons/context-menu.nvim](https://github.com/LintaoAmons/context-menu.nvim) -  (2 days ago)
+- [LintaoAmons/context-menu.nvim](https://github.com/LintaoAmons/context-menu.nvim) -  (3 days ago)
 - [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) - Persistent bookmarks: powerful but simple (one shortcut to add, rename, and remove bookmark) (2 weeks ago)
-- [LintaoAmons/CoolStuffes](https://github.com/LintaoAmons/CoolStuffes) - 我的分享放这里了，大家随便拿去用啊，记得给个星星就行啦～ (4 weeks ago)
-- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE! (4 weeks ago)
+- [LintaoAmons/CoolStuffes](https://github.com/LintaoAmons/CoolStuffes) - 我的分享放这里了，大家随便拿去用啊，记得给个星星就行啦～ (1 month ago)
+- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE! (1 month ago)
 - [saecki/live-rename.nvim](https://github.com/saecki/live-rename.nvim) - A neovim plugin to live preview lsp renames (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js &amp; TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB (1 day ago)
-- [vvo/iron-session](https://github.com/vvo/iron-session) - 🛠 Secure, stateless, and cookie-based session library for JavaScript (3 days ago)
-- [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀 (3 days ago)
+- [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js &amp; TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB (2 days ago)
+- [vvo/iron-session](https://github.com/vvo/iron-session) - 🛠 Secure, stateless, and cookie-based session library for JavaScript (4 days ago)
+- [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀 (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ([v0.0.2](https://github.com/yetone/avante.nvim/releases/tag/v0.0.2), 2 weeks ago) - Use your Neovim like using Cursor AI IDE!
+- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ([v0.0.2](https://github.com/yetone/avante.nvim/releases/tag/v0.0.2), 3 weeks ago) - Use your Neovim like using Cursor AI IDE!
 - [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) ([v1.4.0-calibrate-bookmark](https://github.com/LintaoAmons/bookmarks.nvim/releases/tag/v1.4.0-calibrate-bookmark), 1 month ago) - Persistent bookmarks: powerful but simple (one shortcut to add, rename, and remove bookmark)
 - [LintaoAmons/scratch.nvim](https://github.com/LintaoAmons/scratch.nvim) ([v1.2.0](https://github.com/LintaoAmons/scratch.nvim/releases/tag/v1.2.0), 1 month ago) - Create temporary playground files effortlessly. Find them later without worrying about filenames or locations.
 
