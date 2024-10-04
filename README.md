@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [NvChad/menu](https://github.com/NvChad/menu) - Menu ui for neovim ( supports nested menus )  WIP (today)
+- [NvChad/volt](https://github.com/NvChad/volt) - Plugin for creating reactive UI  in neovim (today)
 - [NvChad/minty](https://github.com/NvChad/minty) - Most Beautifully crafted color tools for Neovim  (today)
-- [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes Superpowers to everyone (4 days ago)
-- [gilbarbara/react-joyride](https://github.com/gilbarbara/react-joyride) - Create guided tours in your apps (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
