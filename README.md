@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [barvian/motion-number](https://github.com/barvian/motion-number) - A Framer Motion component that transitions, formats, and localizes numbers. (today)
 - [NvChad/menu](https://github.com/NvChad/menu) - Menu ui for neovim ( supports nested menus )  WIP (1 day ago)
 - [NvChad/volt](https://github.com/NvChad/volt) - Plugin for creating reactive UI  in neovim (1 day ago)
-- [NvChad/minty](https://github.com/NvChad/minty) - Most Beautifully crafted color tools for Neovim  (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
