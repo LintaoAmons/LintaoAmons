@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (today)
 - [barvian/motion-number](https://github.com/barvian/motion-number) - A Framer Motion component that transitions, formats, and localizes numbers. (today)
-- [NvChad/menu](https://github.com/NvChad/menu) - Menu ui for neovim ( supports nested menus )  WIP (1 day ago)
-- [NvChad/volt](https://github.com/NvChad/volt) - Plugin for creating reactive UI  in neovim (1 day ago)
+- [NvChad/menu](https://github.com/NvChad/menu) - Menu ui for neovim ( supports nested menus ) made using volt (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
