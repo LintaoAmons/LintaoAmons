@@ -3,17 +3,17 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LintaoAmons/scratch.nvim](https://github.com/LintaoAmons/scratch.nvim) - Create temporary playground files effortlessly. Find them later without worrying about filenames or locations. (today)
-- [LintaoAmons/cd-project.nvim](https://github.com/LintaoAmons/cd-project.nvim) - I tried quite a lot `Project Management` plugins. In the end, I found all I need is just an easier way to `cd` to another project directory. (2 days ago)
-- [LintaoAmons/context-menu.nvim](https://github.com/LintaoAmons/context-menu.nvim) -  (1 week ago)
+- [LintaoAmons/scratch.nvim](https://github.com/LintaoAmons/scratch.nvim) - Create temporary playground files effortlessly. Find them later without worrying about filenames or locations. (1 day ago)
+- [LintaoAmons/cd-project.nvim](https://github.com/LintaoAmons/cd-project.nvim) - I tried quite a lot `Project Management` plugins. In the end, I found all I need is just an easier way to `cd` to another project directory. (3 days ago)
+- [LintaoAmons/context-menu.nvim](https://github.com/LintaoAmons/context-menu.nvim) -  (2 weeks ago)
 - [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) - Persistent bookmarks: powerful but simple (one shortcut to add, rename, and remove bookmark) (4 weeks ago)
 - [LintaoAmons/CoolStuffes](https://github.com/LintaoAmons/CoolStuffes) - 我的分享放这里了，大家随便拿去用啊，记得给个星星就行啦～ (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (today)
-- [barvian/motion-number](https://github.com/barvian/motion-number) - A Framer Motion component that transitions, formats, and localizes numbers. (today)
-- [NvChad/menu](https://github.com/NvChad/menu) - Menu ui for neovim ( supports nested menus ) made using volt (1 day ago)
+- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (1 day ago)
+- [barvian/motion-number](https://github.com/barvian/motion-number) - A Framer Motion component that transitions, formats, and localizes numbers. (1 day ago)
+- [NvChad/menu](https://github.com/NvChad/menu) - Menu ui for neovim ( supports nested menus ) made using volt (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
