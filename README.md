@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [ruanyf/wechat-miniprogram-demos](https://github.com/ruanyf/wechat-miniprogram-demos) -  微信小程序教程库 (today)
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (2 days ago)
 - [barvian/motion-number](https://github.com/barvian/motion-number) - A Framer Motion component that transitions, formats, and localizes numbers. (2 days ago)
-- [NvChad/menu](https://github.com/NvChad/menu) - Menu ui for neovim ( supports nested menus ) made using volt (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
