@@ -17,9 +17,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [LintaoAmons/scratch.nvim](https://github.com/LintaoAmons/scratch.nvim) ([v1.3.0](https://github.com/LintaoAmons/scratch.nvim/releases/tag/v1.3.0), today) - Create temporary playground files effortlessly. Find them later without worrying about filenames or locations.
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ([v0.0.8](https://github.com/yetone/avante.nvim/releases/tag/v0.0.8), 1 week ago) - Use your Neovim like using Cursor AI IDE!
 - [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) ([v1.4.0-calibrate-bookmark](https://github.com/LintaoAmons/bookmarks.nvim/releases/tag/v1.4.0-calibrate-bookmark), 1 month ago) - Persistent bookmarks: powerful but simple (one shortcut to add, rename, and remove bookmark)
-- [LintaoAmons/scratch.nvim](https://github.com/LintaoAmons/scratch.nvim) ([v1.2.0](https://github.com/LintaoAmons/scratch.nvim/releases/tag/v1.2.0), 1 month ago) - Create temporary playground files effortlessly. Find them later without worrying about filenames or locations.
 
 #### 👯 Check out some of my recent followers
 
