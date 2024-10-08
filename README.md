@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp) - Performant, batteries-included completion plugin for Neovim  (today)
 - [elijah-potter/harper](https://github.com/elijah-potter/harper) - The Grammar Checker for Developers (today)
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services (today)
-- [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
