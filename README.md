@@ -23,9 +23,9 @@
 
 #### 👯 Check out some of my recent followers
 
+- [yibie](https://github.com/yibie)
 - [2266515](https://github.com/2266515)
 - [uwla](https://github.com/uwla)
-- [Yiklek](https://github.com/Yiklek)
 
 #### 📫 How to reach me
 Say Hello, I don't bite!
