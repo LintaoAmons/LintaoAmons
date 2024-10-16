@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown) - Markdown component for React (today)
 - [antonk52/basics-language-server](https://github.com/antonk52/basics-language-server) - Buffer, path, and snippet completions (today)
 - [react-syntax-highlighter/react-syntax-highlighter](https://github.com/react-syntax-highlighter/react-syntax-highlighter) - syntax highlighting component for react with prismjs or highlightjs ast using inline styles (1 day ago)
-- [remarkjs/remark](https://github.com/remarkjs/remark) - markdown processor powered by plugins part of the @unifiedjs collective (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
