@@ -3,7 +3,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LintaoAmons/CoolStuffes](https://github.com/LintaoAmons/CoolStuffes) - 我的分享放这里了，大家随便拿去用啊，记得给个星星就行啦～ (5 days ago)
+- [LintaoAmons/CoolStuffes](https://github.com/LintaoAmons/CoolStuffes) - 我的分享放这里了，大家随便拿去用啊，记得给个星星就行啦～ (6 days ago)
 - [LintaoAmons/scratch.nvim](https://github.com/LintaoAmons/scratch.nvim) - Create temporary playground files effortlessly. Find them later without worrying about filenames or locations. (1 week ago)
 - [LintaoAmons/cd-project.nvim](https://github.com/LintaoAmons/cd-project.nvim) - I tried quite a lot `Project Management` plugins. In the end, I found all I need is just an easier way to `cd` to another project directory. (2 weeks ago)
 - [LintaoAmons/context-menu.nvim](https://github.com/LintaoAmons/context-menu.nvim) -  (3 weeks ago)
@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
-- [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown) - Markdown component for React (1 day ago)
-- [antonk52/basics-language-server](https://github.com/antonk52/basics-language-server) - Buffer, path, and snippet completions (1 day ago)
-- [react-syntax-highlighter/react-syntax-highlighter](https://github.com/react-syntax-highlighter/react-syntax-highlighter) - syntax highlighting component for react with prismjs or highlightjs ast using inline styles (2 days ago)
+- [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown) - Markdown component for React (2 days ago)
+- [antonk52/basics-language-server](https://github.com/antonk52/basics-language-server) - Buffer, path, and snippet completions (2 days ago)
+- [react-syntax-highlighter/react-syntax-highlighter](https://github.com/react-syntax-highlighter/react-syntax-highlighter) - syntax highlighting component for react with prismjs or highlightjs ast using inline styles (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
