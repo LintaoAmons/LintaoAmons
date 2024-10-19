@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [secorolab/.github](https://github.com/secorolab/.github) -  (today)
 - [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown) - Markdown component for React (3 days ago)
 - [antonk52/basics-language-server](https://github.com/antonk52/basics-language-server) - Buffer, path, and snippet completions (3 days ago)
-- [react-syntax-highlighter/react-syntax-highlighter](https://github.com/react-syntax-highlighter/react-syntax-highlighter) - syntax highlighting component for react with prismjs or highlightjs ast using inline styles (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
