@@ -6,14 +6,14 @@
 - [LintaoAmons/CoolStuffes](https://github.com/LintaoAmons/CoolStuffes) - 我的分享放这里了，大家随便拿去用啊，记得给个星星就行啦～ (1 week ago)
 - [LintaoAmons/scratch.nvim](https://github.com/LintaoAmons/scratch.nvim) - Create temporary playground files effortlessly. Find them later without worrying about filenames or locations. (1 week ago)
 - [LintaoAmons/cd-project.nvim](https://github.com/LintaoAmons/cd-project.nvim) - I tried quite a lot `Project Management` plugins. In the end, I found all I need is just an easier way to `cd` to another project directory. (2 weeks ago)
-- [LintaoAmons/context-menu.nvim](https://github.com/LintaoAmons/context-menu.nvim) -  (3 weeks ago)
+- [LintaoAmons/context-menu.nvim](https://github.com/LintaoAmons/context-menu.nvim) -  (4 weeks ago)
 - [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) - Persistent bookmarks: powerful but simple (one shortcut to add, rename, and remove bookmark) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [secorolab/.github](https://github.com/secorolab/.github) -  (today)
-- [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown) - Markdown component for React (3 days ago)
-- [antonk52/basics-language-server](https://github.com/antonk52/basics-language-server) - Buffer, path, and snippet completions (3 days ago)
+- [secorolab/.github](https://github.com/secorolab/.github) -  (1 day ago)
+- [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown) - Markdown component for React (4 days ago)
+- [antonk52/basics-language-server](https://github.com/antonk52/basics-language-server) - Buffer, path, and snippet completions (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
