@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [patmood/pocketbase-typegen](https://github.com/patmood/pocketbase-typegen) - Typescript generation for pocketbase records (today)
 - [secorolab/.github](https://github.com/secorolab/.github) -  (2 days ago)
 - [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown) - Markdown component for React (5 days ago)
-- [antonk52/basics-language-server](https://github.com/antonk52/basics-language-server) - Buffer, path, and snippet completions (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
