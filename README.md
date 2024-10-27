@@ -11,7 +11,7 @@
 
 #### ⭐ Recent Stars
 
-- [patmood/pocketbase-typegen](https://github.com/patmood/pocketbase-typegen) - Typescript generation for pocketbase records (5 days ago)
+- [patmood/pocketbase-typegen](https://github.com/patmood/pocketbase-typegen) - Typescript generation for pocketbase records (6 days ago)
 - [secorolab/.github](https://github.com/secorolab/.github) -  (1 week ago)
 - [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown) - Markdown component for React (1 week ago)
 
