@@ -3,11 +3,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim) - ⎈ Streamline your Kubernetes management within Neovim—control and monitor your cluster seamlessly, all without leaving your coding environment. (today)
 - [LintaoAmons/scratch.nvim](https://github.com/LintaoAmons/scratch.nvim) - Create temporary playground files effortlessly. Find them later without worrying about filenames or locations. (today)
 - [LintaoAmons/CoolStuffes](https://github.com/LintaoAmons/CoolStuffes) - 我的分享放这里了，大家随便拿去用啊，记得给个星星就行啦～ (2 weeks ago)
 - [LintaoAmons/cd-project.nvim](https://github.com/LintaoAmons/cd-project.nvim) - I tried quite a lot `Project Management` plugins. In the end, I found all I need is just an easier way to `cd` to another project directory. (3 weeks ago)
 - [LintaoAmons/context-menu.nvim](https://github.com/LintaoAmons/context-menu.nvim) -  (1 month ago)
-- [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) - Persistent bookmarks: powerful but simple (one shortcut to add, rename, and remove bookmark) (1 month ago)
 
 #### ⭐ Recent Stars
 
@@ -17,9 +17,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim) ([v1.2.0](https://github.com/Ramilito/kubectl.nvim/releases/tag/v1.2.0), 1 day ago) - ⎈ Streamline your Kubernetes management within Neovim—control and monitor your cluster seamlessly, all without leaving your coding environment.
 - [LintaoAmons/scratch.nvim](https://github.com/LintaoAmons/scratch.nvim) ([v1.3.0](https://github.com/LintaoAmons/scratch.nvim/releases/tag/v1.3.0), 2 weeks ago) - Create temporary playground files effortlessly. Find them later without worrying about filenames or locations.
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ([v0.0.8](https://github.com/yetone/avante.nvim/releases/tag/v0.0.8), 1 month ago) - Use your Neovim like using Cursor AI IDE!
-- [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) ([v1.4.0-calibrate-bookmark](https://github.com/LintaoAmons/bookmarks.nvim/releases/tag/v1.4.0-calibrate-bookmark), 2 months ago) - Persistent bookmarks: powerful but simple (one shortcut to add, rename, and remove bookmark)
 
 #### 👯 Check out some of my recent followers
 
