@@ -17,7 +17,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim) ([v1.2.0](https://github.com/Ramilito/kubectl.nvim/releases/tag/v1.2.0), 1 day ago) - ⎈ Streamline your Kubernetes management within Neovim—control and monitor your cluster seamlessly, all without leaving your coding environment.
+- [Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim) ([v1.2.2](https://github.com/Ramilito/kubectl.nvim/releases/tag/v1.2.2), today) - ⎈ Streamline your Kubernetes management within Neovim—control and monitor your cluster seamlessly, all without leaving your coding environment.
 - [LintaoAmons/scratch.nvim](https://github.com/LintaoAmons/scratch.nvim) ([v1.3.0](https://github.com/LintaoAmons/scratch.nvim/releases/tag/v1.3.0), 2 weeks ago) - Create temporary playground files effortlessly. Find them later without worrying about filenames or locations.
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ([v0.0.8](https://github.com/yetone/avante.nvim/releases/tag/v0.0.8), 1 month ago) - Use your Neovim like using Cursor AI IDE!
 
