@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [jrmoulton/tmux-sessionizer](https://github.com/jrmoulton/tmux-sessionizer) - Tmux Sessionizer: A tool for opening git repositories as tmux sessions (today)
 - [crmeb/crmeb_java](https://github.com/crmeb/crmeb_java) - Java商城 免费 开源 CRMEB商城JAVA版，SpringBoot &#43; Maven &#43; Swagger &#43; Mybatis Plus &#43; Redis &#43; Uniapp &#43;Vue&#43;elementUI 包含移动端、小程序、PC后台、Api接口；有产品、用户、购物车、订单、积分、优惠券、营销、余额、权限、角色、系统设置、组合数据、可拖拉拽的form表单等模块，大量的减少了二开的成本。 (4 days ago)
 - [patmood/pocketbase-typegen](https://github.com/patmood/pocketbase-typegen) - Typescript generation for pocketbase records (1 week ago)
-- [secorolab/.github](https://github.com/secorolab/.github) -  (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
