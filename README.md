@@ -36,7 +36,7 @@ Say Hello, I don't bite!
 
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,vim,kubernetes,docker,aws,bash,python,lua,go,js,ts,react,html,css,jenkins,postgres,mysql,mongodb)](https://skillicons.dev)
 
-<img alt='badge_ckad' src="https://user-images.githubusercontent.com/24785373/206426236-a78f59dc-e6dc-4b92-a0c4-4cd7ab8e3649.png" width="auto" height="128" />
+<img alt='badge_ckad' src="https://user-images.githubusercontent.com/24785373/206426236-a78f59dc-e6dc-4b92-a0c4-4cd7ab8e3649.png" width="auto" height="68" /> <img alt='badge_cka' src="https://user-images.githubusercontent.com/24785373/206426229-d2f6d627-1f39-4054-ad91-6d65c00054d6.png" width="auto" height="68" />
 
 [![Lintao's GitHub stats](https://github-readme-stats.vercel.app/api?username=LintaoAmons)](https://github.com/LintaoAmons/github-readme-stats) 
 
