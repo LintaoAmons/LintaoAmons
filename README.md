@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [folke/snacks.nvim](https://github.com/folke/snacks.nvim) - 🍿 A collection of small QoL plugins for Neovim (today)
 - [tmux-plugins/tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect) - Persists tmux environment across system restarts. (2 days ago)
 - [meznaric/key-analyzer.nvim](https://github.com/meznaric/key-analyzer.nvim) - Helping you find free keybinds in vim (2 days ago)
-- [nvimdev/indentmini.nvim](https://github.com/nvimdev/indentmini.nvim) - A minimal and blazing fast indentline plugin (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
