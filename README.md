@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror. (today)
 - [folke/snacks.nvim](https://github.com/folke/snacks.nvim) - 🍿 A collection of small QoL plugins for Neovim (1 day ago)
 - [tmux-plugins/tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect) - Persists tmux environment across system restarts. (3 days ago)
-- [meznaric/key-analyzer.nvim](https://github.com/meznaric/key-analyzer.nvim) - Helping you find free keybinds in vim (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
