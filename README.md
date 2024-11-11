@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [smilhey/ed-cmd.nvim](https://github.com/smilhey/ed-cmd.nvim) - Neovim editable commandline  (today)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (3 days ago)
 - [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror. (4 days ago)
-- [folke/snacks.nvim](https://github.com/folke/snacks.nvim) - 🍿 A collection of small QoL plugins for Neovim (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
