@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust. (today)
 - [smilhey/ed-cmd.nvim](https://github.com/smilhey/ed-cmd.nvim) - Neovim editable commandline  (4 days ago)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (1 week ago)
-- [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror. (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
