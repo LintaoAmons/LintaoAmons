@@ -17,8 +17,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ([v0.0.10](https://github.com/yetone/avante.nvim/releases/tag/v0.0.10), today) - Use your Neovim like using Cursor AI IDE!
 - [Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim) ([v1.4.0](https://github.com/Ramilito/kubectl.nvim/releases/tag/v1.4.0), 1 week ago) - ⎈ Streamline your Kubernetes management within Neovim—control and monitor your cluster seamlessly, all without leaving your coding environment.
-- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ([v0.0.9](https://github.com/yetone/avante.nvim/releases/tag/v0.0.9), 2 weeks ago) - Use your Neovim like using Cursor AI IDE!
 - [LintaoAmons/cd-project.nvim](https://github.com/LintaoAmons/cd-project.nvim) ([v0.9.0](https://github.com/LintaoAmons/cd-project.nvim/releases/tag/v0.9.0), 3 weeks ago) - I tried quite a lot `Project Management` plugins. In the end, I found all I need is just an easier way to `cd` to another project directory.
 
 #### 👯 Check out some of my recent followers
