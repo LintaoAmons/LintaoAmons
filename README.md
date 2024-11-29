@@ -23,9 +23,9 @@
 
 #### 👯 Check out some of my recent followers
 
-- [eust-w](https://github.com/eust-w)
 - [roxit](https://github.com/roxit)
 - [yibie](https://github.com/yibie)
+- [2266515](https://github.com/2266515)
 
 #### 📫 How to reach me
 Say Hello, I don't bite!
