@@ -3,7 +3,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) - Persistent bookmarks: powerful but simple (one shortcut to add, rename, and remove bookmark) (2 days ago)
+- [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) - Persistent bookmarks: powerful but simple (one shortcut to add, rename, and remove bookmark) (3 days ago)
 - [LintaoAmons/scratch.nvim](https://github.com/LintaoAmons/scratch.nvim) - Create temporary playground files effortlessly. Find them later without worrying about filenames or locations. (2 weeks ago)
 - [LintaoAmons/context-menu.nvim](https://github.com/LintaoAmons/context-menu.nvim) -  (3 weeks ago)
 - [LintaoAmons/cd-project.nvim](https://github.com/LintaoAmons/cd-project.nvim) - I tried quite a lot `Project Management` plugins. In the end, I found all I need is just an easier way to `cd` to another project directory. (1 month ago)
@@ -17,9 +17,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) ([v1.4.2](https://github.com/LintaoAmons/bookmarks.nvim/releases/tag/v1.4.2), 2 days ago) - Persistent bookmarks: powerful but simple (one shortcut to add, rename, and remove bookmark)
-- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ([v0.0.11](https://github.com/yetone/avante.nvim/releases/tag/v0.0.11), 3 days ago) - Use your Neovim like using Cursor AI IDE!
-- [Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim) ([v1.4.1](https://github.com/Ramilito/kubectl.nvim/releases/tag/v1.4.1), 4 days ago) - ⎈ Streamline your Kubernetes management within Neovim—control and monitor your cluster seamlessly, all without leaving your coding environment.
+- [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) ([v1.4.2](https://github.com/LintaoAmons/bookmarks.nvim/releases/tag/v1.4.2), 3 days ago) - Persistent bookmarks: powerful but simple (one shortcut to add, rename, and remove bookmark)
+- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ([v0.0.11](https://github.com/yetone/avante.nvim/releases/tag/v0.0.11), 4 days ago) - Use your Neovim like using Cursor AI IDE!
+- [Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim) ([v1.4.1](https://github.com/Ramilito/kubectl.nvim/releases/tag/v1.4.1), 5 days ago) - ⎈ Streamline your Kubernetes management within Neovim—control and monitor your cluster seamlessly, all without leaving your coding environment.
 
 #### 👯 Check out some of my recent followers
 
