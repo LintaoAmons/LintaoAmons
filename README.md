@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [bitwarden/server](https://github.com/bitwarden/server) - Bitwarden infrastructure/backend (API, database, Docker, etc). (today)
 - [pikaz-18/pikaz-location](https://github.com/pikaz-18/pikaz-location) - 定位插件（限中国） (1 day ago)
 - [nvimdev/guard.nvim](https://github.com/nvimdev/guard.nvim) - async fast minimalist plugin make format easy in neovim (2 weeks ago)
-- [Codium-ai/pr-agent](https://github.com/Codium-ai/pr-agent) - 🚀CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍 (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
