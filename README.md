@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. (today)
 - [bitwarden/server](https://github.com/bitwarden/server) - Bitwarden infrastructure/backend (API, database, Docker, etc). (1 day ago)
 - [pikaz-18/pikaz-location](https://github.com/pikaz-18/pikaz-location) - 定位插件（限中国） (2 days ago)
-- [nvimdev/guard.nvim](https://github.com/nvimdev/guard.nvim) - async fast minimalist plugin make format easy in neovim (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
