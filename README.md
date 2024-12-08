@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [stevearc/overseer.nvim](https://github.com/stevearc/overseer.nvim) - A task runner and job management plugin for Neovim (today)
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. (1 day ago)
 - [bitwarden/server](https://github.com/bitwarden/server) - Bitwarden infrastructure/backend (API, database, Docker, etc). (2 days ago)
-- [pikaz-18/pikaz-location](https://github.com/pikaz-18/pikaz-location) - 定位插件（限中国） (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
