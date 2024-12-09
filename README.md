@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [ufukty/gonfique](https://github.com/ufukty/gonfique) - Type checked configs for Go programs (today)
 - [stevearc/overseer.nvim](https://github.com/stevearc/overseer.nvim) - A task runner and job management plugin for Neovim (1 day ago)
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. (2 days ago)
-- [bitwarden/server](https://github.com/bitwarden/server) - Bitwarden infrastructure/backend (API, database, Docker, etc). (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
