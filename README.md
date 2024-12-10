@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin) - Admin Dashboard UI built with Shadcn and Vite. (today)
 - [ufukty/gonfique](https://github.com/ufukty/gonfique) - Type checked configs for Go programs (1 day ago)
 - [stevearc/overseer.nvim](https://github.com/stevearc/overseer.nvim) - A task runner and job management plugin for Neovim (2 days ago)
-- [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
