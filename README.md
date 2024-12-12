@@ -11,14 +11,14 @@
 
 #### ⭐ Recent Stars
 
-- [satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin) - Admin Dashboard UI built with Shadcn and Vite. (1 day ago)
-- [ufukty/gonfique](https://github.com/ufukty/gonfique) - Type checked configs for Go programs (2 days ago)
-- [stevearc/overseer.nvim](https://github.com/stevearc/overseer.nvim) - A task runner and job management plugin for Neovim (3 days ago)
+- [satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin) - Admin Dashboard UI built with Shadcn and Vite. (2 days ago)
+- [ufukty/gonfique](https://github.com/ufukty/gonfique) - Type checked configs for Go programs (3 days ago)
+- [stevearc/overseer.nvim](https://github.com/stevearc/overseer.nvim) - A task runner and job management plugin for Neovim (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ([v0.0.13](https://github.com/yetone/avante.nvim/releases/tag/v0.0.13), today) - Use your Neovim like using Cursor AI IDE!
-- [Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim) ([v1.4.2](https://github.com/Ramilito/kubectl.nvim/releases/tag/v1.4.2), 5 days ago) - ⎈ Streamline your Kubernetes management within Neovim—control and monitor your cluster seamlessly, all without leaving your coding environment.
+- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ([v0.0.13](https://github.com/yetone/avante.nvim/releases/tag/v0.0.13), 1 day ago) - Use your Neovim like using Cursor AI IDE!
+- [Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim) ([v1.4.2](https://github.com/Ramilito/kubectl.nvim/releases/tag/v1.4.2), 6 days ago) - ⎈ Streamline your Kubernetes management within Neovim—control and monitor your cluster seamlessly, all without leaving your coding environment.
 - [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) ([v1.4.2](https://github.com/LintaoAmons/bookmarks.nvim/releases/tag/v1.4.2), 2 weeks ago) - Persistent bookmarks: powerful but simple (one shortcut to add, rename, and remove bookmark)
 
 #### 👯 Check out some of my recent followers
