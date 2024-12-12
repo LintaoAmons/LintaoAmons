@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [open-telemetry/opentelemetry-js-contrib](https://github.com/open-telemetry/opentelemetry-js-contrib) - OpenTelemetry instrumentation for JavaScript modules (today)
 - [satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin) - Admin Dashboard UI built with Shadcn and Vite. (2 days ago)
 - [ufukty/gonfique](https://github.com/ufukty/gonfique) - Type checked configs for Go programs (3 days ago)
-- [stevearc/overseer.nvim](https://github.com/stevearc/overseer.nvim) - A task runner and job management plugin for Neovim (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
