@@ -11,14 +11,14 @@
 
 #### ⭐ Recent Stars
 
-- [tomwray13/nestjs-open-telemetry](https://github.com/tomwray13/nestjs-open-telemetry) -  (1 day ago)
-- [open-telemetry/opentelemetry-js-contrib](https://github.com/open-telemetry/opentelemetry-js-contrib) - OpenTelemetry instrumentation for JavaScript modules (1 day ago)
-- [satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin) - Admin Dashboard UI built with Shadcn and Vite. (3 days ago)
+- [tomwray13/nestjs-open-telemetry](https://github.com/tomwray13/nestjs-open-telemetry) -  (2 days ago)
+- [open-telemetry/opentelemetry-js-contrib](https://github.com/open-telemetry/opentelemetry-js-contrib) - OpenTelemetry instrumentation for JavaScript modules (2 days ago)
+- [satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin) - Admin Dashboard UI built with Shadcn and Vite. (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim) ([v1.4.3](https://github.com/Ramilito/kubectl.nvim/releases/tag/v1.4.3), today) - ⎈ Streamline your Kubernetes management within Neovim—control and monitor your cluster seamlessly, all without leaving your coding environment.
-- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ([v0.0.13](https://github.com/yetone/avante.nvim/releases/tag/v0.0.13), 2 days ago) - Use your Neovim like using Cursor AI IDE!
+- [Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim) ([v1.4.3](https://github.com/Ramilito/kubectl.nvim/releases/tag/v1.4.3), 1 day ago) - ⎈ Streamline your Kubernetes management within Neovim—control and monitor your cluster seamlessly, all without leaving your coding environment.
+- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ([v0.0.13](https://github.com/yetone/avante.nvim/releases/tag/v0.0.13), 3 days ago) - Use your Neovim like using Cursor AI IDE!
 - [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) ([v1.4.2](https://github.com/LintaoAmons/bookmarks.nvim/releases/tag/v1.4.2), 2 weeks ago) - Persistent bookmarks: powerful but simple (one shortcut to add, rename, and remove bookmark)
 
 #### 👯 Check out some of my recent followers
