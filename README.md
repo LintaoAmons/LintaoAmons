@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [Mran/githubstartog](https://github.com/Mran/githubstartog) - 将你的星标项目做成前端页面 (today)
 - [tomwray13/nestjs-open-telemetry](https://github.com/tomwray13/nestjs-open-telemetry) -  (2 days ago)
 - [open-telemetry/opentelemetry-js-contrib](https://github.com/open-telemetry/opentelemetry-js-contrib) - OpenTelemetry instrumentation for JavaScript modules (2 days ago)
-- [satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin) - Admin Dashboard UI built with Shadcn and Vite. (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
