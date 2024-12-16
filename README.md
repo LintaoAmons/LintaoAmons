@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [alexpasmantier/television](https://github.com/alexpasmantier/television) - The revolution will (not) be televised (today)
 - [aptakube/kubespec.dev](https://github.com/aptakube/kubespec.dev) - Kubernetes Spec Explorer (today)
 - [Mran/githubstartog](https://github.com/Mran/githubstartog) - 将你的星标项目做成前端页面 (2 days ago)
-- [tomwray13/nestjs-open-telemetry](https://github.com/tomwray13/nestjs-open-telemetry) -  (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
