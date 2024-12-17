@@ -11,15 +11,15 @@
 
 #### ⭐ Recent Stars
 
+- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google Workspace, Active Directory and Kerberos (today)
 - [alexpasmantier/television](https://github.com/alexpasmantier/television) - The revolution will (not) be televised (1 day ago)
 - [aptakube/kubespec.dev](https://github.com/aptakube/kubespec.dev) - Kubernetes Spec Explorer (1 day ago)
-- [Mran/githubstartog](https://github.com/Mran/githubstartog) - 将你的星标项目做成前端页面 (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ([v0.0.14](https://github.com/yetone/avante.nvim/releases/tag/v0.0.14), today) - Use your Neovim like using Cursor AI IDE!
 - [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) ([v2.0.2](https://github.com/LintaoAmons/bookmarks.nvim/releases/tag/v2.0.2), today) - Persistent bookmarks: powerful but simple (one shortcut to add, rename, and remove bookmark)
 - [Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim) ([v1.4.3](https://github.com/Ramilito/kubectl.nvim/releases/tag/v1.4.3), 4 days ago) - ⎈ Streamline your Kubernetes management within Neovim—control and monitor your cluster seamlessly, all without leaving your coding environment.
-- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ([v0.0.13](https://github.com/yetone/avante.nvim/releases/tag/v0.0.13), 6 days ago) - Use your Neovim like using Cursor AI IDE!
 
 #### 👯 Check out some of my recent followers
 
