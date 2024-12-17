@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [WebDevSimplified/permission-system](https://github.com/WebDevSimplified/permission-system) -  (today)
 - [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google Workspace, Active Directory and Kerberos (today)
 - [alexpasmantier/television](https://github.com/alexpasmantier/television) - The revolution will (not) be televised (1 day ago)
-- [aptakube/kubespec.dev](https://github.com/aptakube/kubespec.dev) - Kubernetes Spec Explorer (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
