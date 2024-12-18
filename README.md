@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [grafana/tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency distributed tracing backend. (today)
 - [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger (today)
 - [WebDevSimplified/permission-system](https://github.com/WebDevSimplified/permission-system) -  (1 day ago)
-- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google Workspace, Active Directory and Kerberos (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
