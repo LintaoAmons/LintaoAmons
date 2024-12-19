@@ -23,9 +23,9 @@
 
 #### 👯 Check out some of my recent followers
 
+- [ZelongGuo](https://github.com/ZelongGuo)
 - [thebestlanders](https://github.com/thebestlanders)
 - [firefoxmmx2](https://github.com/firefoxmmx2)
-- [roxit](https://github.com/roxit)
 
 #### 📫 How to reach me
 Say Hello, I don't bite!
