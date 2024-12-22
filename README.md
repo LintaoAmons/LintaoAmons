@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [openauthjs/openauth](https://github.com/openauthjs/openauth) - ▦ Universal, standards-based auth provider. (today)
 - [grafana/tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency distributed tracing backend. (4 days ago)
 - [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger (4 days ago)
-- [WebDevSimplified/permission-system](https://github.com/WebDevSimplified/permission-system) -  (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
