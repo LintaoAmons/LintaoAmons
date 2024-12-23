@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [MaaXYZ/MaaFramework](https://github.com/MaaXYZ/MaaFramework) - 基于图像识别的自动化黑盒测试框架 | An automation black-box testing framework based on image recognition (today)
 - [openauthjs/openauth](https://github.com/openauthjs/openauth) - ▦ Universal, standards-based auth provider. (1 day ago)
 - [grafana/tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency distributed tracing backend. (5 days ago)
-- [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
