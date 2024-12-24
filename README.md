@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [haiwen/seafile](https://github.com/haiwen/seafile) - High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features. (today)
 - [MaaXYZ/MaaFramework](https://github.com/MaaXYZ/MaaFramework) - 基于图像识别的自动化黑盒测试框架 | An automation black-box testing framework based on image recognition (1 day ago)
 - [openauthjs/openauth](https://github.com/openauthjs/openauth) - ▦ Universal, standards-based auth provider. (2 days ago)
-- [grafana/tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency distributed tracing backend. (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
