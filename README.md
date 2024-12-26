@@ -3,8 +3,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) - Persistent bookmarks: powerful but simple (one shortcut to add, rename, and remove bookmark) (today)
 - [kkharji/sqlite.lua](https://github.com/kkharji/sqlite.lua) - SQLite LuaJIT binding with a very simple api. (1 week ago)
-- [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) - Persistent bookmarks: powerful but simple (one shortcut to add, rename, and remove bookmark) (1 week ago)
 - [LintaoAmons/scratch.nvim](https://github.com/LintaoAmons/scratch.nvim) - Create temporary playground files effortlessly. Find them later without worrying about filenames or locations. (1 month ago)
 - [LintaoAmons/context-menu.nvim](https://github.com/LintaoAmons/context-menu.nvim) -  (1 month ago)
 - [LintaoAmons/cd-project.nvim](https://github.com/LintaoAmons/cd-project.nvim) - I tried quite a lot `Project Management` plugins. In the end, I found all I need is just an easier way to `cd` to another project directory. (1 month ago)
@@ -17,8 +17,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) ([v2.2.0](https://github.com/LintaoAmons/bookmarks.nvim/releases/tag/v2.2.0), today) - Persistent bookmarks: powerful but simple (one shortcut to add, rename, and remove bookmark)
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ([v0.0.14](https://github.com/yetone/avante.nvim/releases/tag/v0.0.14), 1 week ago) - Use your Neovim like using Cursor AI IDE!
-- [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) ([v2.0.2](https://github.com/LintaoAmons/bookmarks.nvim/releases/tag/v2.0.2), 1 week ago) - Persistent bookmarks: powerful but simple (one shortcut to add, rename, and remove bookmark)
 - [Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim) ([v1.4.3](https://github.com/Ramilito/kubectl.nvim/releases/tag/v1.4.3), 1 week ago) - ⎈ Streamline your Kubernetes management within Neovim—control and monitor your cluster seamlessly, all without leaving your coding environment.
 
 #### 👯 Check out some of my recent followers
