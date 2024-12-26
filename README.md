@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [TaDaa/vimade](https://github.com/TaDaa/vimade) - Vimade let&#39;s you dim, fade, tint, animate, and customize colors in your windows and buffers for (Neo)vim (today)
 - [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - An AI-powered automation SDK can control the page, perform assertions, and extract data in JSON format using natural language. (2 days ago)
 - [haiwen/seafile](https://github.com/haiwen/seafile) - High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features. (2 days ago)
-- [MaaXYZ/MaaFramework](https://github.com/MaaXYZ/MaaFramework) - 基于图像识别的自动化黑盒测试框架 | An automation black-box testing framework based on image recognition (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
