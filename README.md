@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [jetify-com/devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments (today)
 - [TaDaa/vimade](https://github.com/TaDaa/vimade) - Vimade let&#39;s you dim, fade, tint, animate, and customize colors in your windows and buffers for (Neo)vim (1 day ago)
 - [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - An AI-powered automation SDK can control the page, perform assertions, and extract data in JSON format using natural language. (3 days ago)
-- [haiwen/seafile](https://github.com/haiwen/seafile) - High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features. (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
