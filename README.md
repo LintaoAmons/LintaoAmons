@@ -3,7 +3,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) - Persistent bookmarks: powerful but simple (one shortcut to add, rename, and remove bookmark) (1 day ago)
+- [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) - Persistent bookmarks: powerful but simple (one shortcut to add, rename, and remove bookmark) (today)
 - [kkharji/sqlite.lua](https://github.com/kkharji/sqlite.lua) - SQLite LuaJIT binding with a very simple api. (1 week ago)
 - [LintaoAmons/scratch.nvim](https://github.com/LintaoAmons/scratch.nvim) - Create temporary playground files effortlessly. Find them later without worrying about filenames or locations. (1 month ago)
 - [LintaoAmons/context-menu.nvim](https://github.com/LintaoAmons/context-menu.nvim) -  (1 month ago)
