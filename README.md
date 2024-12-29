@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks (today)
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output (1 day ago)
 - [jetify-com/devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments (2 days ago)
-- [TaDaa/vimade](https://github.com/TaDaa/vimade) - Vimade let&#39;s you dim, fade, tint, animate, and customize colors in your windows and buffers for (Neo)vim (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
