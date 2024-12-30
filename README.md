@@ -23,9 +23,9 @@
 
 #### 👯 Check out some of my recent followers
 
+- [jeffreyzhang23](https://github.com/jeffreyzhang23)
 - [tan7bot](https://github.com/tan7bot)
 - [ZelongGuo](https://github.com/ZelongGuo)
-- [firefoxmmx2](https://github.com/firefoxmmx2)
 
 #### 📫 How to reach me
 Say Hello, I don't bite!
