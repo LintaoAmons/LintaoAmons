@@ -3,7 +3,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) - Persistent bookmarks: hard disk of your thoughts (6 days ago)
+- [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) - Persistent bookmarks: hard disk of your thoughts (1 week ago)
 - [LintaoAmons/VimEverywhere](https://github.com/LintaoAmons/VimEverywhere) - Learn one vim, Use everywhere. (1 week ago)
 - [kkharji/sqlite.lua](https://github.com/kkharji/sqlite.lua) - SQLite LuaJIT binding with a very simple api. (2 weeks ago)
 - [LintaoAmons/scratch.nvim](https://github.com/LintaoAmons/scratch.nvim) - Create temporary playground files effortlessly. Find them later without worrying about filenames or locations. (1 month ago)
@@ -11,14 +11,14 @@
 
 #### ⭐ Recent Stars
 
-- [xzbdmw/colorful-menu.nvim](https://github.com/xzbdmw/colorful-menu.nvim) - Bring enjoyment to your auto completion (2 days ago)
+- [xzbdmw/colorful-menu.nvim](https://github.com/xzbdmw/colorful-menu.nvim) - Bring enjoyment to your auto completion (3 days ago)
 - [ZWindL/orphans.nvim](https://github.com/ZWindL/orphans.nvim) - Track neglected plugins and rediscover the overlooked in your Neovim setup. (1 week ago)
 - [VaalaCat/frp-panel](https://github.com/VaalaCat/frp-panel) - a multi node frp webui and for [frp](https://github.com/fatedier/frp) server and client management, which makes this project a Cloudflare Tunnel or Tailscale Funnel open source alternative (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) ([v2.4.0](https://github.com/LintaoAmons/bookmarks.nvim/releases/tag/v2.4.0), 6 days ago) - Persistent bookmarks: hard disk of your thoughts
-- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ([v0.0.14](https://github.com/yetone/avante.nvim/releases/tag/v0.0.14), 2 weeks ago) - Use your Neovim like using Cursor AI IDE!
+- [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) ([v2.4.0](https://github.com/LintaoAmons/bookmarks.nvim/releases/tag/v2.4.0), 1 week ago) - Persistent bookmarks: hard disk of your thoughts
+- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ([v0.0.14](https://github.com/yetone/avante.nvim/releases/tag/v0.0.14), 3 weeks ago) - Use your Neovim like using Cursor AI IDE!
 - [Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim) ([v1.4.3](https://github.com/Ramilito/kubectl.nvim/releases/tag/v1.4.3), 3 weeks ago) - ⎈ Streamline your Kubernetes management within Neovim—control and monitor your cluster seamlessly, all without leaving your coding environment.
 
 #### 👯 Check out some of my recent followers
