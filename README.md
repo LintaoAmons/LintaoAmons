@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [ecosse3/nvim](https://github.com/ecosse3/nvim) - A non-minimal Neovim config built to work most efficiently with Frontend Development (today)
 - [xzbdmw/colorful-menu.nvim](https://github.com/xzbdmw/colorful-menu.nvim) - Bring enjoyment to your auto completion (3 days ago)
 - [ZWindL/orphans.nvim](https://github.com/ZWindL/orphans.nvim) - Track neglected plugins and rediscover the overlooked in your Neovim setup. (1 week ago)
-- [VaalaCat/frp-panel](https://github.com/VaalaCat/frp-panel) - a multi node frp webui and for [frp](https://github.com/fatedier/frp) server and client management, which makes this project a Cloudflare Tunnel or Tailscale Funnel open source alternative (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
