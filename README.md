@@ -11,13 +11,13 @@
 
 #### ⭐ Recent Stars
 
-- [ecosse3/nvim](https://github.com/ecosse3/nvim) - A non-minimal Neovim config built to work most efficiently with Frontend Development (3 days ago)
-- [xzbdmw/colorful-menu.nvim](https://github.com/xzbdmw/colorful-menu.nvim) - Bring enjoyment to your auto completion (6 days ago)
+- [ecosse3/nvim](https://github.com/ecosse3/nvim) - A non-minimal Neovim config built to work most efficiently with Frontend Development (4 days ago)
+- [xzbdmw/colorful-menu.nvim](https://github.com/xzbdmw/colorful-menu.nvim) - Bring enjoyment to your auto completion (1 week ago)
 - [ZWindL/orphans.nvim](https://github.com/ZWindL/orphans.nvim) - Track neglected plugins and rediscover the overlooked in your Neovim setup. (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim) ([v1.4.4](https://github.com/Ramilito/kubectl.nvim/releases/tag/v1.4.4), 2 days ago) - ⎈ Streamline your Kubernetes management within Neovim—control and monitor your cluster seamlessly, all without leaving your coding environment.
+- [Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim) ([v1.4.4](https://github.com/Ramilito/kubectl.nvim/releases/tag/v1.4.4), 3 days ago) - ⎈ Streamline your Kubernetes management within Neovim—control and monitor your cluster seamlessly, all without leaving your coding environment.
 - [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) ([v2.4.0](https://github.com/LintaoAmons/bookmarks.nvim/releases/tag/v2.4.0), 1 week ago) - Persistent bookmarks: hard disk of your thoughts
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ([v0.0.14](https://github.com/yetone/avante.nvim/releases/tag/v0.0.14), 3 weeks ago) - Use your Neovim like using Cursor AI IDE!
 
