@@ -11,13 +11,13 @@
 
 #### ⭐ Recent Stars
 
-- [linuxserver/reverse-proxy-confs](https://github.com/linuxserver/reverse-proxy-confs) - These confs are pulled into our SWAG image: https://github.com/linuxserver/docker-swag (2 days ago)
-- [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.  (2 days ago)
+- [linuxserver/reverse-proxy-confs](https://github.com/linuxserver/reverse-proxy-confs) - These confs are pulled into our SWAG image: https://github.com/linuxserver/docker-swag (3 days ago)
+- [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.  (3 days ago)
 - [ecosse3/nvim](https://github.com/ecosse3/nvim) - A non-minimal Neovim config built to work most efficiently with Frontend Development (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim) ([v1.4.4](https://github.com/Ramilito/kubectl.nvim/releases/tag/v1.4.4), 6 days ago) - ⎈ Streamline your Kubernetes management within Neovim—control and monitor your cluster seamlessly, all without leaving your coding environment.
+- [Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim) ([v1.4.4](https://github.com/Ramilito/kubectl.nvim/releases/tag/v1.4.4), 1 week ago) - ⎈ Streamline your Kubernetes management within Neovim—control and monitor your cluster seamlessly, all without leaving your coding environment.
 - [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) ([v2.4.0](https://github.com/LintaoAmons/bookmarks.nvim/releases/tag/v2.4.0), 2 weeks ago) - Persistent bookmarks: hard disk of your thoughts
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ([v0.0.14](https://github.com/yetone/avante.nvim/releases/tag/v0.0.14), 4 weeks ago) - Use your Neovim like using Cursor AI IDE!
 
