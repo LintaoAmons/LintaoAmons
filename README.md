@@ -3,7 +3,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) - Persistent bookmarks: hard disk of your thoughts (1 day ago)
+- [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) - Persistent bookmarks: hard disk of your thoughts (2 days ago)
 - [LintaoAmons/VimEverywhere](https://github.com/LintaoAmons/VimEverywhere) - Learn one vim, Use everywhere. (3 weeks ago)
 - [kkharji/sqlite.lua](https://github.com/kkharji/sqlite.lua) - SQLite LuaJIT binding with a very simple api. (1 month ago)
 - [LintaoAmons/scratch.nvim](https://github.com/LintaoAmons/scratch.nvim) - Create temporary playground files effortlessly. Find them later without worrying about filenames or locations. (2 months ago)
@@ -11,15 +11,15 @@
 
 #### ⭐ Recent Stars
 
-- [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager (6 days ago)
+- [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager (1 week ago)
 - [linuxserver/reverse-proxy-confs](https://github.com/linuxserver/reverse-proxy-confs) - These confs are pulled into our SWAG image: https://github.com/linuxserver/docker-swag (1 week ago)
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.  (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) ([v2.6.1](https://github.com/LintaoAmons/bookmarks.nvim/releases/tag/v2.6.1), 1 day ago) - Persistent bookmarks: hard disk of your thoughts
-- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ([v0.0.15](https://github.com/yetone/avante.nvim/releases/tag/v0.0.15), 6 days ago) - Use your Neovim like using Cursor AI IDE!
-- [Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim) ([v1.4.4](https://github.com/Ramilito/kubectl.nvim/releases/tag/v1.4.4), 1 week ago) - ⎈ Streamline your Kubernetes management within Neovim—control and monitor your cluster seamlessly, all without leaving your coding environment.
+- [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) ([v2.6.1](https://github.com/LintaoAmons/bookmarks.nvim/releases/tag/v2.6.1), 2 days ago) - Persistent bookmarks: hard disk of your thoughts
+- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ([v0.0.15](https://github.com/yetone/avante.nvim/releases/tag/v0.0.15), 1 week ago) - Use your Neovim like using Cursor AI IDE!
+- [Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim) ([v1.4.4](https://github.com/Ramilito/kubectl.nvim/releases/tag/v1.4.4), 2 weeks ago) - ⎈ Streamline your Kubernetes management within Neovim—control and monitor your cluster seamlessly, all without leaving your coding environment.
 
 #### 👯 Check out some of my recent followers
 
