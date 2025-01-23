@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community. (today)
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager (1 week ago)
 - [linuxserver/reverse-proxy-confs](https://github.com/linuxserver/reverse-proxy-confs) - These confs are pulled into our SWAG image: https://github.com/linuxserver/docker-swag (1 week ago)
-- [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.  (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
