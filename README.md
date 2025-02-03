@@ -23,9 +23,9 @@
 
 #### 👯 Check out some of my recent followers
 
+- [LinuxJS](https://github.com/LinuxJS)
 - [ZWindL](https://github.com/ZWindL)
 - [jeffreyzhang23](https://github.com/jeffreyzhang23)
-- [ZelongGuo](https://github.com/ZelongGuo)
 
 #### 📫 How to reach me
 Say Hello, I don't bite!
