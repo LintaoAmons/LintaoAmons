@@ -3,7 +3,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim) - A minimal 🤏 HTTP-client 🐼 interface 🖥️ for Neovim ❤️. (3 days ago)
+- [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim) - A minimal 🤏 HTTP-client 🐼 interface 🖥️ for Neovim ❤️. (today)
 - [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) - Persistent bookmarks: hard disk of your thoughts (5 days ago)
 - [LintaoAmons/VimEverywhere](https://github.com/LintaoAmons/VimEverywhere) - Learn one vim, Use everywhere. (1 week ago)
 - [kkharji/sqlite.lua](https://github.com/kkharji/sqlite.lua) - SQLite LuaJIT binding with a very simple api. (1 month ago)
@@ -17,9 +17,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim) ([v4.9.0](https://github.com/mistweaverco/kulala.nvim/releases/tag/v4.9.0), today) - A minimal 🤏 HTTP-client 🐼 interface 🖥️ for Neovim ❤️.
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ([v0.0.16](https://github.com/yetone/avante.nvim/releases/tag/v0.0.16), today) - Use your Neovim like using Cursor AI IDE!
 - [Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim) ([v1.7.0](https://github.com/Ramilito/kubectl.nvim/releases/tag/v1.7.0), 2 days ago) - ⎈ Streamline your Kubernetes management within Neovim—control and monitor your cluster seamlessly, all without leaving your coding environment.
-- [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim) ([v4.8.0](https://github.com/mistweaverco/kulala.nvim/releases/tag/v4.8.0), 4 days ago) - A minimal 🤏 HTTP-client 🐼 interface 🖥️ for Neovim ❤️.
 
 #### 👯 Check out some of my recent followers
 
