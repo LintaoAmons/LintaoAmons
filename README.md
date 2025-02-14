@@ -3,22 +3,22 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LintaoAmons/context-menu.nvim](https://github.com/LintaoAmons/context-menu.nvim) -  (1 day ago)
-- [LintaoAmons/CoolStuffes](https://github.com/LintaoAmons/CoolStuffes) - 我的分享放这里了，大家随便拿去用啊，记得给个星星就行啦～ (3 days ago)
-- [LintaoAmons/VimEverywhere](https://github.com/LintaoAmons/VimEverywhere) - Learn one vim, Use everywhere. (3 days ago)
+- [LintaoAmons/context-menu.nvim](https://github.com/LintaoAmons/context-menu.nvim) -  (2 days ago)
+- [LintaoAmons/CoolStuffes](https://github.com/LintaoAmons/CoolStuffes) - 我的分享放这里了，大家随便拿去用啊，记得给个星星就行啦～ (4 days ago)
+- [LintaoAmons/VimEverywhere](https://github.com/LintaoAmons/VimEverywhere) - Learn one vim, Use everywhere. (4 days ago)
 - [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim) - A minimal 🤏 HTTP-client 🐼 interface 🖥️ for Neovim ❤️. (1 week ago)
-- [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) - Persistent bookmarks: hard disk of your thoughts (1 week ago)
+- [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) - Persistent bookmarks: hard disk of your thoughts (2 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (today)
-- [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen (1 day ago)
-- [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero. (2 days ago)
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (1 day ago)
+- [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen (2 days ago)
+- [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero. (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim) ([v1.10.4](https://github.com/Ramilito/kubectl.nvim/releases/tag/v1.10.4), today) - ⎈ Streamline your Kubernetes management within Neovim—control and monitor your cluster seamlessly, all without leaving your coding environment.
-- [LintaoAmons/context-menu.nvim](https://github.com/LintaoAmons/context-menu.nvim) ([v2.0.1](https://github.com/LintaoAmons/context-menu.nvim/releases/tag/v2.0.1), 4 days ago) - 
+- [Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim) ([v1.10.4](https://github.com/Ramilito/kubectl.nvim/releases/tag/v1.10.4), 1 day ago) - ⎈ Streamline your Kubernetes management within Neovim—control and monitor your cluster seamlessly, all without leaving your coding environment.
+- [LintaoAmons/context-menu.nvim](https://github.com/LintaoAmons/context-menu.nvim) ([v2.0.1](https://github.com/LintaoAmons/context-menu.nvim/releases/tag/v2.0.1), 5 days ago) - 
 - [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim) ([v4.10.0](https://github.com/mistweaverco/kulala.nvim/releases/tag/v4.10.0), 1 week ago) - A minimal 🤏 HTTP-client 🐼 interface 🖥️ for Neovim ❤️.
 
 #### 👯 Check out some of my recent followers
