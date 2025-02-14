@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database (today)
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (1 day ago)
 - [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen (2 days ago)
-- [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero. (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
