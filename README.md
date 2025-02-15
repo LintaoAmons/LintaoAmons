@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [bassamsdata/namu.nvim](https://github.com/bassamsdata/namu.nvim) - Flexible and sleek fuzzy picker, LSP symbol navigator, and more. Powered by builtin Selecta, inspired by Zed. (today)
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database (1 day ago)
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (2 days ago)
-- [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
