@@ -3,23 +3,23 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) - Persistent bookmarks: hard disk of your thoughts (3 days ago)
-- [LintaoAmons/context-menu.nvim](https://github.com/LintaoAmons/context-menu.nvim) -  (4 days ago)
+- [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) - Persistent bookmarks: hard disk of your thoughts (4 days ago)
+- [LintaoAmons/context-menu.nvim](https://github.com/LintaoAmons/context-menu.nvim) -  (5 days ago)
 - [LintaoAmons/CoolStuffes](https://github.com/LintaoAmons/CoolStuffes) - 我的分享放这里了，大家随便拿去用啊，记得给个星星就行啦～ (1 week ago)
 - [LintaoAmons/VimEverywhere](https://github.com/LintaoAmons/VimEverywhere) - Learn one vim, Use everywhere. (1 week ago)
-- [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim) - A minimal 🤏 HTTP-client 🐼 interface 🖥️ for Neovim ❤️. (1 week ago)
+- [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim) - A minimal 🤏 HTTP-client 🐼 interface 🖥️ for Neovim ❤️. (2 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [bassamsdata/namu.nvim](https://github.com/bassamsdata/namu.nvim) - Flexible and sleek fuzzy picker, LSP symbol navigator, and more. Powered by builtin Selecta, inspired by Zed. (3 days ago)
-- [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database (4 days ago)
-- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (5 days ago)
+- [bassamsdata/namu.nvim](https://github.com/bassamsdata/namu.nvim) - Flexible and sleek fuzzy picker, LSP symbol navigator, and more. Powered by builtin Selecta, inspired by Zed. (4 days ago)
+- [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database (5 days ago)
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim) ([v1.10.7](https://github.com/Ramilito/kubectl.nvim/releases/tag/v1.10.7), today) - ⎈ Streamline your Kubernetes management within Neovim—control and monitor your cluster seamlessly, all without leaving your coding environment.
-- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ([v0.0.19](https://github.com/yetone/avante.nvim/releases/tag/v0.0.19), 1 day ago) - Use your Neovim like using Cursor AI IDE!
-- [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) ([v2.7.0](https://github.com/LintaoAmons/bookmarks.nvim/releases/tag/v2.7.0), 3 days ago) - Persistent bookmarks: hard disk of your thoughts
+- [Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim) ([v1.10.7](https://github.com/Ramilito/kubectl.nvim/releases/tag/v1.10.7), 1 day ago) - ⎈ Streamline your Kubernetes management within Neovim—control and monitor your cluster seamlessly, all without leaving your coding environment.
+- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ([v0.0.19](https://github.com/yetone/avante.nvim/releases/tag/v0.0.19), 2 days ago) - Use your Neovim like using Cursor AI IDE!
+- [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) ([v2.7.0](https://github.com/LintaoAmons/bookmarks.nvim/releases/tag/v2.7.0), 4 days ago) - Persistent bookmarks: hard disk of your thoughts
 
 #### 👯 Check out some of my recent followers
 
