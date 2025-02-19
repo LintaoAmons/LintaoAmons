@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [Kurama622/llm.nvim](https://github.com/Kurama622/llm.nvim) - Free large language model (LLM) support for Neovim, provides commands to interact with LLM (like ChatGPT, ChatGLM, kimi, deepseek, openrouter and local llms). Support Github models. (today)
 - [bassamsdata/namu.nvim](https://github.com/bassamsdata/namu.nvim) - Flexible and sleek fuzzy picker, LSP symbol navigator, and more. Powered by builtin Selecta, inspired by Zed. (4 days ago)
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database (5 days ago)
-- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
