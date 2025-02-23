@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [mistweaverco/kulala-fmt](https://github.com/mistweaverco/kulala-fmt) - An opinionated 🦄 .http and .rest 🐼 files linter 💄 and  formatter ⚡. (today)
 - [vahid-nejad/NestJS-NextJS-Authentication-Turborepo](https://github.com/vahid-nejad/NestJS-NextJS-Authentication-Turborepo) -  (today)
 - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive &amp; fully customizable React components for building stunning, memorable user interfaces. (1 day ago)
-- [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
