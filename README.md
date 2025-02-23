@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG. (today)
 - [ImSingee/hammal](https://github.com/ImSingee/hammal) - docker-registry proxy run in cloudflare workers (today)
 - [mistweaverco/kulala-fmt](https://github.com/mistweaverco/kulala-fmt) - An opinionated 🦄 .http and .rest 🐼 files linter 💄 and  formatter ⚡. (today)
-- [vahid-nejad/NestJS-NextJS-Authentication-Turborepo](https://github.com/vahid-nejad/NestJS-NextJS-Authentication-Turborepo) -  (today)
 
 #### 🔭 Latest releases I've contributed to
 
