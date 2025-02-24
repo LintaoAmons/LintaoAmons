@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [GeorgesAlkhouri/nvim-aider](https://github.com/GeorgesAlkhouri/nvim-aider) - 🤖 Seamlessly integrate Aider with Neovim for an enhanced AI-assisted coding experience! (today)
 - [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG. (1 day ago)
 - [ImSingee/hammal](https://github.com/ImSingee/hammal) - docker-registry proxy run in cloudflare workers (1 day ago)
-- [mistweaverco/kulala-fmt](https://github.com/mistweaverco/kulala-fmt) - An opinionated 🦄 .http and .rest 🐼 files linter 💄 and  formatter ⚡. (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
