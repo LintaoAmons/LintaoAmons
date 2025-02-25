@@ -17,8 +17,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim) ([v1.12.0](https://github.com/Ramilito/kubectl.nvim/releases/tag/v1.12.0), today) - ⎈ Streamline your Kubernetes management within Neovim—control and monitor your cluster seamlessly, all without leaving your coding environment.
 - [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) ([v2.8.1](https://github.com/LintaoAmons/bookmarks.nvim/releases/tag/v2.8.1), 1 day ago) - Persistent bookmarks: hard disk of your thoughts
-- [Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim) ([v1.11.0](https://github.com/Ramilito/kubectl.nvim/releases/tag/v1.11.0), 2 days ago) - ⎈ Streamline your Kubernetes management within Neovim—control and monitor your cluster seamlessly, all without leaving your coding environment.
 - [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim) ([v5.0.0](https://github.com/mistweaverco/kulala.nvim/releases/tag/v5.0.0), 4 days ago) - A minimal 🤏 HTTP-client 🐼 interface 🖥️ for Neovim ❤️.
 
 #### 👯 Check out some of my recent followers
