@@ -3,23 +3,23 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LintaoAmons/context-menu.nvim](https://github.com/LintaoAmons/context-menu.nvim) -  (2 days ago)
-- [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) - Persistent bookmarks: hard disk of your thoughts (5 days ago)
-- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE! (6 days ago)
-- [LintaoAmons/VimEverywhere](https://github.com/LintaoAmons/VimEverywhere) - Learn one vim, Use everywhere. (6 days ago)
+- [LintaoAmons/context-menu.nvim](https://github.com/LintaoAmons/context-menu.nvim) -  (3 days ago)
+- [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) - Persistent bookmarks: hard disk of your thoughts (6 days ago)
+- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE! (1 week ago)
+- [LintaoAmons/VimEverywhere](https://github.com/LintaoAmons/VimEverywhere) - Learn one vim, Use everywhere. (1 week ago)
 - [LintaoAmons/CoolStuffes](https://github.com/LintaoAmons/CoolStuffes) - 我的分享放这里了，大家随便拿去用啊，记得给个星星就行啦～ (2 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [lafarr/hierarchy.nvim](https://github.com/lafarr/hierarchy.nvim) -  (today)
-- [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more. (2 days ago)
-- [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust (2 days ago)
+- [lafarr/hierarchy.nvim](https://github.com/lafarr/hierarchy.nvim) -  (1 day ago)
+- [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more. (3 days ago)
+- [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim) ([v1.14.1](https://github.com/Ramilito/kubectl.nvim/releases/tag/v1.14.1), 2 days ago) - ⎈ Streamline your Kubernetes management within Neovim—control and monitor your cluster seamlessly, all without leaving your coding environment.
-- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ([v0.0.21](https://github.com/yetone/avante.nvim/releases/tag/v0.0.21), 3 days ago) - Use your Neovim like using Cursor AI IDE!
-- [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) ([v2.8.1](https://github.com/LintaoAmons/bookmarks.nvim/releases/tag/v2.8.1), 5 days ago) - Persistent bookmarks: hard disk of your thoughts
+- [Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim) ([v1.14.1](https://github.com/Ramilito/kubectl.nvim/releases/tag/v1.14.1), 3 days ago) - ⎈ Streamline your Kubernetes management within Neovim—control and monitor your cluster seamlessly, all without leaving your coding environment.
+- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ([v0.0.21](https://github.com/yetone/avante.nvim/releases/tag/v0.0.21), 4 days ago) - Use your Neovim like using Cursor AI IDE!
+- [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) ([v2.8.1](https://github.com/LintaoAmons/bookmarks.nvim/releases/tag/v2.8.1), 6 days ago) - Persistent bookmarks: hard disk of your thoughts
 
 #### 👯 Check out some of my recent followers
 
