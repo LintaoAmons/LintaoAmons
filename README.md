@@ -3,23 +3,23 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LintaoAmons/context-menu.nvim](https://github.com/LintaoAmons/context-menu.nvim) -  (3 days ago)
-- [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) - Persistent bookmarks: hard disk of your thoughts (6 days ago)
+- [LintaoAmons/context-menu.nvim](https://github.com/LintaoAmons/context-menu.nvim) -  (4 days ago)
+- [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) - Persistent bookmarks: hard disk of your thoughts (1 week ago)
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE! (1 week ago)
 - [LintaoAmons/VimEverywhere](https://github.com/LintaoAmons/VimEverywhere) - Learn one vim, Use everywhere. (1 week ago)
-- [LintaoAmons/CoolStuffes](https://github.com/LintaoAmons/CoolStuffes) - 我的分享放这里了，大家随便拿去用啊，记得给个星星就行啦～ (2 weeks ago)
+- [LintaoAmons/CoolStuffes](https://github.com/LintaoAmons/CoolStuffes) - 我的分享放这里了，大家随便拿去用啊，记得给个星星就行啦～ (3 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [mistweaverco/kulala](https://github.com/mistweaverco/kulala) - A minimal REST-Client GUI for Mac, Linux and Windows. No login 🌈, no tracking 🕵️‍♀️, No Ads 🔥, no BS 💩. (today)
-- [dongyubin/DockerHub](https://github.com/dongyubin/DockerHub) - 2025年2月更新，目前国内可用Docker镜像源汇总，DockerHub国内镜像加速列表，🚀DockerHub镜像加速器 (today)
-- [lafarr/hierarchy.nvim](https://github.com/lafarr/hierarchy.nvim) -  (1 day ago)
+- [mistweaverco/kulala](https://github.com/mistweaverco/kulala) - A minimal REST-Client GUI for Mac, Linux and Windows. No login 🌈, no tracking 🕵️‍♀️, No Ads 🔥, no BS 💩. (1 day ago)
+- [dongyubin/DockerHub](https://github.com/dongyubin/DockerHub) - 2025年2月更新，目前国内可用Docker镜像源汇总，DockerHub国内镜像加速列表，🚀DockerHub镜像加速器 (1 day ago)
+- [lafarr/hierarchy.nvim](https://github.com/lafarr/hierarchy.nvim) -  (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim) ([v1.14.1](https://github.com/Ramilito/kubectl.nvim/releases/tag/v1.14.1), 3 days ago) - ⎈ Streamline your Kubernetes management within Neovim—control and monitor your cluster seamlessly, all without leaving your coding environment.
-- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ([v0.0.21](https://github.com/yetone/avante.nvim/releases/tag/v0.0.21), 4 days ago) - Use your Neovim like using Cursor AI IDE!
-- [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) ([v2.8.1](https://github.com/LintaoAmons/bookmarks.nvim/releases/tag/v2.8.1), 6 days ago) - Persistent bookmarks: hard disk of your thoughts
+- [Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim) ([v1.14.1](https://github.com/Ramilito/kubectl.nvim/releases/tag/v1.14.1), 4 days ago) - ⎈ Streamline your Kubernetes management within Neovim—control and monitor your cluster seamlessly, all without leaving your coding environment.
+- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ([v0.0.21](https://github.com/yetone/avante.nvim/releases/tag/v0.0.21), 5 days ago) - Use your Neovim like using Cursor AI IDE!
+- [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) ([v2.8.1](https://github.com/LintaoAmons/bookmarks.nvim/releases/tag/v2.8.1), 1 week ago) - Persistent bookmarks: hard disk of your thoughts
 
 #### 👯 Check out some of my recent followers
 
