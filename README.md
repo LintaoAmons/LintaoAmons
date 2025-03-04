@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [ravitemer/mcphub.nvim](https://github.com/ravitemer/mcphub.nvim) - A powerful Neovim plugin for managing MCP (Model Context Protocol) servers (today)
 - [mistweaverco/kulala](https://github.com/mistweaverco/kulala) - A minimal REST-Client GUI for Mac, Linux and Windows. No login 🌈, no tracking 🕵️‍♀️, No Ads 🔥, no BS 💩. (2 days ago)
 - [dongyubin/DockerHub](https://github.com/dongyubin/DockerHub) - 2025年2月更新，目前国内可用Docker镜像源汇总，DockerHub国内镜像加速列表，🚀DockerHub镜像加速器 (2 days ago)
-- [lafarr/hierarchy.nvim](https://github.com/lafarr/hierarchy.nvim) -  (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
