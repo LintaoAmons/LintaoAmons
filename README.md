@@ -17,8 +17,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ([v0.0.22](https://github.com/yetone/avante.nvim/releases/tag/v0.0.22), today) - Use your Neovim like using Cursor AI IDE!
 - [Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim) ([v1.14.1](https://github.com/Ramilito/kubectl.nvim/releases/tag/v1.14.1), 1 week ago) - ⎈ Streamline your Kubernetes management within Neovim—control and monitor your cluster seamlessly, all without leaving your coding environment.
-- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ([v0.0.21](https://github.com/yetone/avante.nvim/releases/tag/v0.0.21), 1 week ago) - Use your Neovim like using Cursor AI IDE!
 - [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) ([v2.8.1](https://github.com/LintaoAmons/bookmarks.nvim/releases/tag/v2.8.1), 1 week ago) - Persistent bookmarks: hard disk of your thoughts
 
 #### 👯 Check out some of my recent followers
