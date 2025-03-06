@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [hongzhongx/taiyi](https://github.com/hongzhongx/taiyi) - 一个模拟修仙世界的多人在线虚拟小游戏。太乙网络是一个使用了区块链技术的自主世界基础设施。 (today)
 - [ravitemer/mcphub.nvim](https://github.com/ravitemer/mcphub.nvim) - A powerful Neovim plugin for managing MCP (Model Context Protocol) servers (2 days ago)
 - [mistweaverco/kulala](https://github.com/mistweaverco/kulala) - A minimal REST-Client GUI for Mac, Linux and Windows. No login 🌈, no tracking 🕵️‍♀️, No Ads 🔥, no BS 💩. (4 days ago)
-- [dongyubin/DockerHub](https://github.com/dongyubin/DockerHub) - 2025年3月更新，目前国内可用Docker镜像源汇总，DockerHub国内镜像加速列表，🚀DockerHub镜像加速器 (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
