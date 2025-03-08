@@ -11,13 +11,13 @@
 
 #### ⭐ Recent Stars
 
-- [hongzhongx/taiyi](https://github.com/hongzhongx/taiyi) - 一个模拟修仙世界的多人在线虚拟小游戏。太乙网络是一个使用了区块链技术的自主世界基础设施。 (1 day ago)
-- [ravitemer/mcphub.nvim](https://github.com/ravitemer/mcphub.nvim) - A powerful Neovim plugin for managing MCP (Model Context Protocol) servers (3 days ago)
-- [mistweaverco/kulala](https://github.com/mistweaverco/kulala) - A minimal REST-Client GUI for Mac, Linux and Windows. No login 🌈, no tracking 🕵️‍♀️, No Ads 🔥, no BS 💩. (5 days ago)
+- [hongzhongx/taiyi](https://github.com/hongzhongx/taiyi) - 一个模拟修仙世界的多人在线虚拟小游戏。太乙网络是一个使用了区块链技术的自主世界基础设施。 (2 days ago)
+- [ravitemer/mcphub.nvim](https://github.com/ravitemer/mcphub.nvim) - A powerful Neovim plugin for managing MCP (Model Context Protocol) servers (4 days ago)
+- [mistweaverco/kulala](https://github.com/mistweaverco/kulala) - A minimal REST-Client GUI for Mac, Linux and Windows. No login 🌈, no tracking 🕵️‍♀️, No Ads 🔥, no BS 💩. (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ([v0.0.22](https://github.com/yetone/avante.nvim/releases/tag/v0.0.22), 1 day ago) - Use your Neovim like using Cursor AI IDE!
+- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ([v0.0.22](https://github.com/yetone/avante.nvim/releases/tag/v0.0.22), 2 days ago) - Use your Neovim like using Cursor AI IDE!
 - [Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim) ([v1.14.1](https://github.com/Ramilito/kubectl.nvim/releases/tag/v1.14.1), 1 week ago) - ⎈ Streamline your Kubernetes management within Neovim—control and monitor your cluster seamlessly, all without leaving your coding environment.
 - [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) ([v2.8.1](https://github.com/LintaoAmons/bookmarks.nvim/releases/tag/v2.8.1), 1 week ago) - Persistent bookmarks: hard disk of your thoughts
 
