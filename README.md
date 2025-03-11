@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal (today)
 - [jghauser/fold-cycle.nvim](https://github.com/jghauser/fold-cycle.nvim) - This neovim plugin allows you to cycle folds open or closed (today)
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑 (2 days ago)
-- [hongzhongx/taiyi](https://github.com/hongzhongx/taiyi) - 一个模拟修仙世界的多人在线虚拟小游戏。太乙网络是一个使用了区块链技术的自主世界基础设施。 (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
