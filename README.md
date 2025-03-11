@@ -11,14 +11,14 @@
 
 #### ⭐ Recent Stars
 
-- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑 (1 day ago)
-- [hongzhongx/taiyi](https://github.com/hongzhongx/taiyi) - 一个模拟修仙世界的多人在线虚拟小游戏。太乙网络是一个使用了区块链技术的自主世界基础设施。 (4 days ago)
-- [ravitemer/mcphub.nvim](https://github.com/ravitemer/mcphub.nvim) - A powerful Neovim plugin for managing MCP (Model Context Protocol) servers (6 days ago)
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑 (2 days ago)
+- [hongzhongx/taiyi](https://github.com/hongzhongx/taiyi) - 一个模拟修仙世界的多人在线虚拟小游戏。太乙网络是一个使用了区块链技术的自主世界基础设施。 (5 days ago)
+- [ravitemer/mcphub.nvim](https://github.com/ravitemer/mcphub.nvim) - A powerful Neovim plugin for managing MCP (Model Context Protocol) servers (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim) ([v5.1.0](https://github.com/mistweaverco/kulala.nvim/releases/tag/v5.1.0), 1 day ago) - A minimal 🤏 HTTP-client 🐼 interface 🖥️ for Neovim ❤️.
-- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ([v0.0.23](https://github.com/yetone/avante.nvim/releases/tag/v0.0.23), 1 day ago) - Use your Neovim like using Cursor AI IDE!
+- [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim) ([v5.1.0](https://github.com/mistweaverco/kulala.nvim/releases/tag/v5.1.0), 2 days ago) - A minimal 🤏 HTTP-client 🐼 interface 🖥️ for Neovim ❤️.
+- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ([v0.0.23](https://github.com/yetone/avante.nvim/releases/tag/v0.0.23), 2 days ago) - Use your Neovim like using Cursor AI IDE!
 - [Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim) ([v1.14.1](https://github.com/Ramilito/kubectl.nvim/releases/tag/v1.14.1), 1 week ago) - ⎈ Streamline your Kubernetes management within Neovim—control and monitor your cluster seamlessly, all without leaving your coding environment.
 
 #### 👯 Check out some of my recent followers
