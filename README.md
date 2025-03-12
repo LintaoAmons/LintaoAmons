@@ -7,18 +7,18 @@
 - [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) - Persistent bookmarks: hard disk of your thoughts (2 weeks ago)
 - [LintaoAmons/VimEverywhere](https://github.com/LintaoAmons/VimEverywhere) - Learn one vim, Use everywhere. (2 weeks ago)
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE! (2 weeks ago)
-- [LintaoAmons/CoolStuffes](https://github.com/LintaoAmons/CoolStuffes) - 我的分享放这里了，大家随便拿去用啊，记得给个星星就行啦～ (4 weeks ago)
+- [LintaoAmons/CoolStuffes](https://github.com/LintaoAmons/CoolStuffes) - 我的分享放这里了，大家随便拿去用啊，记得给个星星就行啦～ (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal (today)
-- [jghauser/fold-cycle.nvim](https://github.com/jghauser/fold-cycle.nvim) - This neovim plugin allows you to cycle folds open or closed (today)
-- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑 (2 days ago)
+- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal (1 day ago)
+- [jghauser/fold-cycle.nvim](https://github.com/jghauser/fold-cycle.nvim) - This neovim plugin allows you to cycle folds open or closed (1 day ago)
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑 (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim) ([v5.1.0](https://github.com/mistweaverco/kulala.nvim/releases/tag/v5.1.0), 2 days ago) - A minimal 🤏 HTTP-client 🐼 interface 🖥️ for Neovim ❤️.
-- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ([v0.0.23](https://github.com/yetone/avante.nvim/releases/tag/v0.0.23), 2 days ago) - Use your Neovim like using Cursor AI IDE!
+- [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim) ([v5.1.0](https://github.com/mistweaverco/kulala.nvim/releases/tag/v5.1.0), 3 days ago) - A minimal 🤏 HTTP-client 🐼 interface 🖥️ for Neovim ❤️.
+- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ([v0.0.23](https://github.com/yetone/avante.nvim/releases/tag/v0.0.23), 3 days ago) - Use your Neovim like using Cursor AI IDE!
 - [Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim) ([v1.14.1](https://github.com/Ramilito/kubectl.nvim/releases/tag/v1.14.1), 1 week ago) - ⎈ Streamline your Kubernetes management within Neovim—control and monitor your cluster seamlessly, all without leaving your coding environment.
 
 #### 👯 Check out some of my recent followers
