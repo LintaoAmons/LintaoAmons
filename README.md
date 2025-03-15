@@ -17,7 +17,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim) ([feat/use_kube_rs](https://github.com/Ramilito/kubectl.nvim/releases/tag/feat/use_kube_rs), today) - ⎈ Streamline your Kubernetes management within Neovim—control and monitor your cluster seamlessly, all without leaving your coding environment.
+- [Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim) ([v1.14.2](https://github.com/Ramilito/kubectl.nvim/releases/tag/v1.14.2), 2 days ago) - ⎈ Streamline your Kubernetes management within Neovim—control and monitor your cluster seamlessly, all without leaving your coding environment.
 - [LintaoAmons/cd-project.nvim](https://github.com/LintaoAmons/cd-project.nvim) ([v0.9.1](https://github.com/LintaoAmons/cd-project.nvim/releases/tag/v0.9.1), 3 days ago) - I tried quite a lot `Project Management` plugins. In the end, I found all I need is just an easier way to `cd` to another project directory.
 - [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim) ([v5.1.0](https://github.com/mistweaverco/kulala.nvim/releases/tag/v5.1.0), 6 days ago) - A minimal 🤏 HTTP-client 🐼 interface 🖥️ for Neovim ❤️.
 
