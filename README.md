@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [pamburus/hl](https://github.com/pamburus/hl) - A fast and powerful log viewer and processor that translates JSON logs or logfmt logs into a pretty human-readable format. (today)
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal (5 days ago)
 - [jghauser/fold-cycle.nvim](https://github.com/jghauser/fold-cycle.nvim) - This neovim plugin allows you to cycle folds open or closed (5 days ago)
-- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑 (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
