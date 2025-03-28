@@ -23,9 +23,9 @@
 
 #### 👯 Check out some of my recent followers
 
+- [trinhminhtriet](https://github.com/trinhminhtriet)
 - [GladioFeng](https://github.com/GladioFeng)
 - [LinuxJS](https://github.com/LinuxJS)
-- [ZWindL](https://github.com/ZWindL)
 
 #### 📫 How to reach me
 Say Hello, I don't bite!
