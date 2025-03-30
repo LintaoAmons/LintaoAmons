@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [Joxit/docker-registry-ui](https://github.com/Joxit/docker-registry-ui) - The simplest and most complete UI for your private registry (today)
 - [traefik/whoami](https://github.com/traefik/whoami) - Tiny Go server that prints os information and HTTP request to output (today)
 - [wylie102/duckdb.yazi](https://github.com/wylie102/duckdb.yazi) - Yazi plugin that uses duckdb to preview data files. (today)
-- [heyvaldemar/keycloak-traefik-letsencrypt-docker-compose](https://github.com/heyvaldemar/keycloak-traefik-letsencrypt-docker-compose) - Keycloak with Let&#39;s Encrypt Using Docker Compose (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
