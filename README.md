@@ -4,16 +4,16 @@
 #### 👷 Check out what I'm currently working on
 
 - [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) - Persistent bookmarks: hard disk of your thoughts (1 week ago)
-- [LintaoAmons/kulala-http-runable-demo](https://github.com/LintaoAmons/kulala-http-runable-demo) -  (1 week ago)
+- [LintaoAmons/kulala-http-runable-demo](https://github.com/LintaoAmons/kulala-http-runable-demo) -  (2 weeks ago)
 - [LintaoAmons/cd-project.nvim](https://github.com/LintaoAmons/cd-project.nvim) - I tried quite a lot `Project Management` plugins. In the end, I found all I need is just an easier way to `cd` to another project directory. (2 weeks ago)
 - [LintaoAmons/context-menu.nvim](https://github.com/LintaoAmons/context-menu.nvim) -  (1 month ago)
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE! (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [Joxit/docker-registry-ui](https://github.com/Joxit/docker-registry-ui) - The simplest and most complete UI for your private registry (today)
-- [traefik/whoami](https://github.com/traefik/whoami) - Tiny Go server that prints os information and HTTP request to output (today)
-- [wylie102/duckdb.yazi](https://github.com/wylie102/duckdb.yazi) - Yazi plugin that uses duckdb to preview data files. (today)
+- [Joxit/docker-registry-ui](https://github.com/Joxit/docker-registry-ui) - The simplest and most complete UI for your private registry (1 day ago)
+- [traefik/whoami](https://github.com/traefik/whoami) - Tiny Go server that prints os information and HTTP request to output (1 day ago)
+- [wylie102/duckdb.yazi](https://github.com/wylie102/duckdb.yazi) - Yazi plugin that uses duckdb to preview data files. (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
