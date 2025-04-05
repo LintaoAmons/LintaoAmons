@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub&#39;s official MCP Server (today)
 - [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers. (2 days ago)
 - [Joxit/docker-registry-ui](https://github.com/Joxit/docker-registry-ui) - The simplest and most complete UI for your private registry (6 days ago)
-- [traefik/whoami](https://github.com/traefik/whoami) - Tiny Go server that prints os information and HTTP request to output (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
