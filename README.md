@@ -11,13 +11,13 @@
 
 #### ⭐ Recent Stars
 
-- [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI) -  A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts.  基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容 (today)
-- [kianbazza/ui](https://github.com/kianbazza/ui) - bazza/ui is a React component library with hand-crafted, powerful, modern components. (5 days ago)
-- [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub&#39;s official MCP Server (6 days ago)
+- [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI) -  A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts.  基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容 (1 day ago)
+- [kianbazza/ui](https://github.com/kianbazza/ui) - bazza/ui is a React component library with hand-crafted, powerful, modern components. (6 days ago)
+- [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub&#39;s official MCP Server (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim) ([v1.14.3](https://github.com/Ramilito/kubectl.nvim/releases/tag/v1.14.3), 2 weeks ago) - ⎈ Streamline your Kubernetes management within Neovim—control and monitor your cluster seamlessly, all without leaving your coding environment.
+- [Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim) ([v1.14.3](https://github.com/Ramilito/kubectl.nvim/releases/tag/v1.14.3), 3 weeks ago) - ⎈ Streamline your Kubernetes management within Neovim—control and monitor your cluster seamlessly, all without leaving your coding environment.
 - [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) ([v2.9.1](https://github.com/LintaoAmons/bookmarks.nvim/releases/tag/v2.9.1), 3 weeks ago) - Persistent bookmarks: hard disk of your thoughts
 - [LintaoAmons/cd-project.nvim](https://github.com/LintaoAmons/cd-project.nvim) ([v0.9.1](https://github.com/LintaoAmons/cd-project.nvim/releases/tag/v0.9.1), 1 month ago) - I tried quite a lot `Project Management` plugins. In the end, I found all I need is just an easier way to `cd` to another project directory.
 
