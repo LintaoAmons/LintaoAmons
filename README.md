@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen. (today)
 - [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI) -  A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts.  基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容 (2 days ago)
 - [kianbazza/ui](https://github.com/kianbazza/ui) - bazza/ui is a React component library with hand-crafted, powerful, modern components. (1 week ago)
-- [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub&#39;s official MCP Server (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
