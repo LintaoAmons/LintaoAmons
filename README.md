@@ -17,9 +17,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim) ([v5.2.0](https://github.com/mistweaverco/kulala.nvim/releases/tag/v5.2.0), today) - A minimal 🤏 HTTP-client 🐼 interface 🖥️ for Neovim ❤️.
 - [Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim) ([v1.14.3](https://github.com/Ramilito/kubectl.nvim/releases/tag/v1.14.3), 3 weeks ago) - ⎈ Streamline your Kubernetes management within Neovim—control and monitor your cluster seamlessly, all without leaving your coding environment.
 - [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) ([v2.9.1](https://github.com/LintaoAmons/bookmarks.nvim/releases/tag/v2.9.1), 3 weeks ago) - Persistent bookmarks: hard disk of your thoughts
-- [LintaoAmons/cd-project.nvim](https://github.com/LintaoAmons/cd-project.nvim) ([v0.9.1](https://github.com/LintaoAmons/cd-project.nvim/releases/tag/v0.9.1), 1 month ago) - I tried quite a lot `Project Management` plugins. In the end, I found all I need is just an easier way to `cd` to another project directory.
 
 #### 👯 Check out some of my recent followers
 
