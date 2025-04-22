@@ -3,7 +3,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [GeorgesAlkhouri/nvim-aider](https://github.com/GeorgesAlkhouri/nvim-aider) - 🤖 Seamlessly integrate Aider with Neovim for an enhanced AI-assisted coding experience! (today)
+- [GeorgesAlkhouri/nvim-aider](https://github.com/GeorgesAlkhouri/nvim-aider) - 🤖 Seamlessly integrate Aider with Neovim for an enhanced AI-assisted coding experience! (1 day ago)
 - [LintaoAmons/context-menu.nvim](https://github.com/LintaoAmons/context-menu.nvim) -  (1 week ago)
 - [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim) - A minimal 🤏 HTTP-client 🐼 interface 🖥️ for Neovim ❤️. (2 weeks ago)
 - [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) - Persistent bookmarks: hard disk of your thoughts (1 month ago)
@@ -11,13 +11,13 @@
 
 #### ⭐ Recent Stars
 
-- [Muizzyranking/dot-files](https://github.com/Muizzyranking/dot-files) - Contains my configuration files. (1 day ago)
-- [openapi-ts/openapi-typescript](https://github.com/openapi-ts/openapi-typescript) - Generate TypeScript types from OpenAPI 3 specs (2 days ago)
-- [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box (2 days ago)
+- [Muizzyranking/dot-files](https://github.com/Muizzyranking/dot-files) - Contains my configuration files. (2 days ago)
+- [openapi-ts/openapi-typescript](https://github.com/openapi-ts/openapi-typescript) - Generate TypeScript types from OpenAPI 3 specs (3 days ago)
+- [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim) ([v5.2.1](https://github.com/mistweaverco/kulala.nvim/releases/tag/v5.2.1), 6 days ago) - A minimal 🤏 HTTP-client 🐼 interface 🖥️ for Neovim ❤️.
+- [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim) ([v5.2.1](https://github.com/mistweaverco/kulala.nvim/releases/tag/v5.2.1), 1 week ago) - A minimal 🤏 HTTP-client 🐼 interface 🖥️ for Neovim ❤️.
 - [Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim) ([v1.14.3](https://github.com/Ramilito/kubectl.nvim/releases/tag/v1.14.3), 1 month ago) - ⎈ Streamline your Kubernetes management within Neovim—control and monitor your cluster seamlessly, all without leaving your coding environment.
 - [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) ([v2.9.1](https://github.com/LintaoAmons/bookmarks.nvim/releases/tag/v2.9.1), 1 month ago) - Persistent bookmarks: hard disk of your thoughts
 
