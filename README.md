@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [plausible/community-edition](https://github.com/plausible/community-edition) - Example Docker Compose setup for hosting Plausible Community Edition (today)
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics. (today)
 - [Muizzyranking/dot-files](https://github.com/Muizzyranking/dot-files) - Contains my configuration files. (4 days ago)
-- [openapi-ts/openapi-typescript](https://github.com/openapi-ts/openapi-typescript) - Generate TypeScript types from OpenAPI 3 specs (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
