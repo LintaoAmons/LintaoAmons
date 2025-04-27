@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser (today)
 - [plausible/community-edition](https://github.com/plausible/community-edition) - Example Docker Compose setup for hosting Plausible Community Edition (3 days ago)
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics. (3 days ago)
-- [Muizzyranking/dot-files](https://github.com/Muizzyranking/dot-files) - Contains my configuration files. (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
