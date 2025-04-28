@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [edte/dotfiles](https://github.com/edte/dotfiles) - my all dotfiles (today)
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser (1 day ago)
 - [plausible/community-edition](https://github.com/plausible/community-edition) - Example Docker Compose setup for hosting Plausible Community Edition (4 days ago)
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics. (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
