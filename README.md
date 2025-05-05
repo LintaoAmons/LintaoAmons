@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - OneUptime is the complete open-source observability platform. (today)
 - [edte/dotfiles](https://github.com/edte/dotfiles) - my all dotfiles (1 week ago)
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser (1 week ago)
-- [plausible/community-edition](https://github.com/plausible/community-edition) - Example Docker Compose setup for hosting Plausible Community Edition (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
