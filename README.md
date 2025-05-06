@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [rybbit-io/rybbit](https://github.com/rybbit-io/rybbit) - 🐸 Rybbit - the open-source and cookieless alternative to Google Analytics that is 10x more intuitive. (today)
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - OneUptime is the complete open-source observability platform. (1 day ago)
 - [edte/dotfiles](https://github.com/edte/dotfiles) - my all dotfiles (1 week ago)
-- [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
