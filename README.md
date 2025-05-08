@@ -11,8 +11,8 @@
 
 #### ⭐ Recent Stars
 
-- [rybbit-io/rybbit](https://github.com/rybbit-io/rybbit) - 🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive. (1 day ago)
-- [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - OneUptime is the complete open-source observability platform. (2 days ago)
+- [rybbit-io/rybbit](https://github.com/rybbit-io/rybbit) - 🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive. (2 days ago)
+- [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - OneUptime is the complete open-source observability platform. (3 days ago)
 - [edte/dotfiles](https://github.com/edte/dotfiles) - my all dotfiles (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
