@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [crocofied/PortNote](https://github.com/crocofied/PortNote) - Keep track of used ports (today)
 - [sjzar/chatlog](https://github.com/sjzar/chatlog) - chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据 (2 days ago)
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust. (2 days ago)
-- [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
