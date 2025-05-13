@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。 (today)
 - [crocofied/PortNote](https://github.com/crocofied/PortNote) - Keep track of used ports (1 day ago)
 - [sjzar/chatlog](https://github.com/sjzar/chatlog) - chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据 (3 days ago)
-- [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust. (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
