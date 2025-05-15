@@ -3,22 +3,22 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LintaoAmons/Keyboard](https://github.com/LintaoAmons/Keyboard) - A key-binding visualization tool (3 days ago)
-- [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) - Persistent bookmarks: hard disk of your thoughts (6 days ago)
+- [LintaoAmons/Keyboard](https://github.com/LintaoAmons/Keyboard) - A key-binding visualization tool (4 days ago)
+- [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) - Persistent bookmarks: hard disk of your thoughts (1 week ago)
 - [GeorgesAlkhouri/nvim-aider](https://github.com/GeorgesAlkhouri/nvim-aider) - 🤖 Seamlessly integrate Aider with Neovim for an enhanced AI-assisted coding experience! (2 weeks ago)
 - [LintaoAmons/context-menu.nvim](https://github.com/LintaoAmons/context-menu.nvim) -  (3 weeks ago)
 - [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim) - A minimal 🤏 HTTP-client 🐼 interface 🖥️ for Neovim ❤️. (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。 (1 day ago)
-- [crocofied/PortNote](https://github.com/crocofied/PortNote) - Keep track of used ports (2 days ago)
-- [sjzar/chatlog](https://github.com/sjzar/chatlog) - chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据 (4 days ago)
+- [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。 (2 days ago)
+- [crocofied/PortNote](https://github.com/crocofied/PortNote) - Keep track of used ports (3 days ago)
+- [sjzar/chatlog](https://github.com/sjzar/chatlog) - chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据 (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim) ([v2.0.0-rc1](https://github.com/Ramilito/kubectl.nvim/releases/tag/v2.0.0-rc1), 3 days ago) - ⎈ Streamline your Kubernetes management within Neovim—control and monitor your cluster seamlessly, all without leaving your coding environment.
-- [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim) ([v5.2.1](https://github.com/mistweaverco/kulala.nvim/releases/tag/v5.2.1), 4 weeks ago) - A minimal 🤏 HTTP-client 🐼 interface 🖥️ for Neovim ❤️.
+- [Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim) ([v2.0.0-rc1](https://github.com/Ramilito/kubectl.nvim/releases/tag/v2.0.0-rc1), 4 days ago) - ⎈ Streamline your Kubernetes management within Neovim—control and monitor your cluster seamlessly, all without leaving your coding environment.
+- [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim) ([v5.2.1](https://github.com/mistweaverco/kulala.nvim/releases/tag/v5.2.1), 1 month ago) - A minimal 🤏 HTTP-client 🐼 interface 🖥️ for Neovim ❤️.
 - [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) ([v2.9.1](https://github.com/LintaoAmons/bookmarks.nvim/releases/tag/v2.9.1), 1 month ago) - Persistent bookmarks: hard disk of your thoughts
 
 #### 👯 Check out some of my recent followers
