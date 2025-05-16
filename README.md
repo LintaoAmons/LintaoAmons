@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your personal developer branding, profile, and projects. (today)
 - [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。 (3 days ago)
 - [crocofied/PortNote](https://github.com/crocofied/PortNote) - Keep track of used ports (4 days ago)
-- [sjzar/chatlog](https://github.com/sjzar/chatlog) - chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据 (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
