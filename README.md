@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [3rd/image.nvim](https://github.com/3rd/image.nvim) - 🖼️ Bringing images to Neovim. (today)
 - [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your personal developer branding, profile, and projects. (3 days ago)
 - [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。 (6 days ago)
-- [crocofied/PortNote](https://github.com/crocofied/PortNote) - Keep track of used ports (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
