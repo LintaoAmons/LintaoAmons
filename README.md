@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬 (today)
 - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects. (1 day ago)
 - [3rd/image.nvim](https://github.com/3rd/image.nvim) - 🖼️ Bringing images to Neovim. (1 day ago)
-- [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your personal developer branding, profile, and projects. (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
