@@ -23,9 +23,9 @@
 
 #### 👯 Check out some of my recent followers
 
+- [fergdev](https://github.com/fergdev)
 - [wsdjeg](https://github.com/wsdjeg)
 - [GladioFeng](https://github.com/GladioFeng)
-- [LinuxJS](https://github.com/LinuxJS)
 
 #### 📫 How to reach me
 Say Hello, I don't bite!
