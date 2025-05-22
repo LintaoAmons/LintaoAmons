@@ -11,9 +11,9 @@
 
 #### ⭐ Recent Stars
 
+- [Kotlin/kotlin-lsp](https://github.com/Kotlin/kotlin-lsp) - Kotlin Language Server and plugin for Visual Studio Code (today)
 - [nuta/operating-system-in-1000-lines](https://github.com/nuta/operating-system-in-1000-lines) - Writing an OS in 1,000 lines. (today)
 - [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬 (2 days ago)
-- [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects. (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
