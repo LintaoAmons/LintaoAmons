@@ -3,8 +3,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) - Persistent bookmarks: hard disk of your thoughts (today)
 - [LintaoAmons/reactbit-shiny-text](https://github.com/LintaoAmons/reactbit-shiny-text) -  (1 day ago)
-- [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) - Persistent bookmarks: hard disk of your thoughts (2 days ago)
 - [LintaoAmons/cd-project.nvim](https://github.com/LintaoAmons/cd-project.nvim) - I tried quite a lot `Project Management` plugins. In the end, I found all I need is just an easier way to `cd` to another project directory. (6 days ago)
 - [LintaoAmons/Keyboard](https://github.com/LintaoAmons/Keyboard) - A key-binding visualization tool (1 week ago)
 - [GeorgesAlkhouri/nvim-aider](https://github.com/GeorgesAlkhouri/nvim-aider) - 🤖 Seamlessly integrate Aider with Neovim for an enhanced AI-assisted coding experience! (3 weeks ago)
