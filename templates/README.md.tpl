@@ -16,6 +16,6 @@ Go checkout my skills at https://skills.oatnil.top/
 {{- end}}
 
 #### 🚀 Latest releases I've contributed to
-{{range recentReleases 10}}
+{{range recentReleases 3}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}){{ with .Description }} - {{.}}{{ end }}
 {{- end}}
