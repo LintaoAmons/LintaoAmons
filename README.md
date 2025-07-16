@@ -12,7 +12,7 @@ Go checkout my skills at https://skills.oatnil.top/
 
 #### 👨‍💻 Repositories I created recently
 
-- [LintaoAmons/newear](https://github.com/LintaoAmons/newear) - Real-time system audio captioning CLI tool for macOS using local transcription models.
+- [LintaoAmons/newear](https://github.com/LintaoAmons/newear) - A fully local and free audio transcription CLI tool - capture live system audio or transcribe video/audio files using local AI models.
 - [LintaoAmons/aider-snake](https://github.com/LintaoAmons/aider-snake) - a showcase repo for aider
 - [LintaoAmons/reactbit-shiny-text](https://github.com/LintaoAmons/reactbit-shiny-text)
 
