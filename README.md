@@ -12,9 +12,9 @@ Go checkout my skills at https://skills.oatnil.top/
 
 #### 👨‍💻 Repositories I created recently
 
+- [LintaoAmons/newear](https://github.com/LintaoAmons/newear)
 - [LintaoAmons/aider-snake](https://github.com/LintaoAmons/aider-snake) - a showcase repo for aider
 - [LintaoAmons/reactbit-shiny-text](https://github.com/LintaoAmons/reactbit-shiny-text)
-- [LintaoAmons/kulala-http-runable-demo](https://github.com/LintaoAmons/kulala-http-runable-demo)
 
 #### 🚀 Latest releases I've contributed to
 
