@@ -11,6 +11,15 @@ or checkout my skills at https://skills.oatnil.top/
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LintaoAmons&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 </a>
 
+#### 📝 Recent Blog Posts
+
+- [TailwindCSS 文本换行与断行实用类详解：break-normal、break-words、break-all 的差异](https://oatnil.top/blogs/2025/07/20/tailwindcss-word-break-utilities-guide) (2 days ago)
+
+- [超高效自动化：用SSH密钥&#43;通配符配置&#43;mDNS快速连接Hyper-V虚拟机](https://oatnil.top/blogs/2025/07/20/zero-touch-ssh-access-automate-vm-logins-with-wildcard-configs-and-mdns) (2 days ago)
+
+- [Linux与Windows常用命令对照表](https://oatnil.top/blogs/2025/07/17/linux-windows-command-mapping) (5 days ago)
+
+
 #### 👨‍💻 Repositories I created recently
 
 - [LintaoAmons/otel-promethus-grafana-metrics](https://github.com/LintaoAmons/otel-promethus-grafana-metrics)
