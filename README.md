@@ -12,9 +12,9 @@ Go checkout my skills at https://skills.oatnil.top/
 
 #### 👨‍💻 Repositories I created recently
 
+- [LintaoAmons/otel-promethus-grafana-metrics](https://github.com/LintaoAmons/otel-promethus-grafana-metrics)
 - [LintaoAmons/newear](https://github.com/LintaoAmons/newear) - A fully local and free audio transcription CLI tool - capture live system audio or transcribe video/audio files using local AI models.
 - [LintaoAmons/aider-snake](https://github.com/LintaoAmons/aider-snake) - a showcase repo for aider
-- [LintaoAmons/reactbit-shiny-text](https://github.com/LintaoAmons/reactbit-shiny-text)
 
 #### 🚀 Latest releases I've contributed to
 
