@@ -11,6 +11,11 @@ or checkout my skills at https://skills.oatnil.top/
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LintaoAmons&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 </a>
 
+#### 📝 Recent Blog Posts
+{{range rss "https://oatnil.top/blogs/rss.xml" 3}}
+- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
+{{end}}
+
 #### 👨‍💻 Repositories I created recently
 {{range recentRepos 3}}
 - [{{.Name}}]({{.URL}}){{ with .Description }} - {{.}}{{ end }}
