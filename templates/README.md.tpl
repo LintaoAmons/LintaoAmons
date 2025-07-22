@@ -25,3 +25,5 @@ or checkout my skills at https://skills.oatnil.top/
 {{range recentReleases 3}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}){{ with .Description }} - {{.}}{{ end }}
 {{- end}}
+
+<img src="https://komarev.com/ghpvc/?username=LintaoAmons" alt="views" />
