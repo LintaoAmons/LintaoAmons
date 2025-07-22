@@ -18,7 +18,7 @@ or checkout my skills at https://skills.oatnil.top/
 
 #### ⭐ Recent Starred Repositories
 {{range recentStars 3}}
-- [{{.Name}}]({{.URL}}){{ with .Description }} - {{.}}{{ end }}
+- [{{.Repo.Name}}]({{.Repo.URL}}){{ with .Repo.Description }} - {{.}}{{ end }}
 {{- end}}
 
 #### 🚀 Latest releases I've contributed to
