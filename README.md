@@ -1,7 +1,8 @@
 Hi, I’ m Lintao, a devops engineer specializing on fault-tolerant applications and Distributed Systems. 
 
 Well-versed in numerous technologies including Typescript, Java, Kotlin, Terraform, Kubernetes and Platform Engineering.
-Go checkout my skills at https://skills.oatnil.top/
+Take a look at my blogs https://oatnil.com/blogs
+or checkout my skills at https://skills.oatnil.top/
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LintaoAmons&show_icons=true&theme=transparent" />    
@@ -15,6 +16,12 @@ Go checkout my skills at https://skills.oatnil.top/
 - [LintaoAmons/otel-promethus-grafana-metrics](https://github.com/LintaoAmons/otel-promethus-grafana-metrics)
 - [LintaoAmons/newear](https://github.com/LintaoAmons/newear) - A fully local and free audio transcription CLI tool - capture live system audio or transcribe video/audio files using local AI models.
 - [LintaoAmons/aider-snake](https://github.com/LintaoAmons/aider-snake) - a showcase repo for aider
+
+#### ⭐ Recent Starred Repositories
+
+- [liam-ilan/terminal3d](https://github.com/liam-ilan/terminal3d) - View .obj files in the terminal 🦀
+- [A7Lavinraj/fyler.nvim](https://github.com/A7Lavinraj/fyler.nvim) - A neovim file manager which can edit file system like a buffer with tree view
+- [waiting-for-dev/ergoterm.nvim](https://github.com/waiting-for-dev/ergoterm.nvim) - A Neovim plugin for seamless terminal workflow integration. Smart picker-based terminal selection, flexible text sending from any buffer, and persistent configuration with comprehensive lifecycle control.
 
 #### 🚀 Latest releases I've contributed to
 
