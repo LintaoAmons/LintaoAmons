@@ -1,8 +1,8 @@
 Hi, I’ m Lintao, a devops engineer specializing on fault-tolerant applications and Distributed Systems. 
 
 Well-versed in numerous technologies including Typescript, Java, Kotlin, Terraform, Kubernetes and Platform Engineering.
-Take a look at my blogs https://oatnil.com/blogs
-or checkout my skills at https://skills.oatnil.top/
+
+Checkout my skills at https://skills.oatnil.top/
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LintaoAmons&show_icons=true&theme=transparent" />    
