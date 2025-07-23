@@ -13,11 +13,11 @@ Checkout my skills at https://skills.oatnil.top/
 
 #### 📝 Recent Blog Posts
 
+- [Prometheus 直接抓取 vs OpenTelemetry 导出：监控架构的选择](https://oatnil.top/blogs/2025/07/23/prometheus-vs-opentelemetry-metrics) (today)
+
 - [TailwindCSS 文本换行与断行实用类详解：break-normal、break-words、break-all 的差异](https://oatnil.top/blogs/2025/07/20/tailwindcss-word-break-utilities-guide) (3 days ago)
 
 - [超高效自动化：用SSH密钥&#43;通配符配置&#43;mDNS快速连接Hyper-V虚拟机](https://oatnil.top/blogs/2025/07/20/zero-touch-ssh-access-automate-vm-logins-with-wildcard-configs-and-mdns) (3 days ago)
-
-- [Linux与Windows常用命令对照表](https://oatnil.top/blogs/2025/07/17/linux-windows-command-mapping) (6 days ago)
 
 
 #### 👨‍💻 Repositories I created recently
