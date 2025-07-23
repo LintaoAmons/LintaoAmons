@@ -38,4 +38,5 @@ Checkout my skills at https://skills.oatnil.top/
 - [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim) ([v5.3.2](https://github.com/mistweaverco/kulala.nvim/releases/tag/v5.3.2), 3 days ago) - A fully-featured 🤏 HTTP-client 🐼 interface 🖥️ for Neovim ❤️.
 - [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) ([3.2.0](https://github.com/LintaoAmons/bookmarks.nvim/releases/tag/3.2.0), 1 month ago) - Persistent bookmarks: hard disk of your thoughts
 
+<a href="coff.ee/lintaoamond"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" height="20px"></a>
 <img src="https://komarev.com/ghpvc/?username=LintaoAmons" alt="views" />
