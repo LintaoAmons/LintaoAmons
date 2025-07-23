@@ -13,11 +13,11 @@ Checkout my skills at https://skills.oatnil.top/
 
 #### 📝 Recent Blog Posts
 
-- [TailwindCSS 文本换行与断行实用类详解：break-normal、break-words、break-all 的差异](https://oatnil.top/blogs/2025/07/20/tailwindcss-word-break-utilities-guide) (2 days ago)
+- [TailwindCSS 文本换行与断行实用类详解：break-normal、break-words、break-all 的差异](https://oatnil.top/blogs/2025/07/20/tailwindcss-word-break-utilities-guide) (3 days ago)
 
-- [超高效自动化：用SSH密钥&#43;通配符配置&#43;mDNS快速连接Hyper-V虚拟机](https://oatnil.top/blogs/2025/07/20/zero-touch-ssh-access-automate-vm-logins-with-wildcard-configs-and-mdns) (2 days ago)
+- [超高效自动化：用SSH密钥&#43;通配符配置&#43;mDNS快速连接Hyper-V虚拟机](https://oatnil.top/blogs/2025/07/20/zero-touch-ssh-access-automate-vm-logins-with-wildcard-configs-and-mdns) (3 days ago)
 
-- [Linux与Windows常用命令对照表](https://oatnil.top/blogs/2025/07/17/linux-windows-command-mapping) (5 days ago)
+- [Linux与Windows常用命令对照表](https://oatnil.top/blogs/2025/07/17/linux-windows-command-mapping) (6 days ago)
 
 
 #### 👨‍💻 Repositories I created recently
@@ -34,8 +34,8 @@ Checkout my skills at https://skills.oatnil.top/
 
 #### 🚀 Latest releases I've contributed to
 
-- [Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim) ([v2.0.14](https://github.com/Ramilito/kubectl.nvim/releases/tag/v2.0.14), today) - ⎈ Streamline your Kubernetes management within Neovim—control and monitor your cluster seamlessly, all without leaving your coding environment.
-- [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim) ([v5.3.2](https://github.com/mistweaverco/kulala.nvim/releases/tag/v5.3.2), 2 days ago) - A fully-featured 🤏 HTTP-client 🐼 interface 🖥️ for Neovim ❤️.
+- [Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim) ([v2.0.14](https://github.com/Ramilito/kubectl.nvim/releases/tag/v2.0.14), 1 day ago) - ⎈ Streamline your Kubernetes management within Neovim—control and monitor your cluster seamlessly, all without leaving your coding environment.
+- [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim) ([v5.3.2](https://github.com/mistweaverco/kulala.nvim/releases/tag/v5.3.2), 3 days ago) - A fully-featured 🤏 HTTP-client 🐼 interface 🖥️ for Neovim ❤️.
 - [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) ([3.2.0](https://github.com/LintaoAmons/bookmarks.nvim/releases/tag/3.2.0), 1 month ago) - Persistent bookmarks: hard disk of your thoughts
 
 <img src="https://komarev.com/ghpvc/?username=LintaoAmons" alt="views" />
