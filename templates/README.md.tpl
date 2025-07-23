@@ -31,4 +31,5 @@ Checkout my skills at https://skills.oatnil.top/
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}){{ with .Description }} - {{.}}{{ end }}
 {{- end}}
 
+<a href="coff.ee/lintaoamond"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" height="20px"></a>
 <img src="https://komarev.com/ghpvc/?username=LintaoAmons" alt="views" />
