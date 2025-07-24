@@ -28,9 +28,9 @@ Checkout my skills at https://skills.oatnil.top/
 
 #### ⭐ Recent Starred Repositories
 
+- [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool 
+- [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
 - [liam-ilan/terminal3d](https://github.com/liam-ilan/terminal3d) - View .obj files in the terminal 🦀
-- [A7Lavinraj/fyler.nvim](https://github.com/A7Lavinraj/fyler.nvim) - A neovim file manager which can edit file system like a buffer with tree view
-- [waiting-for-dev/ergoterm.nvim](https://github.com/waiting-for-dev/ergoterm.nvim) - A Neovim plugin for seamless terminal workflow integration. Smart picker-based terminal selection, flexible text sending from any buffer, and persistent configuration with comprehensive lifecycle control.
 
 #### 🚀 Latest releases I've contributed to
 
