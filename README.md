@@ -13,11 +13,11 @@ Checkout my skills at https://skills.oatnil.top/
 
 #### 📝 Recent Blog Posts
 
+- [高级 YAML 技巧：锚点与合并](https://oatnil.top/blogs/2025/07/25/advanced-yaml-techniques-anchors-merge) (today)
+
+- [高级 YAML 技巧：锚点与合并](https://oatnil.top/blogs/2025/07/25/docker-kubernetes-port-handling) (today)
+
 - [解决 Docker overlay2 目录占用大量磁盘空间的问题](https://oatnil.top/blogs/2025/07/24/docker-overlay2-clean-up) (1 day ago)
-
-- [Prometheus 直接抓取 vs OpenTelemetry 导出：监控架构的选择](https://oatnil.top/blogs/2025/07/22/prometheus-vs-opentelemetry-metrics) (3 days ago)
-
-- [TailwindCSS 文本换行与断行实用类详解：break-normal、break-words、break-all 的差异](https://oatnil.top/blogs/2025/07/20/tailwindcss-word-break-utilities-guide) (5 days ago)
 
 
 #### 👨‍💻 Repositories I created recently
