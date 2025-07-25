@@ -28,9 +28,9 @@ Checkout my skills at https://skills.oatnil.top/
 
 #### ⭐ Recent Starred Repositories
 
+- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) &amp; Observability tool
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool 
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
-- [liam-ilan/terminal3d](https://github.com/liam-ilan/terminal3d) - View .obj files in the terminal 🦀
 
 #### 🚀 Latest releases I've contributed to
 
