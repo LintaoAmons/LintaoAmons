@@ -13,11 +13,11 @@ Checkout my skills at https://skills.oatnil.top/
 
 #### 📝 Recent Blog Posts
 
-- [高级 YAML 技巧：锚点与合并](https://oatnil.top/blogs/2025/07/25/advanced-yaml-techniques-anchors-merge) (1 day ago)
+- [高级 YAML 技巧：锚点与合并](https://oatnil.top/blogs/2025/07/25/advanced-yaml-techniques-anchors-merge) (2 days ago)
 
-- [Docker vs Kubernetes 端口处理机制完全解析](https://oatnil.top/blogs/2025/07/25/docker-kubernetes-port-handling) (1 day ago)
+- [Docker vs Kubernetes 端口处理机制完全解析](https://oatnil.top/blogs/2025/07/25/docker-kubernetes-port-handling) (2 days ago)
 
-- [解决 Docker overlay2 目录占用大量磁盘空间的问题](https://oatnil.top/blogs/2025/07/24/docker-overlay2-clean-up) (2 days ago)
+- [解决 Docker overlay2 目录占用大量磁盘空间的问题](https://oatnil.top/blogs/2025/07/24/docker-overlay2-clean-up) (3 days ago)
 
 
 #### 👨‍💻 Repositories I created recently
@@ -28,15 +28,15 @@ Checkout my skills at https://skills.oatnil.top/
 
 #### ⭐ Recent Starred Repositories
 
-- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) &amp; Observability tool
-- [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool 
-- [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
+- [dataease/dataease](https://github.com/dataease/dataease) - 🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau.
+- [frappe/hrms](https://github.com/frappe/hrms) - Open Source HR and Payroll Software
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access.
 
 #### 🚀 Latest releases I've contributed to
 
-- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ([v0.0.26](https://github.com/yetone/avante.nvim/releases/tag/v0.0.26), today) - Use your Neovim like using Cursor AI IDE!
-- [Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim) ([v2.0.21](https://github.com/Ramilito/kubectl.nvim/releases/tag/v2.0.21), 2 days ago) - ⎈ Streamline your Kubernetes management within Neovim—control and monitor your cluster seamlessly, all without leaving your coding environment.
-- [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim) ([v5.3.2](https://github.com/mistweaverco/kulala.nvim/releases/tag/v5.3.2), 6 days ago) - A fully-featured 🤏 HTTP-client 🐼 interface 🖥️ for Neovim ❤️.
+- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ([v0.0.26](https://github.com/yetone/avante.nvim/releases/tag/v0.0.26), 1 day ago) - Use your Neovim like using Cursor AI IDE!
+- [Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim) ([v2.0.21](https://github.com/Ramilito/kubectl.nvim/releases/tag/v2.0.21), 3 days ago) - ⎈ Streamline your Kubernetes management within Neovim—control and monitor your cluster seamlessly, all without leaving your coding environment.
+- [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim) ([v5.3.2](https://github.com/mistweaverco/kulala.nvim/releases/tag/v5.3.2), 1 week ago) - A fully-featured 🤏 HTTP-client 🐼 interface 🖥️ for Neovim ❤️.
 
 <a href="coff.ee/lintaoamond"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" height="20px"></a>
 <img src="https://komarev.com/ghpvc/?username=LintaoAmons" alt="views" />
