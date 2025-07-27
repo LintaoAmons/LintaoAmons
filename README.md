@@ -28,9 +28,9 @@ Checkout my skills at https://skills.oatnil.top/
 
 #### ⭐ Recent Starred Repositories
 
+- [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror) - 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。
 - [dataease/dataease](https://github.com/dataease/dataease) - 🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau.
 - [frappe/hrms](https://github.com/frappe/hrms) - Open Source HR and Payroll Software
-- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access.
 
 #### 🚀 Latest releases I've contributed to
 
