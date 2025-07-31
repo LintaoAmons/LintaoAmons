@@ -13,11 +13,11 @@ Checkout my skills at https://skills.oatnil.top/
 
 #### 📝 Recent Blog Posts
 
-- [高级 YAML 技巧：锚点与合并](https://oatnil.top/blogs/2025/07/25/advanced-yaml-techniques-anchors-merge) (5 days ago)
+- [高级 YAML 技巧：锚点与合并](https://oatnil.top/blogs/2025/07/25/advanced-yaml-techniques-anchors-merge) (6 days ago)
 
-- [Docker vs Kubernetes 端口处理机制完全解析](https://oatnil.top/blogs/2025/07/25/docker-kubernetes-port-handling) (5 days ago)
+- [Docker vs Kubernetes 端口处理机制完全解析](https://oatnil.top/blogs/2025/07/25/docker-kubernetes-port-handling) (6 days ago)
 
-- [解决 Docker overlay2 目录占用大量磁盘空间的问题](https://oatnil.top/blogs/2025/07/24/docker-overlay2-clean-up) (6 days ago)
+- [解决 Docker overlay2 目录占用大量磁盘空间的问题](https://oatnil.top/blogs/2025/07/24/docker-overlay2-clean-up) (1 week ago)
 
 
 #### 👨‍💻 Repositories I created recently
@@ -34,8 +34,8 @@ Checkout my skills at https://skills.oatnil.top/
 
 #### 🚀 Latest releases I've contributed to
 
-- [Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim) ([v2.3.3](https://github.com/Ramilito/kubectl.nvim/releases/tag/v2.3.3), 1 day ago) - ⎈ Streamline your Kubernetes management within Neovim—control and monitor your cluster seamlessly, all without leaving your coding environment.
-- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ([v0.0.27](https://github.com/yetone/avante.nvim/releases/tag/v0.0.27), 2 days ago) - Use your Neovim like using Cursor AI IDE!
+- [Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim) ([v2.3.3](https://github.com/Ramilito/kubectl.nvim/releases/tag/v2.3.3), 2 days ago) - ⎈ Streamline your Kubernetes management within Neovim—control and monitor your cluster seamlessly, all without leaving your coding environment.
+- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ([v0.0.27](https://github.com/yetone/avante.nvim/releases/tag/v0.0.27), 3 days ago) - Use your Neovim like using Cursor AI IDE!
 - [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim) ([v5.3.2](https://github.com/mistweaverco/kulala.nvim/releases/tag/v5.3.2), 1 week ago) - A fully-featured 🤏 HTTP-client 🐼 interface 🖥️ for Neovim ❤️.
 
 <a href="coff.ee/lintaoamond"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" height="20px"></a>
