@@ -34,7 +34,7 @@ Checkout my skills at https://skills.oatnil.top/
 
 #### 🚀 Latest releases I've contributed to
 
-- [Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim) ([v2.3.4](https://github.com/Ramilito/kubectl.nvim/releases/tag/v2.3.4), 1 day ago) - ⎈ Streamline your Kubernetes management within Neovim—control and monitor your cluster seamlessly, all without leaving your coding environment.
+- [Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim) ([v2.4.0](https://github.com/Ramilito/kubectl.nvim/releases/tag/v2.4.0), today) - ⎈ Streamline your Kubernetes management within Neovim—control and monitor your cluster seamlessly, all without leaving your coding environment.
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ([v0.0.27](https://github.com/yetone/avante.nvim/releases/tag/v0.0.27), 5 days ago) - Use your Neovim like using Cursor AI IDE!
 - [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim) ([v5.3.2](https://github.com/mistweaverco/kulala.nvim/releases/tag/v5.3.2), 1 week ago) - A fully-featured 🤏 HTTP-client 🐼 interface 🖥️ for Neovim ❤️.
 
