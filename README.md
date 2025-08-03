@@ -28,9 +28,9 @@ Checkout my skills at https://skills.oatnil.top/
 
 #### ⭐ Recent Starred Repositories
 
+- [quantizor/markdown-to-jsx](https://github.com/quantizor/markdown-to-jsx) - 🏭 The most lightweight, customizable React markdown component.
 - [brianhuster/unnest.nvim](https://github.com/brianhuster/unnest.nvim)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
-- [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
 
 #### 🚀 Latest releases I've contributed to
 
