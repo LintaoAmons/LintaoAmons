@@ -17,7 +17,7 @@ Checkout my skills at https://skills.oatnil.top/
 
 - [Docker vs Kubernetes 端口处理机制完全解析](https://oatnil.top/blogs/2025/07/25/docker-kubernetes-port-handling) (1 week ago)
 
-- [解决 Docker overlay2 目录占用大量磁盘空间的问题](https://oatnil.top/blogs/2025/07/24/docker-overlay2-clean-up) (1 week ago)
+- [解决 Docker overlay2 目录占用大量磁盘空间的问题](https://oatnil.top/blogs/2025/07/24/docker-overlay2-clean-up) (2 weeks ago)
 
 
 #### 👨‍💻 Repositories I created recently
@@ -34,7 +34,7 @@ Checkout my skills at https://skills.oatnil.top/
 
 #### 🚀 Latest releases I've contributed to
 
-- [Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim) ([v2.5.0](https://github.com/Ramilito/kubectl.nvim/releases/tag/v2.5.0), today) - ⎈ Streamline your Kubernetes management within Neovim—control and monitor your cluster seamlessly, all without leaving your coding environment.
+- [Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim) ([v2.5.0](https://github.com/Ramilito/kubectl.nvim/releases/tag/v2.5.0), 1 day ago) - ⎈ Streamline your Kubernetes management within Neovim—control and monitor your cluster seamlessly, all without leaving your coding environment.
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ([v0.0.27](https://github.com/yetone/avante.nvim/releases/tag/v0.0.27), 1 week ago) - Use your Neovim like using Cursor AI IDE!
 - [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim) ([v5.3.2](https://github.com/mistweaverco/kulala.nvim/releases/tag/v5.3.2), 2 weeks ago) - A fully-featured 🤏 HTTP-client 🐼 interface 🖥️ for Neovim ❤️.
 
