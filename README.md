@@ -28,9 +28,9 @@ Checkout my skills at https://skills.oatnil.top/
 
 #### ⭐ Recent Starred Repositories
 
+- [MotiaDev/motia](https://github.com/MotiaDev/motia) - Modern Backend Framework that unifies APIs, background jobs, workflows, and AI agents into a single cohesive system with built-in observability and state management.
 - [coder/claudecode.nvim](https://github.com/coder/claudecode.nvim) - 🧩 Claude Code Neovim IDE Extension
 - [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) - Sourcebot is a self-hosted tool that helps you understand your codebase.
-- [quantizor/markdown-to-jsx](https://github.com/quantizor/markdown-to-jsx) - 🏭 The most lightweight, customizable React markdown component.
 
 #### 🚀 Latest releases I've contributed to
 
