@@ -1,3 +1,5 @@
+> BTW, I use ghostty + tmux + nvim + claudecode.
+
 Hi, I’ m Lintao, a devops engineer specializing on fault-tolerant applications and Distributed Systems. 
 
 Well-versed in numerous technologies including Typescript, Java, Kotlin, Terraform, Kubernetes and Platform Engineering.
@@ -24,11 +26,6 @@ Checkout my skills at https://skills.oatnil.top/
 #### ⭐ Recent Starred Repositories
 {{range recentStars 3}}
 - [{{.Repo.Name}}]({{.Repo.URL}}){{ with .Repo.Description }} - {{.}}{{ end }}
-{{- end}}
-
-#### 🚀 Latest releases I've contributed to
-{{range recentReleases 3}}
-- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}){{ with .Description }} - {{.}}{{ end }}
 {{- end}}
 
 <a href="coff.ee/lintaoamond"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" height="20px"></a>
