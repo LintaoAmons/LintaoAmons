@@ -13,11 +13,11 @@ Checkout my skills at https://skills.oatnil.top/
 
 #### 📝 Recent Blog Posts
 
-- [高级 YAML 技巧：锚点与合并](https://oatnil.top/blogs/2025/07/25/advanced-yaml-techniques-anchors-merge) (1 week ago)
+- [通过 sql 经验学习 promql](https://oatnil.top/blogs/2025/08/07/learn-promql-from-sql-experiences) (today)
 
-- [Docker vs Kubernetes 端口处理机制完全解析](https://oatnil.top/blogs/2025/07/25/docker-kubernetes-port-handling) (1 week ago)
+- [AI provider 的配置收集](https://oatnil.top/blogs/2025/07/31/ai-providers) (1 week ago)
 
-- [解决 Docker overlay2 目录占用大量磁盘空间的问题](https://oatnil.top/blogs/2025/07/24/docker-overlay2-clean-up) (2 weeks ago)
+- [JavaScript 数组全面操作参考指南](https://oatnil.top/blogs/2025/07/29/js-array) (1 week ago)
 
 
 #### 👨‍💻 Repositories I created recently
