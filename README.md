@@ -15,7 +15,7 @@ Checkout my skills at https://skills.oatnil.top/
 
 #### 📝 Recent Blog Posts
 
-- [通过 sql 经验学习 promql](https://oatnil.top/blogs/2025/08/07/learn-promql-from-sql-experiences) (2 days ago)
+- [通过 sql 经验学习 promql](https://oatnil.top/blogs/2025/08/07/learn-promql-from-sql-experiences) (3 days ago)
 
 - [AI provider 的配置收集](https://oatnil.top/blogs/2025/07/31/ai-providers) (1 week ago)
 
