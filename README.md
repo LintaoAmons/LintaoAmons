@@ -19,7 +19,7 @@ Checkout my skills at https://skills.oatnil.top/
 
 - [AI provider 的配置收集](https://oatnil.top/blogs/2025/07/31/ai-providers) (2 weeks ago)
 
-- [JavaScript 数组全面操作参考指南](https://oatnil.top/blogs/2025/07/29/js-array) (2 weeks ago)
+- [JavaScript 数组全面操作参考指南](https://oatnil.top/blogs/2025/07/29/js-array) (3 weeks ago)
 
 
 #### 👨‍💻 Repositories I created recently
