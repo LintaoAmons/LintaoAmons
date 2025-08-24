@@ -30,9 +30,9 @@ Checkout my skills at https://skills.oatnil.top/
 
 #### ⭐ Recent Starred Repositories
 
+- [mrjackwills/oxker](https://github.com/mrjackwills/oxker) - A simple tui to view &amp; control docker containers 
 - [vercel/streamdown](https://github.com/vercel/streamdown) - A drop-in replacement for react-markdown, designed for AI-powered streaming.
 - [rmurphey/claude-setup](https://github.com/rmurphey/claude-setup)
-- [canalplus/rx-player](https://github.com/canalplus/rx-player) - DASH/Smooth HTML5 Video Player
 
 <a href="coff.ee/lintaoamond"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" height="20px"></a>
 <img src="https://komarev.com/ghpvc/?username=LintaoAmons" alt="views" />
