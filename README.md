@@ -15,7 +15,7 @@ Checkout my skills at https://skills.oatnil.top/
 
 #### 📝 Recent Blog Posts
 
-- [pg-views-performance-caching-and-more](https://oatnil.top/blogs/2025/09/03/pg-views-performance-caching-and-more) (3 days ago)
+- [pg-views-performance-caching-and-more](https://oatnil.top/blogs/2025/09/03/pg-views-performance-caching-and-more) (4 days ago)
 
 - [通过 sql 经验学习 promql](https://oatnil.top/blogs/2025/08/07/learn-promql-from-sql-experiences) (1 month ago)
 
