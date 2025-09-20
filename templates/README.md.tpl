@@ -1,4 +1,5 @@
-> BTW, I use ghostty + tmux + nvim + claudecode.
+> BTW, I use ghostty + tmux + nvim + claudecode(happy on mobile).
+> git worktree makes me even happier!
 
 Hi, I’ m Lintao, a devops engineer specializing on fault-tolerant applications and Distributed Systems. 
 
