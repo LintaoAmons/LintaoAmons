@@ -3,7 +3,7 @@
 
 Hi, I’ m Lintao, a devops engineer specializing on fault-tolerant applications and Distributed Systems. 
 
-Well-versed in numerous technologies including Typescript, Java, Kotlin, Terraform, Kubernetes and Platform Engineering.
+Well-versed in numerous technologies including Typescript, Go, Java, Kotlin, Terraform, Kubernetes and Platform Engineering.
 
 Checkout my skills at https://skills.oatnil.top/
 
