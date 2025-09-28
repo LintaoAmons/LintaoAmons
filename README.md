@@ -31,7 +31,7 @@ Checkout my skills at https://skills.oatnil.top/
 
 #### ⭐ Recent Starred Repositories
 
-- [folke/sidekick.nvim](https://github.com/folke/sidekick.nvim) - Copilot LSP next edit suggestions in Neovim 
+- [folke/sidekick.nvim](https://github.com/folke/sidekick.nvim) - Your Neovim AI sidekick
 - [mistweaverco/kulala-cli](https://github.com/mistweaverco/kulala-cli) - A fully-featured REST Client for your CLI.
 - [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
 
