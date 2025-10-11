@@ -31,9 +31,9 @@ Checkout my skills at https://skills.oatnil.top/
 
 #### ⭐ Recent Starred Repositories
 
+- [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry
 - [y3owk1n/time-machine.nvim](https://github.com/y3owk1n/time-machine.nvim) - Undo. Redo. Time travel. Take control of your edit history with an interactive timeline, diff previews, taggings, live reloading trees and cleanup functions.
 - [mason-org/mason-lspconfig.nvim](https://github.com/mason-org/mason-lspconfig.nvim) - Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.
-- [hedhyw/json-log-viewer](https://github.com/hedhyw/json-log-viewer) - Interactive viewer for JSON logs.
 
 <a href="coff.ee/lintaoamond"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" height="20px"></a>
 <img src="https://komarev.com/ghpvc/?username=LintaoAmons" alt="views" />
