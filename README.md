@@ -25,9 +25,9 @@ Checkout my skills at https://skills.oatnil.top/
 
 #### 👨‍💻 Repositories I created recently
 
+- [LintaoAmons/google-chat-bot](https://github.com/LintaoAmons/google-chat-bot)
 - [LintaoAmons/otel-promethus-grafana-metrics](https://github.com/LintaoAmons/otel-promethus-grafana-metrics)
 - [LintaoAmons/newear](https://github.com/LintaoAmons/newear) - A fully local and free audio transcription CLI tool - capture live system audio or transcribe video/audio files using local AI models.
-- [LintaoAmons/aider-snake](https://github.com/LintaoAmons/aider-snake) - a showcase repo for aider
 
 #### ⭐ Recent Starred Repositories
 
