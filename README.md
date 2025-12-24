@@ -3,7 +3,7 @@
 
 Hi, I’ m Lintao, a devops engineer specializing on fault-tolerant applications and Distributed Systems. 
 
-I recently working on a app called [undercontrol](https://ud.oatnil.top), you are will come to check it out!
+I recently working on a app called [undercontrol](https://ud.oatnil.top), you are welcome to check it out!
 
 <img width="1190" height="384" alt="image" src="https://github.com/user-attachments/assets/ad155b32-b117-40f0-9a70-3fb5390f2d51" />
 
