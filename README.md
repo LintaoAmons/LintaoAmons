@@ -3,9 +3,10 @@
 
 Hi, I’ m Lintao, a devops engineer specializing on fault-tolerant applications and Distributed Systems. 
 
-Well-versed in numerous technologies including Typescript, Go, Java, Kotlin, Terraform, Kubernetes and Platform Engineering.
+I recently working on a app called [undercontrol](https://ud.oatnil.top), you are will come to check it out!
 
-Checkout my skills at https://skills.oatnil.top/
+
+All by myself with AI. 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LintaoAmons&show_icons=true&theme=transparent" />    
@@ -13,27 +14,6 @@ Checkout my skills at https://skills.oatnil.top/
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LintaoAmons&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 </a>
-
-#### 📝 Recent Blog Posts
-
-- [pg-views-performance-caching-and-more](https://oatnil.top/blogs/2025/09/03/pg-views-performance-caching-and-more) (3 months ago)
-
-- [通过 sql 经验学习 promql](https://oatnil.top/blogs/2025/08/07/learn-promql-from-sql-experiences) (4 months ago)
-
-- [AI provider 的配置收集](https://oatnil.top/blogs/2025/07/31/ai-providers) (4 months ago)
-
-
-#### 👨‍💻 Repositories I created recently
-
-- [LintaoAmons/google-chat-bot](https://github.com/LintaoAmons/google-chat-bot)
-- [LintaoAmons/otel-promethus-grafana-metrics](https://github.com/LintaoAmons/otel-promethus-grafana-metrics)
-- [LintaoAmons/newear](https://github.com/LintaoAmons/newear) - A fully local and free audio transcription CLI tool - capture live system audio or transcribe video/audio files using local AI models.
-
-#### ⭐ Recent Starred Repositories
-
-- [esmuellert/vscode-diff.nvim](https://github.com/esmuellert/vscode-diff.nvim) - A Neovim plugin that provides VSCode-style side-by-side diff rendering with two-tier highlighting (line &#43; character level) using VSCode&#39;s algorithm implemented in C.
-- [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote) - Local-first AI Notepad for Private Meetings
-- [tom-draper/api-analytics](https://github.com/tom-draper/api-analytics) - Effortless monitoring and analytics for API frameworks.
 
 <a href="coff.ee/lintaoamond"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" height="20px"></a>
 <img src="https://komarev.com/ghpvc/?username=LintaoAmons" alt="views" />
