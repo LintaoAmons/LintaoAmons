@@ -8,9 +8,9 @@ I build tools that make everyday dev work faster — mostly around Neovim and th
 | Project | What it does |
 |---|---|
 | [nvim-config](https://github.com/LintaoAmons/nvim-config) | My personal Neovim configuration |
-| [bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) ⭐290 | Persistent bookmarks: hard disk of your thoughts |
-| [scratch.nvim](https://github.com/LintaoAmons/scratch.nvim) ⭐276 | Create temporary playground files effortlessly, find them later without naming worries |
-| [cd-project.nvim](https://github.com/LintaoAmons/cd-project.nvim) ⭐131 | Project management distilled to what you actually need: an easier `cd` |
+| [bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) | Persistent bookmarks: hard disk of your thoughts |
+| [scratch.nvim](https://github.com/LintaoAmons/scratch.nvim) | Create temporary playground files effortlessly, find them later without naming worries |
+| [cd-project.nvim](https://github.com/LintaoAmons/cd-project.nvim) | Project management distilled to what you actually need: an easier `cd` |
 
 ## 🛠 Other things I built
 
