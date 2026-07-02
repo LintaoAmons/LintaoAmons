@@ -14,15 +14,6 @@ I build tools that make everyday dev work faster — mostly around Neovim and th
 | [newear](https://github.com/LintaoAmons/newear) | Fully local, free audio transcription CLI powered by local AI models |
 | [dataflow](https://github.com/LintaoAmons/dataflow) | Visual data-flow editor for mapping JSON structures on an infinite canvas |
 
-## 📊 Stats
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LintaoAmons&show_icons=true&theme=transparent" />    
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LintaoAmons&layout=compact&langs_count=8&card_width=320&theme=transparent" />
-</a>
-
 > 🧰 BTW, I use ghostty + tmux + nvim + claudecode
 
 <a href="https://coff.ee/lintaoamond"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" height="20px"></a>
