@@ -3,17 +3,22 @@
 DevOps engineer specializing in fault-tolerant applications and distributed systems.
 I build tools that make everyday dev work faster — mostly around Neovim and the terminal.
 
-## 🛠 Things I built
+## 💚 Neovim
 
 | Project | What it does |
 |---|---|
+| [nvim-config](https://github.com/LintaoAmons/nvim-config) | My personal Neovim configuration |
 | [bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) ⭐290 | Persistent bookmarks: hard disk of your thoughts |
 | [scratch.nvim](https://github.com/LintaoAmons/scratch.nvim) ⭐276 | Create temporary playground files effortlessly, find them later without naming worries |
 | [cd-project.nvim](https://github.com/LintaoAmons/cd-project.nvim) ⭐131 | Project management distilled to what you actually need: an easier `cd` |
+
+## 🛠 Other things I built
+
+| Project | What it does |
+|---|---|
 | [Keyboard](https://github.com/LintaoAmons/Keyboard) | A key-binding visualization tool |
 | [newear](https://github.com/LintaoAmons/newear) | Fully local, free audio transcription CLI powered by local AI models |
 | [dataflow](https://github.com/LintaoAmons/dataflow) | Visual data-flow editor for mapping JSON structures on an infinite canvas |
-| [nvim-config](https://github.com/LintaoAmons/nvim-config) | My personal Neovim configuration |
 
 > 🧰 BTW, I use ghostty + tmux + nvim + claudecode
 
