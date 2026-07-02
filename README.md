@@ -13,6 +13,7 @@ I build tools that make everyday dev work faster — mostly around Neovim and th
 | [Keyboard](https://github.com/LintaoAmons/Keyboard) | A key-binding visualization tool |
 | [newear](https://github.com/LintaoAmons/newear) | Fully local, free audio transcription CLI powered by local AI models |
 | [dataflow](https://github.com/LintaoAmons/dataflow) | Visual data-flow editor for mapping JSON structures on an infinite canvas |
+| [nvim-config](https://github.com/LintaoAmons/nvim-config) | My personal Neovim configuration |
 
 > 🧰 BTW, I use ghostty + tmux + nvim + claudecode
 
