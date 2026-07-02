@@ -23,8 +23,7 @@ I build tools that make everyday dev work faster — mostly around Neovim and th
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LintaoAmons&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 </a>
 
-> 🧰 BTW, I use ghostty + tmux + nvim + claudecode (happy on mobile).
-> git worktree makes me even happier!
+> 🧰 BTW, I use ghostty + tmux + nvim + claudecode
 
 <a href="https://coff.ee/lintaoamond"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" height="20px"></a>
 <img src="https://komarev.com/ghpvc/?username=LintaoAmons" alt="views" />
